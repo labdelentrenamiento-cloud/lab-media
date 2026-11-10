@@ -17,6 +17,9 @@ Antes de hacer push: `git fetch origin main && git rebase origin/main`. Commits 
 - Etiqueta IA: YouTube NO (voz genérica + animación). Instagram SÍ (voz en off realista con IA). TikTok SÍ (`isAiGenerated: true`).
 - TikTok (decidido por Michelle): público, comentarios sí, música confirmada, etiqueta IA.
 
+## Producción
+Antes de elegir temas, leer el informe más reciente en `stats/` (sección "Para producción") y seguir sus recomendaciones de temas, formatos y ganchos.
+
 ## Publicación (orden por slot: YouTube H → Instagram H+1 → TikTok H+2)
 Slots actuales (America/Santiago): ver `queue.json` → `slots`. Se ajustan con las estadísticas semanales.
 
