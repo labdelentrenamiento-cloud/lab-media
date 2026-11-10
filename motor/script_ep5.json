@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Se puede ganar músculo a los noventa años? Un estudio lo puso a prueba.",
+   "show": "¿Se puede ganar músculo a los 90 años? Un estudio lo puso a prueba.",
+   "gap": 0.36
+  },
+  {
+   "shot": "loss",
+   "say": "Después de los treinta, perdemos entre tres y ocho por ciento de masa muscular por década.",
+   "show": "Después de los 30, perdemos entre 3 y 8 % de masa muscular por década.",
+   "gap": 0.36
+  },
+  {
+   "shot": "accel",
+   "say": "Y después de los sesenta, esa pérdida se acelera.",
+   "show": "Y después de los 60, esa pérdida se acelera.",
+   "gap": 0.36
+  },
+  {
+   "shot": "study",
+   "say": "En el estudio, diez personas frágiles de alrededor de noventa años entrenaron fuerza intensa durante ocho semanas.",
+   "show": "En el estudio, 10 personas frágiles de alrededor de 90 años entrenaron fuerza intensa durante 8 semanas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "strength",
+   "say": "Su fuerza aumentó, en promedio, un ciento setenta y cuatro por ciento.",
+   "show": "Su fuerza aumentó, en promedio, un 174 %.",
+   "gap": 0.36
+  },
+  {
+   "shot": "thigh",
+   "say": "El músculo del muslo creció un nueve por ciento.",
+   "show": "El músculo del muslo creció un 9 %.",
+   "gap": 0.36
+  },
+  {
+   "shot": "gait",
+   "say": "Y caminaron un cuarenta y ocho por ciento más rápido.",
+   "show": "Y caminaron un 48 % más rápido.",
+   "gap": 0.36
+  },
+  {
+   "shot": "payoff",
+   "say": "Tu músculo responde al entrenamiento a cualquier edad.",
+   "show": "Tu músculo responde al entrenamiento a cualquier edad.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Sígueme para más ciencia del entrenamiento.",
+   "show": "Sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

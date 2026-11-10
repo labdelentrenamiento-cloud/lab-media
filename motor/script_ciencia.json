@@ -1,0 +1,15 @@
+{
+ "title": "Qué le pasa a tu cuerpo cuando empiezas a entrenar fuerza",
+ "tail": 1.8,
+ "lines": [
+  {"shot": "hook", "chip": "", "say": "Si empiezas a entrenar fuerza hoy, esto es lo que le pasa a tu cuerpo.", "show": "Si empiezas a entrenar fuerza hoy, esto es lo que le pasa a tu cuerpo.", "gap": 0.35},
+  {"shot": "tears", "chip": "DÍA 1", "node": 0, "say": "Día uno. Mientras entrenas, se producen microlesiones en tus fibras musculares.", "show": "Día 1. Mientras entrenas, se producen microlesiones en tus fibras musculares."},
+  {"shot": "doms", "chip": "24 – 72 HORAS", "node": 1, "say": "Entre las veinticuatro y las setenta y dos horas, aparece el dolor muscular tardío.", "show": "Entre las 24 y las 72 horas, aparece el dolor muscular tardío."},
+  {"shot": "mps", "chip": "HASTA 48 HORAS", "node": 1, "say": "Al mismo tiempo, tu músculo fabrica más proteína para repararse, hasta cuarenta y ocho horas después.", "show": "Al mismo tiempo, tu músculo fabrica más proteína para repararse, hasta 48 horas después."},
+  {"shot": "bars1", "chip": "SEMANAS 1 – 4", "node": 2, "say": "Semanas uno a cuatro. Te vuelves más fuerte… pero tu músculo casi no ha crecido.", "show": "Semanas 1 a 4. Te vuelves más fuerte… pero tu músculo casi no ha crecido.", "gap": 0.28},
+  {"shot": "nerve", "chip": "SISTEMA NERVIOSO", "node": 2, "say": "¿Cómo? Tu sistema nervioso aprende a activar más fibras, y a coordinarlas mejor.", "show": "¿Cómo? Tu sistema nervioso aprende a activar más fibras, y a coordinarlas mejor."},
+  {"shot": "bars2", "chip": "SEMANA 6 +", "node": 3, "say": "Y desde la semana seis, más o menos, el músculo empieza a crecer de forma medible.", "show": "Y desde la semana 6, más o menos, el músculo empieza a crecer de forma medible."},
+  {"shot": "payoff", "chip": "", "node": 3, "say": "Así que, si no ves cambios en el espejo, no te rindas. Tu cerebro ya está entrenando.", "show": "Así que, si no ves cambios en el espejo, no te rindas. Tu cerebro ya está entrenando.", "gap": 0.4},
+  {"shot": "cta", "chip": "", "node": 3, "say": "Sígueme para más ciencia del entrenamiento.", "show": "Sígueme para más ciencia del entrenamiento."}
+ ]
+}

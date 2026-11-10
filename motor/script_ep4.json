@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Por qué hay gente flaca que levanta mucho más peso de lo que parece?",
+   "show": "¿Por qué hay gente flaca que levanta mucho más peso de lo que parece?",
+   "gap": 0.36
+  },
+  {
+   "shot": "size",
+   "say": "Porque la fuerza no depende solo del tamaño del músculo.",
+   "show": "Porque la fuerza no depende solo del tamaño del músculo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "nerve",
+   "say": "Uno: tu sistema nervioso. Decide cuántas fibras activas, y qué tan rápido las disparas.",
+   "show": "Uno: tu sistema nervioso. Decide cuántas fibras activas, y qué tan rápido las disparas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cross",
+   "say": "La prueba: si entrenas solo una pierna, la otra también gana fuerza, cerca de un doce por ciento, sin entrenarla.",
+   "show": "La prueba: si entrenas solo una pierna, la otra también gana fuerza, cerca de un 12 %, sin entrenarla.",
+   "gap": 0.36
+  },
+  {
+   "shot": "skill",
+   "say": "Dos: la técnica. Levantar es una habilidad, y tu cerebro la perfecciona con la práctica.",
+   "show": "Dos: la técnica. Levantar es una habilidad, y tu cerebro la perfecciona con la práctica.",
+   "gap": 0.36
+  },
+  {
+   "shot": "physics",
+   "say": "Tres: la física. Cuando el cuerpo crece, la fuerza aumenta más lento que el peso.",
+   "show": "Tres: la física. Cuando el cuerpo crece, la fuerza aumenta más lento que el peso.",
+   "gap": 0.36
+  },
+  {
+   "shot": "relative",
+   "say": "Por eso, en relación con su peso, las personas livianas suelen ser más fuertes.",
+   "show": "Por eso, en relación con su peso, las personas livianas suelen ser más fuertes.",
+   "gap": 0.36
+  },
+  {
+   "shot": "payoff",
+   "say": "Así que nunca juzgues la fuerza por el tamaño.",
+   "show": "Así que nunca juzgues la fuerza por el tamaño.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Sígueme para más ciencia del entrenamiento.",
+   "show": "Sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

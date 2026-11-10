@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "title",
+   "say": "Si quisieras tener huesos frágiles a los sesenta y cinco, harías exactamente esto.",
+   "show": "Si quisieras tener huesos frágiles a los 65, harías exactamente esto.",
+   "gap": 0.38
+  },
+  {
+   "shot": "err1",
+   "say": "Uno: pasar el día sin moverte. El hueso se fortalece cuando recibe carga.",
+   "show": "Uno: pasar el día sin moverte. El hueso se fortalece cuando recibe carga.",
+   "gap": 0.38
+  },
+  {
+   "shot": "astro",
+   "say": "Sin carga, se debilita: en el espacio, los astronautas pierden entre uno y uno coma cinco por ciento de densidad ósea al mes.",
+   "show": "Sin carga, se debilita: en el espacio, los astronautas pierden entre 1 y 1,5 % de densidad ósea al mes.",
+   "gap": 0.38
+  },
+  {
+   "shot": "err2",
+   "say": "Dos: nunca levantar peso ni saltar. La fuerza y el impacto son el estímulo que construye hueso.",
+   "show": "Dos: nunca levantar peso ni saltar. La fuerza y el impacto son el estímulo que construye hueso.",
+   "gap": 0.38
+  },
+  {
+   "shot": "peak",
+   "say": "Tres: creer que tienes tiempo. Tu masa ósea máxima la alcanzas alrededor de los treinta años.",
+   "show": "Tres: creer que tienes tiempo. Tu masa ósea máxima la alcanzas alrededor de los 30 años.",
+   "gap": 0.38
+  },
+  {
+   "shot": "meno",
+   "say": "Y en los cinco a siete años después de la menopausia, una mujer puede perder hasta un veinte por ciento de su densidad ósea.",
+   "show": "Y en los 5 a 7 años después de la menopausia, una mujer puede perder hasta un 20 % de su densidad ósea.",
+   "gap": 0.38
+  },
+  {
+   "shot": "study",
+   "say": "La buena noticia: en un estudio, mujeres posmenopáusicas con baja masa ósea entrenaron fuerza intensa e impacto, supervisadas, dos veces por semana durante ocho meses.",
+   "show": "La buena noticia: en un estudio, mujeres posmenopáusicas con baja masa ósea entrenaron fuerza intensa e impacto, supervisadas, 2 veces por semana durante 8 meses.",
+   "gap": 0.38
+  },
+  {
+   "shot": "result",
+   "say": "Y mejoraron más su densidad ósea en la columna y la cadera que quienes hicieron ejercicio suave.",
+   "show": "Y mejoraron más su densidad ósea en la columna y la cadera que quienes hicieron ejercicio suave.",
+   "gap": 0.38
+  },
+  {
+   "shot": "cta",
+   "say": "Tus huesos también se entrenan. Sígueme para más ciencia del entrenamiento.",
+   "show": "Tus huesos también se entrenan. Sígueme para más ciencia del entrenamiento.",
+   "gap": 0.38
+  }
+ ]
+}
