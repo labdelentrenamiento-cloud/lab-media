@@ -142,8 +142,9 @@
     "status": "pending"
    },
    "synced_to_pc": false,
-   "file_ready": false,
-   "evidenceNote": "2026-11-11: cifras corregidas (piloto 1990 → ensayo 1994 → metaanálisis 2020). La versión corregida existe solo en el panel; hay que re-renderizarla y subirla al repo antes de publicar."
+   "file_ready": true,
+   "evidenceNote": "2026-11-11: cifras corregidas (piloto 1990 → ensayo 1994 → metaanálisis 2020). La versión corregida existe solo en el panel; hay que re-renderizarla y subirla al repo antes de publicar.",
+   "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 52 s, guion verificado sin cambios)."
   },
   {
    "id": "v007",
