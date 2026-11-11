@@ -24,7 +24,19 @@ Antes de elegir temas, leer el informe más reciente en `stats/` (sección "Para
 ## Publicación (orden por slot: YouTube H → Instagram H+1 → TikTok H+2)
 Slots actuales (America/Santiago): ver `queue.json` → `slots`. Se ajustan con las estadísticas semanales.
 
-### YouTube (Chrome de Michelle, extensión Claude in Chrome)
+Desde el 2026-11-11 TODO se publica con vidIQ, en la nube (Michelle decidió no depender del computador). Cuentas conectadas en vidIQ (`vidiq_social_account_list`):
+- YouTube: platformAccountId `UC-FvbgKGTDuGtCBt5SLRZgA` (@labdelentrenamiento)
+- Instagram: platformAccountId `29194008733571171` (labdelentrenamiento)
+- TikTok: platformAccountId `_000GSl62CkrNcegWeVPUh6LPcRlcItlafJk`
+Si una cuenta aparece con canPublish false o la conexión expiró, NO publiques en esa red: deja `pending` y avisa a Michelle con el enlace de reconexión (`vidiq_social_account_connect` para Instagram/TikTok, `vidiq_connect_youtube_channel` para YouTube).
+
+### YouTube (vidIQ)
+1. `vidiq_video_upload` con RAW_URL → uploadId.
+2. `vidiq_social_post_draft_create`: media `[{type:"video", id:uploadId}]`, destino YOUTUBE con title (con #shorts), text = descripción (caption + "Fuentes:" (lista) + "Lab del Entrenamiento: ciencia del entrenamiento en menos de 1 minuto. Sígueme para más." + hashtags), privacyStatus `public`, categoryId 27, tags (5–6 palabras clave) y `publishAt` = H con -03:00 (queda privado y YouTube lo hace público a esa hora). Si el slot ya pasó: sin publishAt (público inmediato).
+3. `vidiq_social_post_publish` con postId y revision → `vidiq_social_post_status` hasta tener postUrl. Guardar `vidiq_post` y url (status "scheduled" si tiene publishAt, "published" si salió).
+4. Duplicados: antes de subir, si el video ya tiene `vidiq_post`, consulta su estado en vez de crear otro; `vidiq_channel_videos` (Shorts, 5 créditos) muestra lo ya publicado.
+
+### YouTube (método antiguo con Chrome — solo respaldo)
 La subida de archivos con la herramienta file_upload está bloqueada; usar este método en la página:
 1. Abrir `https://studio.youtube.com/channel/UC-FvbgKGTDuGtCBt5SLRZgA/videos/upload?d=ud`.
 2. javascript_tool: `const b=await (await fetch(RAW_URL)).blob(); const f=new File([b],NOMBRE,{type:'video/mp4'}); const dt=new DataTransfer(); dt.items.add(f); const i=document.querySelector('input[type=file]'); i.files=dt.files; i.dispatchEvent(new Event('change',{bubbles:true}));`
@@ -33,7 +45,13 @@ La subida de archivos con la herramienta file_upload está bloqueada; usar este 
 5. `#next-button` x3 → Visibilidad → expandir "Programar" → fecha/hora del slot (campo hora: triple click, escribir "h:mm p.m.", Enter) → "Programar". Si el slot ya pasó: Público → Publicar.
 6. Leer el enlace del diálogo final y guardarlo en queue.json.
 
-### Instagram (Chrome, a la hora H+1 — la web no permite programar)
+### Instagram (vidIQ, a la hora H+1)
+1. Duplicados: `vidiq_instagram_owner_insights` (platformAccountId de arriba, mode `media`, metrics `["views"]`, gratis) lista los reels publicados; si el del video ya está, solo guarda su permalink.
+2. `vidiq_video_upload` con RAW_URL → videoUrl (firmado de vidIQ).
+3. `vidiq_instagram_publish_reel` con platformAccountId, videoUrl, caption = caption + "📚 Fuentes:" + fuentes + "Sígueme para más ciencia del entrenamiento 🔬" + hashtags, e `isAiGenerated: true` (etiqueta IA, regla de Michelle). Devuelve containerId con IN_PROGRESS: espera ~15 s y vuelve a llamar solo con platformAccountId + containerId hasta PUBLISHED. Nunca crees otro contenedor para el mismo video; si da error, déjalo `pending` y anota el error.
+4. Guarda el permalink como `https://www.instagram.com/labdelentrenamiento/reel/<shortcode>/` (status "published") y haz push.
+
+### Instagram (método antiguo con Chrome — solo respaldo)
 1. `https://www.instagram.com/labdelentrenamiento/` → Crear → Publicación.
 2. En el diálogo, inyectar el MP4 igual que en YouTube en el `input[type=file]` del diálogo.
 3. Recortar: elegir **Original** (NO 1:1). Siguiente → portada = primer cuadro, sonido activado → Siguiente.
@@ -42,8 +60,8 @@ La subida de archivos con la herramienta file_upload está bloqueada; usar este 
 ### TikTok (vidIQ, en la nube; no necesita el computador)
 `vidiq_video_upload` con RAW_URL → `vidiq_social_post_draft_create` (destino TIKTOK, platformAccountId `_000GSl62CkrNcegWeVPUh6LPcRlcItlafJk`, ajustes de `tiktok_settings`, `publishAt` = H+2 con zona -03:00) → `vidiq_social_post_publish`.
 
-### Si el computador/Chrome no responde
-Publicar en TikTok igual (vidIQ) y dejar YouTube/Instagram en `pending`; el siguiente run los recupera antes de tomar videos nuevos. Nunca publicar el mismo video dos veces en la misma red.
+### Si vidIQ falla en una red
+Publicar en las demás redes igual y dejar la que falló en `pending`; el siguiente run la recupera antes de tomar videos nuevos. Nunca publicar el mismo video dos veces en la misma red.
 
 ## Copia en el computador
 Carpeta: `C:\Users\usuario\Videos\Lab del Entrenamiento\1_por_subir\`. Con las herramientas mcp__remote-devices__ (si responden): descargar el MP4 desde RAW_URL a /mnt/user-data/outputs/ y `device_commit_files`. Marcar `synced_to_pc: true`. Si el computador está apagado, dejar `false` y reintentar en el siguiente run.
