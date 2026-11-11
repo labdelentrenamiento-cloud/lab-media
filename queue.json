@@ -99,9 +99,10 @@
         "ai_label": true
       },
       "tiktok": {
-        "status": "scheduled",
+        "status": "published",
         "vidiq_post": "31e58699-5e84-4245-b88c-4d90e2226a2d",
-        "publishAt": "2026-11-11T18:00:00-03:00"
+        "url": "https://www.tiktok.com/@labdelentrenamiento/video/7707021603468627208",
+        "via": "vidIQ"
       },
       "synced_to_pc": false,
       "file_ready": true,
@@ -120,7 +121,11 @@
       "hashtags": "#fuerza #gym #sistemanervioso #cienciadelentrenamiento #fitness",
       "slot": "2026-11-11T20:00:00-03:00",
       "youtube": {
-        "status": "pending"
+        "status": "scheduled",
+        "via": "vidIQ",
+        "vidiq_post": "1383a73c-2d89-4daa-97d4-26a0beff44ec",
+        "publishAt": "2026-11-11T20:00:00-03:00",
+        "uploadId": "44214add-afe6-4535-9de0-b0213740f391"
       },
       "instagram": {
         "status": "pending"
