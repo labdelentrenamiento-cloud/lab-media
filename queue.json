@@ -87,11 +87,16 @@
    "hashtags": "#cerebro #caminar #neurociencia #cienciadelentrenamiento #salud",
    "slot": "2026-11-11T16:00:00-03:00",
    "youtube": {
-    "status": "pending",
-    "note": "2026-11-11 16:00 run: Claude in Chrome no disponible en la ejecución programada; queda pending para recuperar en el siguiente run."
+    "status": "published",
+    "url": "https://youtube.com/shorts/Jj8k8zofZjo",
+    "via": "vidIQ",
+    "vidiq_post": "6c45f9d5-759a-4e51-b1af-26a42f8a5948"
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DfnVOvghu3m/",
+    "via": "vidIQ",
+    "ai_label": true
    },
    "tiktok": {
     "status": "scheduled",
