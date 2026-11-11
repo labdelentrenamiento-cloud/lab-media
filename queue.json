@@ -57,12 +57,14 @@
    "hashtags": "#huesos #osteoporosis #entrenamientodefuerza #cienciadelentrenamiento #salud",
    "slot": "2026-11-11T12:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "url": "https://youtube.com/shorts/nTmgceYnX2E"
    },
    "instagram": {
-    "status": "pending",
-    "url": null
+    "status": "published",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DfnVBt2hfuk/",
+    "via": "vidIQ",
+    "ai_label": true
    },
    "tiktok": {
     "status": "published",
