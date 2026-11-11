@@ -93,8 +93,9 @@
     "status": "pending"
    },
    "synced_to_pc": false,
-   "file_ready": false,
-   "evidenceNote": "2026-11-11: guion corregido ('estudio famoso vs. evidencia actual') según Firth 2018 y Balbim 2024. La versión corregida existe solo en el panel; hay que re-renderizarla y subirla al repo antes de publicar."
+   "file_ready": true,
+   "evidenceNote": "2026-11-11: guion corregido ('estudio famoso vs. evidencia actual') según Firth 2018 y Balbim 2024. La versión corregida existe solo en el panel; hay que re-renderizarla y subirla al repo antes de publicar.",
+   "recovered": "2026-11-11: MP4 recuperado desde el panel (versión corregida y aprobada, render del motor LAB, 51 s, sha256 0e3ac125…)."
   },
   {
    "id": "v004",
