@@ -195,8 +195,8 @@
     "status": "pending"
    },
    "synced_to_pc": false,
-   "file_ready": false,
-   "note": "Producido el 11 nov; el MP4 quedó solo en el panel (assets) porque la tarea antigua no podía subir al repo. Re-renderizar desde el guion del panel (db videos/v008) y subir aquí; luego file_ready true."
+   "file_ready": true,
+   "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 42 s, guion verificado sin cambios)."
   },
   {
    "id": "v009",
