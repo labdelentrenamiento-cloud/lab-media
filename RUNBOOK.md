@@ -6,8 +6,9 @@ Repositorio público: `labdelentrenamiento-cloud/lab-media` (rama `main`).
 - `motor/` — motor de video (engine.py, engine_ext.py, audio.py, vo.py, render_*.py, script_*.json, LEEME.txt).
 - `stats/` — informes semanales de estadísticas y horarios (`stats/AAAA-MM-DD.md`).
 
-Clonar: `git clone --depth 1 https://github.com/labdelentrenamiento-cloud/lab-media /home/claude/lab-media` (timeout ~10 min).
-Antes de hacer push: `git fetch origin main && git rebase origin/main`. Commits con user.name "Lab del Entrenamiento", user.email "labdelentrenamiento@gmail.com".
+Git en las tareas programadas: el repo YA viene clonado en /home/claude/lab-media (HEAD suelto). NO llames add_repo. Antes de trabajar: `cd /home/claude/lab-media && git fetch origin main && git checkout -B main origin/main` (si la carpeta no existe: `git clone --depth 1 https://github.com/labdelentrenamiento-cloud/lab-media /home/claude/lab-media`). Para guardar: `git add -A && git commit -m "..." && git fetch origin main && git rebase origin/main && git push origin HEAD:main`. Commits con user.name "Lab del Entrenamiento", user.email "labdelentrenamiento@gmail.com". Si el push falla, NO publiques nada que dependa de ese cambio y avisa a Michelle.
+
+Regla de seguridad: queue.json es la única fuente de verdad. Solo se publican videos con `file_ready: true`. Guarda el estado (push) inmediatamente después de cada publicación, antes de pasar a la siguiente.
 
 ## Reglas de contenido (Michelle)
 - Estilo = video n.º 3 (Huesos): holograma LAB, HUD, datos con fuente en pantalla, subtítulos palabra por palabra. No cambiar las ideas/temas del canal (ciencia del entrenamiento: fuerza, músculo, huesos, cerebro, salud, rendimiento).
