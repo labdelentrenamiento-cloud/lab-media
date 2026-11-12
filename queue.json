@@ -324,6 +324,31 @@
       },
       "synced_to_pc": false,
       "file_ready": true
+    },
+    {
+      "id": "v013",
+      "file": "videos/v013_Pesas_ligeras_vs_pesadas_LAB.mp4",
+      "title": "¿Pesas ligeras o pesadas para ganar músculo? La ciencia las comparó #shorts",
+      "caption": "¿Pesas ligeras o pesadas? 🏋️ Un metaanálisis de 21 estudios comparó cargas bajas (hasta el 60 % de tu máximo) con cargas altas, siempre llevando las series al fallo: el músculo creció de forma similar, pero la fuerza máxima (1RM) subió más con cargas altas. Un metaanálisis en red de 2021 (28 estudios, 747 adultos) llegó a lo mismo. Con peso liviano necesitas más de 15 repeticiones para llegar a ese esfuerzo. Músculo: la carga que manejes bien. Fuerza máxima: entrena pesado.",
+      "sources": [
+        "Schoenfeld et al. (2017), J Strength Cond Res – 21 estudios – doi:10.1519/JSC.0000000000002200",
+        "Lopez et al. (2021), Med Sci Sports Exerc – 28 estudios, 747 adultos – doi:10.1249/MSS.0000000000002585",
+        "Schoenfeld et al. (2016), Eur J Sport Sci – doi:10.1080/17461391.2014.989922"
+      ],
+      "hashtags": "#hipertrofia #pesas #fuerza #gimnasio #cienciadelentrenamiento",
+      "created": "2026-11-12T02:30:35-03:00",
+      "slot": null,
+      "youtube": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "tiktok": {
+        "status": "pending"
+      },
+      "synced_to_pc": false,
+      "file_ready": true
     }
   ]
 }

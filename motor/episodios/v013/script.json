@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Pesas ligeras o pesadas para ganar músculo? La ciencia las comparó.",
+   "show": "¿Pesas ligeras o pesadas para ganar músculo? La ciencia las comparó.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis de veintiún estudios enfrentó cargas bajas, de hasta el sesenta por ciento de tu máximo, contra cargas altas.",
+   "show": "Un metaanálisis de 21 estudios enfrentó cargas bajas, de hasta el 60 % de tu máximo, contra cargas altas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "rule",
+   "say": "La regla: todas las series se hicieron hasta el fallo muscular.",
+   "show": "La regla: todas las series se hicieron hasta el fallo muscular.",
+   "gap": 0.36
+  },
+  {
+   "shot": "muscle",
+   "say": "Resultado: el músculo creció de forma similar con ambas.",
+   "show": "Resultado: el músculo creció de forma similar con ambas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "strength",
+   "say": "Pero la fuerza máxima subió más con las pesas pesadas.",
+   "show": "Pero la fuerza máxima subió más con las pesas pesadas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "confirm",
+   "say": "En dos mil veintiuno, otro análisis de veintiocho estudios y setecientos cuarenta y siete adultos llegó a lo mismo.",
+   "show": "En 2021, otro análisis de 28 estudios y 747 adultos llegó a lo mismo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "reps",
+   "say": "Con peso liviano harás más de quince repeticiones para llegar a ese esfuerzo.",
+   "show": "Con peso liviano harás más de 15 repeticiones para llegar a ese esfuerzo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "payoff",
+   "say": "Si buscas músculo, usa la carga que manejes bien. Si buscas fuerza máxima, entrena pesado.",
+   "show": "Si buscas músculo, usa la carga que manejes bien. Si buscas fuerza máxima, entrena pesado.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Sígueme para más ciencia del entrenamiento.",
+   "show": "Sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
