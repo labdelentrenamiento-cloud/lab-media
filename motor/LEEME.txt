@@ -10,3 +10,5 @@ Uso en una sesión nueva (Linux, Python 3):
 7) Previsualizar: python3 render.py preview 3 10 20 ...  y MIRAR las imágenes antes de renderizar.
 8) Render: python3 render.py part 0 2 & python3 render.py part 1 2 & wait; concatenar con ffmpeg concat; audio: python3 /home/claude/lab/audio.py timeline.json mix.wav; unir con -map 0:v -map 1:a -c:v copy -c:a aac.
 Estilo: fondo azul noche con grilla, cian #3ef0ff, verde #58f29a, rojo #ff5d73, ámbar #ffc24b, violeta #9b8cff; títulos Anton; datos en DejaVu Sans Mono; HUD “LAB · CIENCIA DEL ENTRENAMIENTO”, REC, barra de progreso por escenas; fuente científica en pantalla.
+
+ENCUADRE Y CTA (nov 2026): engine_ext.run_episode ya baja el contenido 90 px (SHIFT_Y), pone subtítulos en y=1490 y dibuja en la última escena los botones COMPÁRTELO / GUÁRDALO (share_cta). Deja la mitad inferior de la última escena (y>1180) libre para esos botones. Cierre del guion: 'Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.' Portada: motor/cover.py (estilo video por defecto).

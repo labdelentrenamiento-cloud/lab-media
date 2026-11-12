@@ -254,7 +254,10 @@
    "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 42 s, guion verificado sin cambios).",
    "cover": "UNA NOCHE|*SIN DORMIR*|Y TU MÚSCULO",
    "cover_png": "portadas/v008_portada.png",
-   "cover_in_video": true
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   },
   {
    "id": "v009",
@@ -283,7 +286,10 @@
    "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 45 s, guion verificado sin cambios).",
    "cover": "¿ESTAR FUERA DE FORMA|ES TAN RIESGOSO|COMO *FUMAR*?",
    "cover_png": "portadas/v009_portada.png",
-   "cover_in_video": true
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   },
   {
    "id": "v010",
@@ -311,7 +317,10 @@
    "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 44 s, guion verificado sin cambios).",
    "cover": "¿REPETICIONES|*LENTAS* PARA|MÁS MÚSCULO?",
    "cover_png": "portadas/v010_portada.png",
-   "cover_in_video": true
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   },
   {
    "id": "v011",
@@ -340,7 +349,10 @@
    "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 45 s, guion verificado sin cambios).",
    "cover": "¿1 KG DE MÚSCULO|QUEMA *50 KCAL*|AL DÍA?",
    "cover_png": "portadas/v011_portada.png",
-   "cover_in_video": true
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   },
   {
    "id": "v012",
@@ -369,7 +381,10 @@
    "file_ready": true,
    "cover": "¿DE VERDAD|NECESITAS|*10.000 PASOS*?",
    "cover_png": "portadas/v012_portada.png",
-   "cover_in_video": true
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   },
   {
    "id": "v013",
@@ -397,7 +412,10 @@
    "file_ready": true,
    "cover": "¿PESAS *LIGERAS*|O *PESADAS*?|LA CIENCIA COMPARÓ",
    "cover_png": "portadas/v013_portada.png",
-   "cover_in_video": true
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   },
   {
    "id": "v014",
@@ -426,7 +444,10 @@
    "file_ready": true,
    "cover": "¿3 SEMANAS|*SIN ENTRENAR*?|QUÉ LE PASA A TU CUERPO",
    "cover_png": "portadas/v014_portada.png",
-   "cover_in_video": true
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   },
   {
    "id": "v015",
@@ -453,7 +474,10 @@
    "file_ready": true,
    "cover": "¿ENTRENAR *DE NOCHE*|ARRUINA|TU SUEÑO?",
    "cover_png": "portadas/v015_portada.png",
-   "cover_in_video": true
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   },
   {
    "id": "v016",
@@ -481,7 +505,10 @@
    "file_ready": true,
    "cover": "¿CUÁNTOS MINUTOS|DE *PESAS*|PARA VIVIR MÁS?",
    "cover_png": "portadas/v016_portada.png",
-   "cover_in_video": true
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ]
 }

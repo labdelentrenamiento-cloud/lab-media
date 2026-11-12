@@ -4,6 +4,33 @@ from engine import *
 
 
 # ---------------------------------------------------------------- generic runner
+SHIFT_Y = 90   # baja el contenido para que quede centrado en el recorte 4:5 de Instagram (zona segura y 300–1620)
+
+
+def share_cta(ctx, a, y=1205):
+    """Llamado a compartir/guardar en la escena final (dibujado por el motor en todos los episodios)."""
+    if a <= 0:
+        return
+    items = [("COMPÁRTELO CON QUIEN LO NECESITE", CY), ("GUÁRDALO PARA DESPUÉS", AM)]
+    for k, (s, col) in enumerate(items):
+        yy = y + k * 96
+        font(ctx, F_UI, 34, True)
+        tw = ctx.text_extents(s).x_advance; pw = tw + 120; ph = 70; x0 = W / 2 - pw / 2
+        rrect(ctx, x0, yy, pw, ph, ph / 2)
+        ctx.set_source_rgba(0.02, 0.05, 0.12, 0.88 * a); ctx.fill_preserve()
+        ctx.set_source_rgba(*col, 0.95 * a); ctx.set_line_width(3); ctx.stroke()
+        ix, iy = x0 + 42, yy + ph / 2
+        ctx.set_source_rgba(*col, a); ctx.set_line_width(4)
+        if k == 0:   # flecha de compartir
+            ctx.move_to(ix - 12, iy + 12); ctx.line_to(ix + 12, iy - 12); ctx.stroke()
+            ctx.move_to(ix - 2, iy - 13); ctx.line_to(ix + 13, iy - 13); ctx.line_to(ix + 13, iy + 2); ctx.stroke()
+        else:        # marcador (guardar)
+            ctx.move_to(ix - 10, iy - 15); ctx.line_to(ix + 10, iy - 15); ctx.line_to(ix + 10, iy + 15)
+            ctx.line_to(ix, iy + 6); ctx.line_to(ix - 10, iy + 15); ctx.close_path(); ctx.stroke()
+        ctx.set_source_rgba(1, 1, 1, a)
+        ctx.move_to(x0 + 78, yy + ph / 2 + 12); ctx.show_text(s)
+
+
 def run_episode(neon_fn, text_fn, label, focus_y=820):
     TL = json.load(open("timeline.json"))
     LINES = TL["lines"]; TOTAL = TL["total"]
@@ -29,14 +56,17 @@ def run_episode(neon_fn, text_fn, label, focus_y=820):
         base = BG8.copy(); bs, bctx = surf_from(base); draw_grid(bctx, t); bs.flush()
         neon = np.zeros((H, W, 4), np.uint8); ns, nctx = surf_from(neon)
         punch = 1 + 0.06 * (1 - ease(u / 0.35))
+        nctx.translate(0, SHIFT_Y)
         nctx.translate(W / 2, focus_y); nctx.scale(punch, punch); nctx.translate(-W / 2, -focus_y)
         neon_fn(nctx, i, u, d, t, lt); ns.flush()
         comp = glow_composite(base.astype(np.float32) / 255.0, neon)
         out = np.zeros((H, W, 4), np.uint8); out[..., :3] = (comp * 255).astype(np.uint8); out[..., 3] = 255
         os_, octx = surf_from(out)
-        octx.save(); octx.translate(W / 2, focus_y); octx.scale(punch, punch); octx.translate(-W / 2, -focus_y)
+        octx.save(); octx.translate(0, SHIFT_Y); octx.translate(W / 2, focus_y); octx.scale(punch, punch); octx.translate(-W / 2, -focus_y)
         text_fn(octx, i, u, d, t, lt); octx.restore()
-        captions(octx, WORDS, t)
+        if i == len(LINES) - 1:
+            share_cta(octx, clamp((u - 0.4) / 0.5))
+        captions(octx, WORDS, t, y=1490)
         hud(octx, t, i, len(LINES), clamp(u / d), label)
         if i > 0 and u < 0.22:
             f = 1 - u / 0.22; sy = u / 0.22 * H

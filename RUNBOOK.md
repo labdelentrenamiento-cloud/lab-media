@@ -22,12 +22,18 @@ Regla de seguridad: queue.json es la única fuente de verdad. Solo se publican v
 Antes de elegir temas, leer el informe más reciente en `stats/` (sección "Para producción") y seguir sus recomendaciones de temas, formatos y ganchos.
 
 ## Portada (obligatoria en cada video)
-Instagram y TikTok usan el PRIMER cuadro del video como portada, y la grilla del perfil de Instagram recorta al centro 3:4. Por eso cada video lleva una portada propia como primeros 0,2 s:
+Estilo de portada = el mismo del video (fondo azul noche con grilla, holograma nítido, neón cian/verde/ámbar): `--estilo video` (por defecto). Instagram y TikTok usan el PRIMER cuadro del video como portada, y la grilla del perfil de Instagram recorta al centro 3:4. Por eso cada video lleva una portada propia como primeros 0,2 s:
 `python3 motor/cover.py videos/vNNN_X_LAB.mp4 "LÍNEA 1|LÍNEA *CLAVE*|LÍNEA 3" videos/vNNN_X_LAB.mp4 --png portadas/vNNN_portada.png`
+- Texto centrado en la zona que muestra Instagram (feed 4:5 y grilla 3:4).
 - 2–3 líneas cortas en MAYÚSCULAS con el gancho (pregunta o promesa), 1–2 palabras clave entre *asteriscos* (van en ámbar). Nada de spoilers del resultado en el texto.
 - Revisa la PNG antes de guardar: texto completo, sin superposiciones, legible en miniatura, colores cálidos (no todo azul).
 - En queue.json: `cover` (texto), `cover_png` y `cover_in_video: true`. No publiques un video sin `cover_in_video: true`.
 - YouTube: si la API/Studio lo permite, usar portadas/vNNN_portada.png como miniatura.
+
+## Encuadre e interacción (pedido de Michelle)
+- Centrado: Instagram muestra los Reels recortados a 4:5 en el feed (se pierden ~285 px arriba y abajo). El motor ya baja todo el contenido 90 px (`SHIFT_Y` en engine_ext.py) y pone los subtítulos en y=1490. Al revisar la hoja de contacto, todo lo importante (títulos, datos, fuentes) debe quedar entre y≈300 y y≈1620, y nada importante en los 140 px de la derecha (botones de Instagram/TikTok).
+- Compartir: el motor dibuja en la escena final "COMPÁRTELO CON QUIEN LO NECESITE" y "GUÁRDALO PARA DESPUÉS". La última frase del guion es: "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento."
+- Caption (Instagram y TikTok) y descripción (YouTube), en este orden: gancho + resumen breve → una PREGUNTA para comentar relacionada con el tema (p. ej. "¿Cuánto descansas tú entre series? 👇") → "📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento" → "📚 Fuentes:" → "Sígueme para más ciencia del entrenamiento 🔬" → hashtags.
 
 ## Publicación (orden por slot: YouTube H → Instagram H+1 → TikTok H+2)
 Slots actuales (America/Santiago): ver `queue.json` → `slots`. Se ajustan con las estadísticas semanales.
