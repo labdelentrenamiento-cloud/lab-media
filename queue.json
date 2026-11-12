@@ -129,7 +129,11 @@
         "url": "https://youtube.com/shorts/0zQ-3XDLPTM"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "url": "https://www.instagram.com/labdelentrenamiento/reel/DfnuLNcB05w/",
+        "via": "vidIQ",
+        "ai_label": true,
+        "mediaId": "18147325402595471"
       },
       "tiktok": {
         "status": "scheduled",
