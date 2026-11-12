@@ -162,13 +162,17 @@
     "via": "vidIQ",
     "vidiq_post": "cf5be899-0491-4239-afa7-bee06e93bf91",
     "publishAt": "2026-11-12T12:00:00-03:00",
-    "uploadId": "c07c4132-e5fb-40b5-8e9a-a01b8ae252d4"
+    "uploadId": "c07c4132-e5fb-40b5-8e9a-a01b8ae252d4",
+    "url": "https://youtube.com/shorts/IS9mrcdF8k4"
    },
    "instagram": {
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "a2c0810e-01c6-4c14-9ee6-78040ff201ea",
+    "publishAt": "2026-11-12T14:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
