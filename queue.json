@@ -298,6 +298,32 @@
       "synced_to_pc": false,
       "file_ready": true,
       "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 45 s, guion verificado sin cambios)."
+    },
+    {
+      "id": "v012",
+      "file": "videos/v012_Diez_mil_pasos_LAB.mp4",
+      "title": "¿De verdad necesitas 10.000 pasos al día? Lo que dicen 57 estudios #shorts",
+      "caption": "¿10.000 pasos al día? 👟 La cifra nació en la publicidad de un podómetro japonés de 1965 (el “manpo-kei”), no en un estudio. Una revisión de 57 estudios (Lancet Public Health, 2025) encontró que, frente a 2.000 pasos, caminar 7.000 al día se asoció con un 47 % menos de riesgo de morir, 38 % menos de demencia y 22 % menos de síntomas depresivos. El mayor beneficio llega antes de los 7.000; 10.000 sigue siendo una buena meta si ya eres activo. Son estudios de asociación, no prueban causa.",
+      "sources": [
+        "Ding et al. (2025), Lancet Public Health – 57 estudios – doi:10.1016/S2468-2667(25)00164-1",
+        "Paluch et al. (2022), Lancet Public Health – 15 cohortes – doi:10.1016/S2468-2667(21)00302-9",
+        "Lee et al. (2019), JAMA Intern Med – doi:10.1001/jamainternmed.2019.0899",
+        "Tudor-Locke y Bassett (2004), Sports Med – origen de los 10.000 pasos – doi:10.2165/00007256-200434010-00001"
+      ],
+      "hashtags": "#pasos #caminar #longevidad #salud #cienciadelentrenamiento",
+      "created": "2026-11-12T02:26:29-03:00",
+      "slot": null,
+      "youtube": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "tiktok": {
+        "status": "pending"
+      },
+      "synced_to_pc": false,
+      "file_ready": true
     }
   ]
 }

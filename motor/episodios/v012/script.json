@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿De verdad necesitas diez mil pasos al día? Cincuenta y siete estudios dicen otra cosa.",
+   "show": "¿De verdad necesitas 10.000 pasos al día? 57 estudios dicen otra cosa.",
+   "gap": 0.36
+  },
+  {
+   "shot": "origin",
+   "say": "Esa cifra nació en la publicidad de un podómetro japonés de mil novecientos sesenta y cinco, no en un estudio.",
+   "show": "Esa cifra nació en la publicidad de un podómetro japonés de 1965, no en un estudio.",
+   "gap": 0.36
+  },
+  {
+   "shot": "study",
+   "say": "En dos mil veinticinco, una revisión reunió cincuenta y siete estudios que midieron los pasos con dispositivos.",
+   "show": "En 2025, una revisión reunió 57 estudios que midieron los pasos con dispositivos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "mort",
+   "say": "Frente a dos mil pasos, caminar siete mil al día se asoció con un cuarenta y siete por ciento menos de riesgo de morir.",
+   "show": "Frente a 2.000 pasos, caminar 7.000 al día se asoció con un 47 % menos de riesgo de morir.",
+   "gap": 0.36
+  },
+  {
+   "shot": "brain",
+   "say": "Y con un treinta y ocho por ciento menos de demencia y un veintidós por ciento menos de síntomas depresivos.",
+   "show": "Y con un 38 % menos de demencia y un 22 % menos de síntomas depresivos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "curve",
+   "say": "El mayor beneficio llega antes de los siete mil; después, la curva se va aplanando.",
+   "show": "El mayor beneficio llega antes de los 7.000; después, la curva se va aplanando.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ten",
+   "say": "Diez mil sigue siendo una buena meta si ya eres activo, pero no es un mínimo obligatorio.",
+   "show": "10.000 sigue siendo una buena meta si ya eres activo, pero no es un mínimo obligatorio.",
+   "gap": 0.36
+  },
+  {
+   "shot": "payoff",
+   "say": "Son estudios de asociación, pero si caminas poco, sumar pasos es lo que más rinde.",
+   "show": "Son estudios de asociación, pero si caminas poco, sumar pasos es lo que más rinde.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Sígueme para más ciencia del entrenamiento.",
+   "show": "Sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
