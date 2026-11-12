@@ -349,6 +349,32 @@
       },
       "synced_to_pc": false,
       "file_ready": true
+    },
+    {
+      "id": "v014",
+      "file": "videos/v014_Tres_semanas_sin_entrenar_LAB.mp4",
+      "title": "¿Qué pasa si dejas de entrenar 3 semanas? Lo que dice la ciencia #shorts",
+      "caption": "¿3 semanas sin entrenar? 🗓️ En pausas de menos de 4 semanas, la fuerza casi no baja (las pérdidas crecen con la duración de la pausa y son mayores después de los 65, según un metaanálisis de 103 estudios). El cardio baja antes: en atletas de resistencia, el VO2 máx cayó un 7 % en 3 semanas. Y en un ensayo con 14 hombres jóvenes, entrenar press de banca 6 semanas, parar 3 y repetir el ciclo dio la misma ganancia de músculo y fuerza a las 24 semanas que entrenar sin pausas. Unas vacaciones no borran tu progreso: lo que lo borra es no volver.",
+      "sources": [
+        "Mujika y Padilla (2000), Sports Med – doi:10.2165/00007256-200030020-00002",
+        "Bosquet et al. (2013), Scand J Med Sci Sports – 103 estudios – doi:10.1111/sms.12047",
+        "Coyle et al. (1984), J Appl Physiol – doi:10.1152/jappl.1984.57.6.1857",
+        "Ogasawara et al. (2013), Eur J Appl Physiol – doi:10.1007/s00421-012-2511-9"
+      ],
+      "hashtags": "#desentrenamiento #fuerza #musculo #recuperacion #cienciadelentrenamiento",
+      "created": "2026-11-12T02:33:23-03:00",
+      "slot": null,
+      "youtube": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "tiktok": {
+        "status": "pending"
+      },
+      "synced_to_pc": false,
+      "file_ready": true
     }
   ]
 }

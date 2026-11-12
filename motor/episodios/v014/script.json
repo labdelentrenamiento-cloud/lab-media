@@ -1,0 +1,53 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Qué le pasa a tu cuerpo si dejas de entrenar tres semanas?",
+   "show": "¿Qué le pasa a tu cuerpo si dejas de entrenar 3 semanas?",
+   "gap": 0.36
+  },
+  {
+   "shot": "strength",
+   "say": "Tu fuerza, casi nada: en pausas de menos de cuatro semanas, la pérdida suele ser pequeña.",
+   "show": "Tu fuerza, casi nada: en pausas de menos de 4 semanas, la pérdida suele ser pequeña.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cardio",
+   "say": "Lo que baja antes es el cardio: en atletas de resistencia, el consumo máximo de oxígeno cayó un siete por ciento en tres semanas.",
+   "show": "Lo que baja antes es el cardio: en atletas de resistencia, el consumo máximo de oxígeno cayó un 7 % en 3 semanas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "trial",
+   "say": "En un ensayo, hombres jóvenes entrenaron press de banca seis semanas, pararon tres y repitieron el ciclo.",
+   "show": "En un ensayo, hombres jóvenes entrenaron press de banca 6 semanas, pararon 3 y repitieron el ciclo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "result",
+   "say": "A las veinticuatro semanas, ganaron el mismo músculo y fuerza que quienes nunca pararon.",
+   "show": "A las 24 semanas, ganaron el mismo músculo y fuerza que quienes nunca pararon.",
+   "gap": 0.36
+  },
+  {
+   "shot": "longer",
+   "say": "Eso sí: cuanto más larga la pausa, más pierdes, y después de los sesenta y cinco la caída es mayor.",
+   "show": "Eso sí: cuanto más larga la pausa, más pierdes, y después de los 65 la caída es mayor.",
+   "gap": 0.36
+  },
+  {
+   "shot": "payoff",
+   "say": "Unas vacaciones no borran tu progreso. Lo que lo borra es no volver.",
+   "show": "Unas vacaciones no borran tu progreso. Lo que lo borra es no volver.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Sígueme para más ciencia del entrenamiento.",
+   "show": "Sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
