@@ -199,7 +199,7 @@
    "created": "2026-11-11T02:33:20-03:00",
    "slot": "2026-11-12T16:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "edfaa692-a414-4c45-b867-a662da0d7322",
     "publishAt": "2026-11-12T16:00:00-03:00",
@@ -215,10 +215,11 @@
     "containerId": "18041334167688469"
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "07d7514e-21d9-43e5-87f5-0e12c02a46c7",
-    "publishAt": "2026-11-12T18:00:00-03:00"
+    "publishAt": "2026-11-12T18:00:00-03:00",
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7707392714257550612"
    },
    "synced_to_pc": false,
    "file_ready": true,
