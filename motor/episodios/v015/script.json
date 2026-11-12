@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "¿Entrenar de noche te arruina el sueño? Mito o realidad.", "show": "¿Entrenar de noche te arruina el sueño? Mito o realidad.", "gap": 0.36},
+  {"shot": "meta", "say": "Un metaanálisis de veintitrés estudios en adultos sanos no encontró que entrenar en la tarde-noche empeore el sueño.", "show": "Un metaanálisis de 23 estudios en adultos sanos no encontró que entrenar en la tarde-noche empeore el sueño.", "gap": 0.36},
+  {"shot": "deep", "say": "De hecho, el sueño profundo aumentó un poco.", "show": "De hecho, el sueño profundo aumentó un poco.", "gap": 0.36},
+  {"shot": "except", "say": "La excepción: un entrenamiento intenso que termina una hora o menos antes de acostarte.", "show": "La excepción: un entrenamiento intenso que termina 1 hora o menos antes de acostarte.", "gap": 0.36},
+  {"shot": "wear", "say": "En dos mil veinticinco, un estudio con casi quince mil personas y más de cuatro millones de noches lo vio con sensores de muñeca.", "show": "En 2025, un estudio con casi 15.000 personas y más de 4 millones de noches lo vio con sensores de muñeca.", "gap": 0.36},
+  {"shot": "late", "say": "Cuanto más intenso y más tarde el entrenamiento, más tardaron en dormirse, durmieron menos y su pulso nocturno subió.", "show": "Cuanto más intenso y más tarde el entrenamiento, más tardaron en dormirse, durmieron menos y su pulso nocturno subió.", "gap": 0.36},
+  {"shot": "four", "say": "Pero si terminaban cuatro horas o más antes de dormir, no hubo cambios.", "show": "Pero si terminaban 4 horas o más antes de dormir, no hubo cambios.", "gap": 0.36},
+  {"shot": "verdict", "say": "Veredicto: entrena de noche si te acomoda, pero deja lo más intenso para antes.", "show": "Veredicto: entrena de noche si te acomoda, pero deja lo más intenso para antes.", "gap": 0.36},
+  {"shot": "cta", "say": "Sígueme para más ciencia del entrenamiento.", "show": "Sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}

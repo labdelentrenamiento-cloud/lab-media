@@ -1,380 +1,404 @@
 {
-  "_info": "Cola de publicación de Lab del Entrenamiento. Orden por slot: YouTube (hora H) -> Instagram (H+1) -> TikTok (H+2). Estados por red: pending | scheduled | published | failed. Solo se publican videos con file_ready true (el MP4 existe en videos/).",
-  "slots": [
-    "12:00",
-    "16:00",
-    "20:00"
-  ],
-  "tiktok_settings": {
-    "privacyLevel": "PUBLIC_TO_EVERYONE",
-    "allowComment": true,
-    "musicUsageConfirmed": true,
-    "isAiGenerated": true
+ "_info": "Cola de publicación de Lab del Entrenamiento. Orden por slot: YouTube (hora H) -> Instagram (H+1) -> TikTok (H+2). Estados por red: pending | scheduled | published | failed. Solo se publican videos con file_ready true (el MP4 existe en videos/).",
+ "slots": [
+  "12:00",
+  "16:00",
+  "20:00"
+ ],
+ "tiktok_settings": {
+  "privacyLevel": "PUBLIC_TO_EVERYONE",
+  "allowComment": true,
+  "musicUsageConfirmed": true,
+  "isAiGenerated": true
+ },
+ "labels": {
+  "youtube_ai_disclosure": false,
+  "instagram_ai_label": true,
+  "tiktok_ai_label": true
+ },
+ "videos": [
+  {
+   "id": "v001",
+   "file": "videos/v001_Fuerza_semanas_LAB.mp4",
+   "title": "Qué le pasa a tu cuerpo si empiezas a entrenar fuerza hoy #shorts",
+   "caption": "¿Qué le pasa a tu cuerpo si empiezas a entrenar fuerza HOY? Día 1: microlesiones. 24–72 h: dolor muscular tardío. Semanas 1–4: más fuerza casi sin que el músculo crezca (tu sistema nervioso aprende). Desde la semana 6 aprox.: crecimiento medible.",
+   "sources": [
+    "Phillips et al. (1997), Am J Physiol",
+    "Moritani & deVries (1979), Am J Phys Med"
+   ],
+   "hashtags": "#entrenamiento #fuerza #cienciadelentrenamiento #gym #hipertrofia #fitness",
+   "slot": "2026-11-10T10:10:00-03:00",
+   "youtube": {
+    "status": "published",
+    "url": "https://youtube.com/shorts/JxRpb2ZYywE"
+   },
+   "instagram": {
+    "status": "published",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DfkS5yISn0y/"
+   },
+   "tiktok": {
+    "status": "published",
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7706669515223993608"
+   },
+   "synced_to_pc": true,
+   "file_ready": true
   },
-  "labels": {
-    "youtube_ai_disclosure": false,
-    "instagram_ai_label": true,
-    "tiktok_ai_label": true
+  {
+   "id": "v003",
+   "file": "videos/v003_Huesos_fragiles_LAB.mp4",
+   "title": "Cómo tener huesos frágiles a los 65 (no lo hagas) #shorts",
+   "caption": "Si quisieras tener huesos frágiles a los 65, harías exactamente esto 🦴 No moverte, nunca levantar peso ni saltar y creer que tienes tiempo. La buena noticia: la fuerza y el impacto, bien supervisados, mejoran la densidad ósea incluso después de la menopausia.",
+   "sources": [
+    "NASA: pérdida ósea de 1–1,5 %/mes en el espacio",
+    "NIH: masa ósea máxima ~30 años",
+    "Bone Health & Osteoporosis Foundation: hasta 20 % en 5–7 años posmenopausia",
+    "Watson et al. (2018), J Bone Miner Res – LIFTMOR"
+   ],
+   "hashtags": "#huesos #osteoporosis #entrenamientodefuerza #cienciadelentrenamiento #salud",
+   "slot": "2026-11-11T12:00:00-03:00",
+   "youtube": {
+    "status": "published",
+    "url": "https://youtube.com/shorts/nTmgceYnX2E"
+   },
+   "instagram": {
+    "status": "published",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DfnVBt2hfuk/",
+    "via": "vidIQ",
+    "ai_label": true
+   },
+   "tiktok": {
+    "status": "published",
+    "vidiq_post": "865aa682-04a6-40a0-98b6-2d84fd242520",
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7706959772213333269"
+   },
+   "synced_to_pc": true,
+   "file_ready": true
   },
-  "videos": [
-    {
-      "id": "v001",
-      "file": "videos/v001_Fuerza_semanas_LAB.mp4",
-      "title": "Qué le pasa a tu cuerpo si empiezas a entrenar fuerza hoy #shorts",
-      "caption": "¿Qué le pasa a tu cuerpo si empiezas a entrenar fuerza HOY? Día 1: microlesiones. 24–72 h: dolor muscular tardío. Semanas 1–4: más fuerza casi sin que el músculo crezca (tu sistema nervioso aprende). Desde la semana 6 aprox.: crecimiento medible.",
-      "sources": [
-        "Phillips et al. (1997), Am J Physiol",
-        "Moritani & deVries (1979), Am J Phys Med"
-      ],
-      "hashtags": "#entrenamiento #fuerza #cienciadelentrenamiento #gym #hipertrofia #fitness",
-      "slot": "2026-11-10T10:10:00-03:00",
-      "youtube": {
-        "status": "published",
-        "url": "https://youtube.com/shorts/JxRpb2ZYywE"
-      },
-      "instagram": {
-        "status": "published",
-        "url": "https://www.instagram.com/labdelentrenamiento/reel/DfkS5yISn0y/"
-      },
-      "tiktok": {
-        "status": "published",
-        "url": "https://www.tiktok.com/@labdelentrenamiento/video/7706669515223993608"
-      },
-      "synced_to_pc": true,
-      "file_ready": true
-    },
-    {
-      "id": "v003",
-      "file": "videos/v003_Huesos_fragiles_LAB.mp4",
-      "title": "Cómo tener huesos frágiles a los 65 (no lo hagas) #shorts",
-      "caption": "Si quisieras tener huesos frágiles a los 65, harías exactamente esto 🦴 No moverte, nunca levantar peso ni saltar y creer que tienes tiempo. La buena noticia: la fuerza y el impacto, bien supervisados, mejoran la densidad ósea incluso después de la menopausia.",
-      "sources": [
-        "NASA: pérdida ósea de 1–1,5 %/mes en el espacio",
-        "NIH: masa ósea máxima ~30 años",
-        "Bone Health & Osteoporosis Foundation: hasta 20 % en 5–7 años posmenopausia",
-        "Watson et al. (2018), J Bone Miner Res – LIFTMOR"
-      ],
-      "hashtags": "#huesos #osteoporosis #entrenamientodefuerza #cienciadelentrenamiento #salud",
-      "slot": "2026-11-11T12:00:00-03:00",
-      "youtube": {
-        "status": "published",
-        "url": "https://youtube.com/shorts/nTmgceYnX2E"
-      },
-      "instagram": {
-        "status": "published",
-        "url": "https://www.instagram.com/labdelentrenamiento/reel/DfnVBt2hfuk/",
-        "via": "vidIQ",
-        "ai_label": true
-      },
-      "tiktok": {
-        "status": "published",
-        "vidiq_post": "865aa682-04a6-40a0-98b6-2d84fd242520",
-        "url": "https://www.tiktok.com/@labdelentrenamiento/video/7706959772213333269"
-      },
-      "synced_to_pc": true,
-      "file_ready": true
-    },
-    {
-      "id": "v002",
-      "file": "videos/v002_Caminar_cerebro_LAB.mp4",
-      "title": "¿Caminar hace crecer tu cerebro? Lo que dice la evidencia actual #shorts",
-      "caption": "¿Caminar hace crecer tu cerebro? 🧠 Un estudio famoso (2011) encontró que en adultos mayores que caminaron a paso rápido un año el hipocampo creció un 2 %, y en quienes solo estiraron se redujo un 1,4 %. Pero un metaanálisis de 14 estudios (737 personas) no halló aumento del volumen total; a lo sumo, el ejercicio frenaría su pérdida (hipocampo izquierdo). Y un metaanálisis de 2024 en adultos mayores sanos tampoco halló un efecto claro. Moverte sigue siendo bueno para tu cerebro, pero la evidencia es más modesta.",
-      "sources": [
-        "Erickson et al. (2011), PNAS – doi:10.1073/pnas.1015950108",
-        "Firth et al. (2018), NeuroImage – metaanálisis – doi:10.1016/j.neuroimage.2017.11.007",
-        "Balbim et al. (2024), GeroScience – metaanálisis – doi:10.1007/s11357-023-00971-7"
-      ],
-      "hashtags": "#cerebro #caminar #neurociencia #cienciadelentrenamiento #salud",
-      "slot": "2026-11-11T16:00:00-03:00",
-      "youtube": {
-        "status": "published",
-        "url": "https://youtube.com/shorts/Jj8k8zofZjo",
-        "via": "vidIQ",
-        "vidiq_post": "6c45f9d5-759a-4e51-b1af-26a42f8a5948"
-      },
-      "instagram": {
-        "status": "published",
-        "url": "https://www.instagram.com/labdelentrenamiento/reel/DfnVOvghu3m/",
-        "via": "vidIQ",
-        "ai_label": true
-      },
-      "tiktok": {
-        "status": "published",
-        "vidiq_post": "31e58699-5e84-4245-b88c-4d90e2226a2d",
-        "url": "https://www.tiktok.com/@labdelentrenamiento/video/7707021603468627208",
-        "via": "vidIQ"
-      },
-      "synced_to_pc": false,
-      "file_ready": true,
-      "evidenceNote": "2026-11-11: guion corregido ('estudio famoso vs. evidencia actual') según Firth 2018 y Balbim 2024. Versión corregida subida al repo el 11 nov (file_ready true).",
-      "recovered": "2026-11-11: MP4 recuperado desde el panel (versión corregida y aprobada, render del motor LAB, 51 s, sha256 0e3ac125…)."
-    },
-    {
-      "id": "v004",
-      "file": "videos/v004_Flacos_fuertes_LAB.mp4",
-      "title": "Por qué hay flacos que levantan muchísimo #shorts",
-      "caption": "¿Por qué hay gente flaca que levanta mucho más de lo que parece? 💪 1) Tu sistema nervioso decide cuántas fibras activas (entrenar una pierna hace que la otra gane ~12 % de fuerza). 2) La técnica es una habilidad. 3) La física: al crecer el cuerpo, la fuerza aumenta más lento que el peso.",
-      "sources": [
-        "Manca et al. (2017), J Appl Physiol – cross-education",
-        "Ley alométrica de 2/3 (fuerza ∝ masa^2/3)"
-      ],
-      "hashtags": "#fuerza #gym #sistemanervioso #cienciadelentrenamiento #fitness",
-      "slot": "2026-11-11T20:00:00-03:00",
-      "youtube": {
-        "status": "scheduled",
-        "via": "vidIQ",
-        "vidiq_post": "1383a73c-2d89-4daa-97d4-26a0beff44ec",
-        "publishAt": "2026-11-11T20:00:00-03:00",
-        "uploadId": "44214add-afe6-4535-9de0-b0213740f391",
-        "url": "https://youtube.com/shorts/0zQ-3XDLPTM"
-      },
-      "instagram": {
-        "status": "published",
-        "url": "https://www.instagram.com/labdelentrenamiento/reel/DfnuLNcB05w/",
-        "via": "vidIQ",
-        "ai_label": true,
-        "mediaId": "18147325402595471"
-      },
-      "tiktok": {
-        "status": "scheduled",
-        "via": "vidIQ",
-        "vidiq_post": "32279bfb-d628-4786-8885-6a7b90f4b784",
-        "publishAt": "2026-11-11T22:00:00-03:00"
-      },
-      "synced_to_pc": true,
-      "file_ready": true
-    },
-    {
-      "id": "v005",
-      "file": "videos/v005_Musculo_a_los_90_LAB.mp4",
-      "title": "¿Se puede ganar músculo a los 90 años? Lo que dice la evidencia #shorts",
-      "caption": "¿Se puede ganar músculo a los 90 años? 🧓💪 En 1990, un piloto con 10 personas frágiles de ~90 años subió su fuerza un 174 % en 8 semanas, pero era pequeño y sin grupo de comparación. En 1994 se repitió con 100 adultos frágiles (edad media 87) y grupo control: en 10 semanas la fuerza aumentó 113 %, caminaron casi 12 % más rápido y el muslo creció poco (+2,7 %, no significativo). Una revisión de 22 ensayos (2020) confirma: después de los 75, entrenar fuerza aumenta fuerza y músculo.",
-      "sources": [
-        "Fiatarone et al. (1990), JAMA – piloto, n = 10",
-        "Fiatarone et al. (1994), N Engl J Med – n = 100 – doi:10.1056/NEJM199406233302501",
-        "Grgic et al. (2020), Sports Medicine – 22 ECA en ≥75 años – doi:10.1007/s40279-020-01331-7"
-      ],
-      "hashtags": "#musculo #envejecimiento #sarcopenia #cienciadelentrenamiento #salud",
-      "slot": null,
-      "youtube": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "tiktok": {
-        "status": "pending"
-      },
-      "synced_to_pc": false,
-      "file_ready": true,
-      "evidenceNote": "2026-11-11: cifras corregidas (piloto 1990 → ensayo 1994 → metaanálisis 2020). Versión corregida subida al repo el 11 nov (file_ready true).",
-      "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 52 s, guion verificado sin cambios)."
-    },
-    {
-      "id": "v007",
-      "file": "videos/v007_Descanso_entre_series_LAB.mp4",
-      "title": "¿Descansar 1 o 3 minutos entre series? La ciencia lo comparó #shorts",
-      "caption": "¿1 o 3 minutos de descanso entre series? ⏱️ En un ensayo con 21 hombres entrenados (8 semanas), descansar 3 minutos dio más fuerza en sentadilla y press de banca y más grosor del cuádriceps que descansar 1 minuto. Un metaanálisis de 2024 vio una ventaja pequeña al pasar de 60 s y casi ninguna diferencia más allá de 90 s. Y un estudio de 2026: descansar ~2 min rindió igual que descansar a gusto, con sesiones 29 % más cortas.",
-      "sources": [
-        "Schoenfeld et al. (2016), J Strength Cond Res – doi:10.1519/JSC.0000000000001272",
-        "Singer et al. (2024), Front Sports Act Living – metaanálisis – doi:10.3389/fspor.2024.1429789",
-        "Mohan et al. (2026), Int J Sports Med – doi:10.1055/a-2999-0052"
-      ],
-      "hashtags": "#descanso #hipertrofia #entrenamientodefuerza #gym #cienciadelentrenamiento",
-      "created": "2026-11-11T02:33:20-03:00",
-      "slot": null,
-      "youtube": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "tiktok": {
-        "status": "pending"
-      },
-      "synced_to_pc": false,
-      "file_ready": true,
-      "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 49 s, guion verificado sin cambios)."
-    },
-    {
-      "id": "v008",
-      "file": "videos/v008_Noche_sin_dormir_LAB.mp4",
-      "title": "¿Qué le pasa a tu músculo si no duermes una noche? #shorts",
-      "caption": "Una noche sin dormir y tu músculo lo nota 😴 En 13 adultos jóvenes sanos, una noche de privación total de sueño bajó la síntesis de proteína muscular un 18 %, subió el cortisol un 21 % y bajó la testosterona un 24 %. En otro estudio, 5 noches con 4 h en cama redujeron la síntesis de proteína del músculo… salvo en quienes hicieron intervalos de alta intensidad. Recomendación para adultos: 7 horas o más por noche.",
-      "sources": [
-        "Lamon et al. (2021), Physiological Reports – doi:10.14814/phy2.14660",
-        "Saner et al. (2020), J Physiol – doi:10.1113/JP278828",
-        "AASM/SRS (2015) – consenso: adultos 7 h o más por noche"
-      ],
-      "hashtags": "#sueño #recuperacion #musculo #cienciadelentrenamiento #salud",
-      "created": "2026-11-11T02:33:20-03:00",
-      "slot": null,
-      "youtube": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "tiktok": {
-        "status": "pending"
-      },
-      "synced_to_pc": false,
-      "file_ready": true,
-      "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 42 s, guion verificado sin cambios)."
-    },
-    {
-      "id": "v009",
-      "file": "videos/v009_Condicion_fisica_LAB.mp4",
-      "title": "¿Estar fuera de forma es tan riesgoso como fumar? #shorts",
-      "caption": "Tu condición física dice mucho de tu salud ❤️ En 122.007 personas que hicieron una prueba de esfuerzo (Cleveland Clinic, ~8 años de seguimiento), la peor condición física se asoció a 5 veces más riesgo de morir que el nivel élite, y estar bajo el promedio, a un riesgo similar al de fumar o tener diabetes. Sin techo: a mejor condición, menor riesgo, también después de los 70. Son estudios de asociación, pero la condición física se entrena.",
-      "sources": [
-        "Mandsager et al. (2018), JAMA Netw Open – doi:10.1001/jamanetworkopen.2018.3605",
-        "Kokkinos et al. (2022), J Am Coll Cardiol – 750.302 veteranos – doi:10.1016/j.jacc.2022.05.031",
-        "Lang et al. (2024), Br J Sports Med – 199 cohortes – doi:10.1136/bjsports-2023-107849"
-      ],
-      "hashtags": "#corazon #longevidad #cardio #vo2max #cienciadelentrenamiento",
-      "created": "2026-11-11T02:33:20-03:00",
-      "slot": null,
-      "youtube": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "tiktok": {
-        "status": "pending"
-      },
-      "synced_to_pc": false,
-      "file_ready": true,
-      "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 45 s, guion verificado sin cambios)."
-    },
-    {
-      "id": "v010",
-      "file": "videos/v010_Repeticiones_lentas_LAB.mp4",
-      "title": "¿Repeticiones lentas para ganar más músculo? Mito o realidad #shorts",
-      "caption": "¿Tienes que hacer las repeticiones lentas para ganar músculo? 🏋️ Un metaanálisis (Sports Med 2015) comparó repeticiones de 0,5 a 8 segundos: el músculo creció de forma parecida. Otro de 2025, con 14 estudios, comparó ~1 s vs. ~3,5 s: diferencia mínima. Ir extremadamente lento (>10 s por repetición) parece rendir menos (evidencia limitada). Lo que sí importa: controlar el peso y que cada serie sea exigente.",
-      "sources": [
-        "Schoenfeld, Ogborn & Krieger (2015), Sports Med – doi:10.1007/s40279-015-0304-0",
-        "Enes et al. (2025), J Strength Cond Res – doi:10.1519/JSC.0000000000005302"
-      ],
-      "hashtags": "#hipertrofia #musculo #gym #entrenamientodefuerza #cienciadelentrenamiento",
-      "created": "2026-11-11T09:31:29-03:00",
-      "slot": null,
-      "youtube": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "tiktok": {
-        "status": "pending"
-      },
-      "synced_to_pc": false,
-      "file_ready": true,
-      "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 44 s, guion verificado sin cambios)."
-    },
-    {
-      "id": "v011",
-      "file": "videos/v011_Musculo_vs_grasa_LAB.mp4",
-      "title": "¿1 kilo de músculo quema 50 calorías al día? Músculo vs. grasa #shorts",
-      "caption": "¿1 kilo de músculo quema 50 calorías al día? 🔥 En reposo, 1 kg de músculo gasta unas 13 kcal/día y 1 kg de grasa unas 4,5: casi 3 veces más, pero lejos de 50. Por kilo, corazón y riñones gastan ~440. Ganar 2 kg de músculo sumaría ~26 kcal/día en reposo. Aun así, en un metaanálisis, entrenar fuerza subió el gasto en reposo ~96 kcal/día frente a no entrenar (estudios con alto riesgo de sesgo).",
-      "sources": [
-        "Elia (1992), en Energy Metabolism: Tissue Determinants and Cellular Corollaries",
-        "Wang et al. (2010), Am J Clin Nutr – doi:10.3945/ajcn.2010.29885",
-        "MacKenzie-Shalders et al. (2020), J Sports Sci – doi:10.1080/02640414.2020.1754716"
-      ],
-      "hashtags": "#metabolismo #musculo #calorias #entrenamientodefuerza #cienciadelentrenamiento",
-      "created": "2026-11-11T09:31:29-03:00",
-      "slot": null,
-      "youtube": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "tiktok": {
-        "status": "pending"
-      },
-      "synced_to_pc": false,
-      "file_ready": true,
-      "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 45 s, guion verificado sin cambios)."
-    },
-    {
-      "id": "v012",
-      "file": "videos/v012_Diez_mil_pasos_LAB.mp4",
-      "title": "¿De verdad necesitas 10.000 pasos al día? Lo que dicen 57 estudios #shorts",
-      "caption": "¿10.000 pasos al día? 👟 La cifra nació en la publicidad de un podómetro japonés de 1965 (el “manpo-kei”), no en un estudio. Una revisión de 57 estudios (Lancet Public Health, 2025) encontró que, frente a 2.000 pasos, caminar 7.000 al día se asoció con un 47 % menos de riesgo de morir, 38 % menos de demencia y 22 % menos de síntomas depresivos. El mayor beneficio llega antes de los 7.000; 10.000 sigue siendo una buena meta si ya eres activo. Son estudios de asociación, no prueban causa.",
-      "sources": [
-        "Ding et al. (2025), Lancet Public Health – 57 estudios – doi:10.1016/S2468-2667(25)00164-1",
-        "Paluch et al. (2022), Lancet Public Health – 15 cohortes – doi:10.1016/S2468-2667(21)00302-9",
-        "Lee et al. (2019), JAMA Intern Med – doi:10.1001/jamainternmed.2019.0899",
-        "Tudor-Locke y Bassett (2004), Sports Med – origen de los 10.000 pasos – doi:10.2165/00007256-200434010-00001"
-      ],
-      "hashtags": "#pasos #caminar #longevidad #salud #cienciadelentrenamiento",
-      "created": "2026-11-12T02:26:29-03:00",
-      "slot": null,
-      "youtube": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "tiktok": {
-        "status": "pending"
-      },
-      "synced_to_pc": false,
-      "file_ready": true
-    },
-    {
-      "id": "v013",
-      "file": "videos/v013_Pesas_ligeras_vs_pesadas_LAB.mp4",
-      "title": "¿Pesas ligeras o pesadas para ganar músculo? La ciencia las comparó #shorts",
-      "caption": "¿Pesas ligeras o pesadas? 🏋️ Un metaanálisis de 21 estudios comparó cargas bajas (hasta el 60 % de tu máximo) con cargas altas, siempre llevando las series al fallo: el músculo creció de forma similar, pero la fuerza máxima (1RM) subió más con cargas altas. Un metaanálisis en red de 2021 (28 estudios, 747 adultos) llegó a lo mismo. Con peso liviano necesitas más de 15 repeticiones para llegar a ese esfuerzo. Músculo: la carga que manejes bien. Fuerza máxima: entrena pesado.",
-      "sources": [
-        "Schoenfeld et al. (2017), J Strength Cond Res – 21 estudios – doi:10.1519/JSC.0000000000002200",
-        "Lopez et al. (2021), Med Sci Sports Exerc – 28 estudios, 747 adultos – doi:10.1249/MSS.0000000000002585",
-        "Schoenfeld et al. (2016), Eur J Sport Sci – doi:10.1080/17461391.2014.989922"
-      ],
-      "hashtags": "#hipertrofia #pesas #fuerza #gimnasio #cienciadelentrenamiento",
-      "created": "2026-11-12T02:30:35-03:00",
-      "slot": null,
-      "youtube": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "tiktok": {
-        "status": "pending"
-      },
-      "synced_to_pc": false,
-      "file_ready": true
-    },
-    {
-      "id": "v014",
-      "file": "videos/v014_Tres_semanas_sin_entrenar_LAB.mp4",
-      "title": "¿Qué pasa si dejas de entrenar 3 semanas? Lo que dice la ciencia #shorts",
-      "caption": "¿3 semanas sin entrenar? 🗓️ En pausas de menos de 4 semanas, la fuerza casi no baja (las pérdidas crecen con la duración de la pausa y son mayores después de los 65, según un metaanálisis de 103 estudios). El cardio baja antes: en atletas de resistencia, el VO2 máx cayó un 7 % en 3 semanas. Y en un ensayo con 14 hombres jóvenes, entrenar press de banca 6 semanas, parar 3 y repetir el ciclo dio la misma ganancia de músculo y fuerza a las 24 semanas que entrenar sin pausas. Unas vacaciones no borran tu progreso: lo que lo borra es no volver.",
-      "sources": [
-        "Mujika y Padilla (2000), Sports Med – doi:10.2165/00007256-200030020-00002",
-        "Bosquet et al. (2013), Scand J Med Sci Sports – 103 estudios – doi:10.1111/sms.12047",
-        "Coyle et al. (1984), J Appl Physiol – doi:10.1152/jappl.1984.57.6.1857",
-        "Ogasawara et al. (2013), Eur J Appl Physiol – doi:10.1007/s00421-012-2511-9"
-      ],
-      "hashtags": "#desentrenamiento #fuerza #musculo #recuperacion #cienciadelentrenamiento",
-      "created": "2026-11-12T02:33:23-03:00",
-      "slot": null,
-      "youtube": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "tiktok": {
-        "status": "pending"
-      },
-      "synced_to_pc": false,
-      "file_ready": true
-    }
-  ]
+  {
+   "id": "v002",
+   "file": "videos/v002_Caminar_cerebro_LAB.mp4",
+   "title": "¿Caminar hace crecer tu cerebro? Lo que dice la evidencia actual #shorts",
+   "caption": "¿Caminar hace crecer tu cerebro? 🧠 Un estudio famoso (2011) encontró que en adultos mayores que caminaron a paso rápido un año el hipocampo creció un 2 %, y en quienes solo estiraron se redujo un 1,4 %. Pero un metaanálisis de 14 estudios (737 personas) no halló aumento del volumen total; a lo sumo, el ejercicio frenaría su pérdida (hipocampo izquierdo). Y un metaanálisis de 2024 en adultos mayores sanos tampoco halló un efecto claro. Moverte sigue siendo bueno para tu cerebro, pero la evidencia es más modesta.",
+   "sources": [
+    "Erickson et al. (2011), PNAS – doi:10.1073/pnas.1015950108",
+    "Firth et al. (2018), NeuroImage – metaanálisis – doi:10.1016/j.neuroimage.2017.11.007",
+    "Balbim et al. (2024), GeroScience – metaanálisis – doi:10.1007/s11357-023-00971-7"
+   ],
+   "hashtags": "#cerebro #caminar #neurociencia #cienciadelentrenamiento #salud",
+   "slot": "2026-11-11T16:00:00-03:00",
+   "youtube": {
+    "status": "published",
+    "url": "https://youtube.com/shorts/Jj8k8zofZjo",
+    "via": "vidIQ",
+    "vidiq_post": "6c45f9d5-759a-4e51-b1af-26a42f8a5948"
+   },
+   "instagram": {
+    "status": "published",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DfnVOvghu3m/",
+    "via": "vidIQ",
+    "ai_label": true
+   },
+   "tiktok": {
+    "status": "published",
+    "vidiq_post": "31e58699-5e84-4245-b88c-4d90e2226a2d",
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7707021603468627208",
+    "via": "vidIQ"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "evidenceNote": "2026-11-11: guion corregido ('estudio famoso vs. evidencia actual') según Firth 2018 y Balbim 2024. Versión corregida subida al repo el 11 nov (file_ready true).",
+   "recovered": "2026-11-11: MP4 recuperado desde el panel (versión corregida y aprobada, render del motor LAB, 51 s, sha256 0e3ac125…)."
+  },
+  {
+   "id": "v004",
+   "file": "videos/v004_Flacos_fuertes_LAB.mp4",
+   "title": "Por qué hay flacos que levantan muchísimo #shorts",
+   "caption": "¿Por qué hay gente flaca que levanta mucho más de lo que parece? 💪 1) Tu sistema nervioso decide cuántas fibras activas (entrenar una pierna hace que la otra gane ~12 % de fuerza). 2) La técnica es una habilidad. 3) La física: al crecer el cuerpo, la fuerza aumenta más lento que el peso.",
+   "sources": [
+    "Manca et al. (2017), J Appl Physiol – cross-education",
+    "Ley alométrica de 2/3 (fuerza ∝ masa^2/3)"
+   ],
+   "hashtags": "#fuerza #gym #sistemanervioso #cienciadelentrenamiento #fitness",
+   "slot": "2026-11-11T20:00:00-03:00",
+   "youtube": {
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "1383a73c-2d89-4daa-97d4-26a0beff44ec",
+    "publishAt": "2026-11-11T20:00:00-03:00",
+    "uploadId": "44214add-afe6-4535-9de0-b0213740f391",
+    "url": "https://youtube.com/shorts/0zQ-3XDLPTM"
+   },
+   "instagram": {
+    "status": "published",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DfnuLNcB05w/",
+    "via": "vidIQ",
+    "ai_label": true,
+    "mediaId": "18147325402595471"
+   },
+   "tiktok": {
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "32279bfb-d628-4786-8885-6a7b90f4b784",
+    "publishAt": "2026-11-11T22:00:00-03:00"
+   },
+   "synced_to_pc": true,
+   "file_ready": true
+  },
+  {
+   "id": "v005",
+   "file": "videos/v005_Musculo_a_los_90_LAB.mp4",
+   "title": "¿Se puede ganar músculo a los 90 años? Lo que dice la evidencia #shorts",
+   "caption": "¿Se puede ganar músculo a los 90 años? 🧓💪 En 1990, un piloto con 10 personas frágiles de ~90 años subió su fuerza un 174 % en 8 semanas, pero era pequeño y sin grupo de comparación. En 1994 se repitió con 100 adultos frágiles (edad media 87) y grupo control: en 10 semanas la fuerza aumentó 113 %, caminaron casi 12 % más rápido y el muslo creció poco (+2,7 %, no significativo). Una revisión de 22 ensayos (2020) confirma: después de los 75, entrenar fuerza aumenta fuerza y músculo.",
+   "sources": [
+    "Fiatarone et al. (1990), JAMA – piloto, n = 10",
+    "Fiatarone et al. (1994), N Engl J Med – n = 100 – doi:10.1056/NEJM199406233302501",
+    "Grgic et al. (2020), Sports Medicine – 22 ECA en ≥75 años – doi:10.1007/s40279-020-01331-7"
+   ],
+   "hashtags": "#musculo #envejecimiento #sarcopenia #cienciadelentrenamiento #salud",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "evidenceNote": "2026-11-11: cifras corregidas (piloto 1990 → ensayo 1994 → metaanálisis 2020). Versión corregida subida al repo el 11 nov (file_ready true).",
+   "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 52 s, guion verificado sin cambios)."
+  },
+  {
+   "id": "v007",
+   "file": "videos/v007_Descanso_entre_series_LAB.mp4",
+   "title": "¿Descansar 1 o 3 minutos entre series? La ciencia lo comparó #shorts",
+   "caption": "¿1 o 3 minutos de descanso entre series? ⏱️ En un ensayo con 21 hombres entrenados (8 semanas), descansar 3 minutos dio más fuerza en sentadilla y press de banca y más grosor del cuádriceps que descansar 1 minuto. Un metaanálisis de 2024 vio una ventaja pequeña al pasar de 60 s y casi ninguna diferencia más allá de 90 s. Y un estudio de 2026: descansar ~2 min rindió igual que descansar a gusto, con sesiones 29 % más cortas.",
+   "sources": [
+    "Schoenfeld et al. (2016), J Strength Cond Res – doi:10.1519/JSC.0000000000001272",
+    "Singer et al. (2024), Front Sports Act Living – metaanálisis – doi:10.3389/fspor.2024.1429789",
+    "Mohan et al. (2026), Int J Sports Med – doi:10.1055/a-2999-0052"
+   ],
+   "hashtags": "#descanso #hipertrofia #entrenamientodefuerza #gym #cienciadelentrenamiento",
+   "created": "2026-11-11T02:33:20-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 49 s, guion verificado sin cambios)."
+  },
+  {
+   "id": "v008",
+   "file": "videos/v008_Noche_sin_dormir_LAB.mp4",
+   "title": "¿Qué le pasa a tu músculo si no duermes una noche? #shorts",
+   "caption": "Una noche sin dormir y tu músculo lo nota 😴 En 13 adultos jóvenes sanos, una noche de privación total de sueño bajó la síntesis de proteína muscular un 18 %, subió el cortisol un 21 % y bajó la testosterona un 24 %. En otro estudio, 5 noches con 4 h en cama redujeron la síntesis de proteína del músculo… salvo en quienes hicieron intervalos de alta intensidad. Recomendación para adultos: 7 horas o más por noche.",
+   "sources": [
+    "Lamon et al. (2021), Physiological Reports – doi:10.14814/phy2.14660",
+    "Saner et al. (2020), J Physiol – doi:10.1113/JP278828",
+    "AASM/SRS (2015) – consenso: adultos 7 h o más por noche"
+   ],
+   "hashtags": "#sueño #recuperacion #musculo #cienciadelentrenamiento #salud",
+   "created": "2026-11-11T02:33:20-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 42 s, guion verificado sin cambios)."
+  },
+  {
+   "id": "v009",
+   "file": "videos/v009_Condicion_fisica_LAB.mp4",
+   "title": "¿Estar fuera de forma es tan riesgoso como fumar? #shorts",
+   "caption": "Tu condición física dice mucho de tu salud ❤️ En 122.007 personas que hicieron una prueba de esfuerzo (Cleveland Clinic, ~8 años de seguimiento), la peor condición física se asoció a 5 veces más riesgo de morir que el nivel élite, y estar bajo el promedio, a un riesgo similar al de fumar o tener diabetes. Sin techo: a mejor condición, menor riesgo, también después de los 70. Son estudios de asociación, pero la condición física se entrena.",
+   "sources": [
+    "Mandsager et al. (2018), JAMA Netw Open – doi:10.1001/jamanetworkopen.2018.3605",
+    "Kokkinos et al. (2022), J Am Coll Cardiol – 750.302 veteranos – doi:10.1016/j.jacc.2022.05.031",
+    "Lang et al. (2024), Br J Sports Med – 199 cohortes – doi:10.1136/bjsports-2023-107849"
+   ],
+   "hashtags": "#corazon #longevidad #cardio #vo2max #cienciadelentrenamiento",
+   "created": "2026-11-11T02:33:20-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 45 s, guion verificado sin cambios)."
+  },
+  {
+   "id": "v010",
+   "file": "videos/v010_Repeticiones_lentas_LAB.mp4",
+   "title": "¿Repeticiones lentas para ganar más músculo? Mito o realidad #shorts",
+   "caption": "¿Tienes que hacer las repeticiones lentas para ganar músculo? 🏋️ Un metaanálisis (Sports Med 2015) comparó repeticiones de 0,5 a 8 segundos: el músculo creció de forma parecida. Otro de 2025, con 14 estudios, comparó ~1 s vs. ~3,5 s: diferencia mínima. Ir extremadamente lento (>10 s por repetición) parece rendir menos (evidencia limitada). Lo que sí importa: controlar el peso y que cada serie sea exigente.",
+   "sources": [
+    "Schoenfeld, Ogborn & Krieger (2015), Sports Med – doi:10.1007/s40279-015-0304-0",
+    "Enes et al. (2025), J Strength Cond Res – doi:10.1519/JSC.0000000000005302"
+   ],
+   "hashtags": "#hipertrofia #musculo #gym #entrenamientodefuerza #cienciadelentrenamiento",
+   "created": "2026-11-11T09:31:29-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 44 s, guion verificado sin cambios)."
+  },
+  {
+   "id": "v011",
+   "file": "videos/v011_Musculo_vs_grasa_LAB.mp4",
+   "title": "¿1 kilo de músculo quema 50 calorías al día? Músculo vs. grasa #shorts",
+   "caption": "¿1 kilo de músculo quema 50 calorías al día? 🔥 En reposo, 1 kg de músculo gasta unas 13 kcal/día y 1 kg de grasa unas 4,5: casi 3 veces más, pero lejos de 50. Por kilo, corazón y riñones gastan ~440. Ganar 2 kg de músculo sumaría ~26 kcal/día en reposo. Aun así, en un metaanálisis, entrenar fuerza subió el gasto en reposo ~96 kcal/día frente a no entrenar (estudios con alto riesgo de sesgo).",
+   "sources": [
+    "Elia (1992), en Energy Metabolism: Tissue Determinants and Cellular Corollaries",
+    "Wang et al. (2010), Am J Clin Nutr – doi:10.3945/ajcn.2010.29885",
+    "MacKenzie-Shalders et al. (2020), J Sports Sci – doi:10.1080/02640414.2020.1754716"
+   ],
+   "hashtags": "#metabolismo #musculo #calorias #entrenamientodefuerza #cienciadelentrenamiento",
+   "created": "2026-11-11T09:31:29-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "recovered": "2026-11-11: MP4 recuperado desde el panel (render del motor LAB aprobado, 45 s, guion verificado sin cambios)."
+  },
+  {
+   "id": "v012",
+   "file": "videos/v012_Diez_mil_pasos_LAB.mp4",
+   "title": "¿De verdad necesitas 10.000 pasos al día? Lo que dicen 57 estudios #shorts",
+   "caption": "¿10.000 pasos al día? 👟 La cifra nació en la publicidad de un podómetro japonés de 1965 (el “manpo-kei”), no en un estudio. Una revisión de 57 estudios (Lancet Public Health, 2025) encontró que, frente a 2.000 pasos, caminar 7.000 al día se asoció con un 47 % menos de riesgo de morir, 38 % menos de demencia y 22 % menos de síntomas depresivos. El mayor beneficio llega antes de los 7.000; 10.000 sigue siendo una buena meta si ya eres activo. Son estudios de asociación, no prueban causa.",
+   "sources": [
+    "Ding et al. (2025), Lancet Public Health – 57 estudios – doi:10.1016/S2468-2667(25)00164-1",
+    "Paluch et al. (2022), Lancet Public Health – 15 cohortes – doi:10.1016/S2468-2667(21)00302-9",
+    "Lee et al. (2019), JAMA Intern Med – doi:10.1001/jamainternmed.2019.0899",
+    "Tudor-Locke y Bassett (2004), Sports Med – origen de los 10.000 pasos – doi:10.2165/00007256-200434010-00001"
+   ],
+   "hashtags": "#pasos #caminar #longevidad #salud #cienciadelentrenamiento",
+   "created": "2026-11-12T02:26:29-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true
+  },
+  {
+   "id": "v013",
+   "file": "videos/v013_Pesas_ligeras_vs_pesadas_LAB.mp4",
+   "title": "¿Pesas ligeras o pesadas para ganar músculo? La ciencia las comparó #shorts",
+   "caption": "¿Pesas ligeras o pesadas? 🏋️ Un metaanálisis de 21 estudios comparó cargas bajas (hasta el 60 % de tu máximo) con cargas altas, siempre llevando las series al fallo: el músculo creció de forma similar, pero la fuerza máxima (1RM) subió más con cargas altas. Un metaanálisis en red de 2021 (28 estudios, 747 adultos) llegó a lo mismo. Con peso liviano necesitas más de 15 repeticiones para llegar a ese esfuerzo. Músculo: la carga que manejes bien. Fuerza máxima: entrena pesado.",
+   "sources": [
+    "Schoenfeld et al. (2017), J Strength Cond Res – 21 estudios – doi:10.1519/JSC.0000000000002200",
+    "Lopez et al. (2021), Med Sci Sports Exerc – 28 estudios, 747 adultos – doi:10.1249/MSS.0000000000002585",
+    "Schoenfeld et al. (2016), Eur J Sport Sci – doi:10.1080/17461391.2014.989922"
+   ],
+   "hashtags": "#hipertrofia #pesas #fuerza #gimnasio #cienciadelentrenamiento",
+   "created": "2026-11-12T02:30:35-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true
+  },
+  {
+   "id": "v014",
+   "file": "videos/v014_Tres_semanas_sin_entrenar_LAB.mp4",
+   "title": "¿Qué pasa si dejas de entrenar 3 semanas? Lo que dice la ciencia #shorts",
+   "caption": "¿3 semanas sin entrenar? 🗓️ En pausas de menos de 4 semanas, la fuerza casi no baja (las pérdidas crecen con la duración de la pausa y son mayores después de los 65, según un metaanálisis de 103 estudios). El cardio baja antes: en atletas de resistencia, el VO2 máx cayó un 7 % en 3 semanas. Y en un ensayo con 14 hombres jóvenes, entrenar press de banca 6 semanas, parar 3 y repetir el ciclo dio la misma ganancia de músculo y fuerza a las 24 semanas que entrenar sin pausas. Unas vacaciones no borran tu progreso: lo que lo borra es no volver.",
+   "sources": [
+    "Mujika y Padilla (2000), Sports Med – doi:10.2165/00007256-200030020-00002",
+    "Bosquet et al. (2013), Scand J Med Sci Sports – 103 estudios – doi:10.1111/sms.12047",
+    "Coyle et al. (1984), J Appl Physiol – doi:10.1152/jappl.1984.57.6.1857",
+    "Ogasawara et al. (2013), Eur J Appl Physiol – doi:10.1007/s00421-012-2511-9"
+   ],
+   "hashtags": "#desentrenamiento #fuerza #musculo #recuperacion #cienciadelentrenamiento",
+   "created": "2026-11-12T02:33:23-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true
+  },
+  {
+   "id": "v015",
+   "file": "videos/v015_Entrenar_de_noche_LAB.mp4",
+   "title": "¿Entrenar de noche arruina tu sueño? Mito o realidad #shorts",
+   "caption": "¿Entrenar de noche arruina tu sueño? 🌙 Un metaanálisis de 23 estudios en adultos sanos no encontró que el ejercicio en la tarde-noche empeore el sueño; incluso el sueño profundo subió un poco (+1,3 puntos porcentuales). La excepción: un entrenamiento intenso que termina 1 hora o menos antes de acostarte. Un estudio observacional de 2025 (14.689 personas, más de 4 millones de noches con pulsera biométrica) vio que cuanto más intenso y más tarde, más tardaban en dormirse, dormían menos y el pulso nocturno subía; si terminaban 4 horas o más antes de dormir, no hubo cambios. Veredicto: entrena de noche si te acomoda, pero deja lo más intenso para antes.",
+   "sources": [
+    "Stutz, Eiholzer y Spengler (2019), Sports Med – 23 estudios – doi:10.1007/s40279-018-1015-0",
+    "Leota et al. (2025), Nat Commun – 14.689 personas, 4.084.354 noches – doi:10.1038/s41467-025-58271-x"
+   ],
+   "hashtags": "#sueño #entrenamiento #recuperacion #ejercicio #cienciadelentrenamiento",
+   "created": "2026-11-12T09:24:56-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true
+  }
+ ]
 }
