@@ -242,7 +242,7 @@
    "created": "2026-11-11T02:33:20-03:00",
    "slot": "2026-11-12T20:00:00-03:00",
    "youtube": {
-    "status": "pending",
+    "status": "scheduled",
     "vidiq_post": "d84f28fd-b146-48fb-9ad3-3ac586e78511",
     "uploadId": "71a8839c-2ec7-40cc-be68-ecc858d00979",
     "via": "vidIQ",
@@ -252,7 +252,7 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending",
+    "status": "scheduled",
     "vidiq_post": "d84f28fd-b146-48fb-9ad3-3ac586e78511",
     "uploadId": "71a8839c-2ec7-40cc-be68-ecc858d00979",
     "via": "vidIQ",
