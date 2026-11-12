@@ -158,7 +158,7 @@
    "hashtags": "#musculo #envejecimiento #sarcopenia #cienciadelentrenamiento #salud",
    "slot": "2026-11-12T12:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "cf5be899-0491-4239-afa7-bee06e93bf91",
     "publishAt": "2026-11-12T12:00:00-03:00",
@@ -174,10 +174,11 @@
     "containerId": "18041285084688469"
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "a2c0810e-01c6-4c14-9ee6-78040ff201ea",
-    "publishAt": "2026-11-12T14:00:00-03:00"
+    "publishAt": "2026-11-12T14:00:00-03:00",
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7707330864082046226"
    },
    "synced_to_pc": false,
    "file_ready": true,
