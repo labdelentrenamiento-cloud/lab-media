@@ -21,6 +21,14 @@ Regla de seguridad: queue.json es la única fuente de verdad. Solo se publican v
 ## Producción
 Antes de elegir temas, leer el informe más reciente en `stats/` (sección "Para producción") y seguir sus recomendaciones de temas, formatos y ganchos.
 
+## Portada (obligatoria en cada video)
+Instagram y TikTok usan el PRIMER cuadro del video como portada, y la grilla del perfil de Instagram recorta al centro 3:4. Por eso cada video lleva una portada propia como primeros 0,2 s:
+`python3 motor/cover.py videos/vNNN_X_LAB.mp4 "LÍNEA 1|LÍNEA *CLAVE*|LÍNEA 3" videos/vNNN_X_LAB.mp4 --png portadas/vNNN_portada.png`
+- 2–3 líneas cortas en MAYÚSCULAS con el gancho (pregunta o promesa), 1–2 palabras clave entre *asteriscos* (van en ámbar). Nada de spoilers del resultado en el texto.
+- Revisa la PNG antes de guardar: texto completo, sin superposiciones, legible en miniatura, colores cálidos (no todo azul).
+- En queue.json: `cover` (texto), `cover_png` y `cover_in_video: true`. No publiques un video sin `cover_in_video: true`.
+- YouTube: si la API/Studio lo permite, usar portadas/vNNN_portada.png como miniatura.
+
 ## Publicación (orden por slot: YouTube H → Instagram H+1 → TikTok H+2)
 Slots actuales (America/Santiago): ver `queue.json` → `slots`. Se ajustan con las estadísticas semanales.
 
