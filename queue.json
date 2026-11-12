@@ -399,6 +399,31 @@
    },
    "synced_to_pc": false,
    "file_ready": true
+  },
+  {
+   "id": "v016",
+   "file": "videos/v016_Fuerza_para_vivir_mas_LAB.mp4",
+   "title": "¿Cuántos minutos de pesas para vivir más? Lo que dicen los metaanálisis #shorts",
+   "caption": "Si quisieras vivir más gracias a las pesas, ¿cuánto necesitas? 🏋️ Menos de lo que crees: entre 30 y 60 minutos a la semana. Un metaanálisis de 16 estudios de cohortes asoció el entrenamiento de fuerza con un 10–17 % menos riesgo de morir por cualquier causa, de enfermedad cardiovascular, cáncer y diabetes. Otro metaanálisis vio la mayor reducción (27 %) cerca de los 60 minutos semanales, y más allá el beneficio no siguió aumentando. Ojo: son estudios observacionales (asociación, no causa). Para empezar: 2 sesiones de 20–30 minutos con los grandes grupos musculares, como recomienda la OMS (fuerza 2 o más días por semana).",
+   "sources": [
+    "Momma et al. (2022), Br J Sports Med – 16 estudios – doi:10.1136/bjsports-2021-105061",
+    "Shailendra et al. (2022), Am J Prev Med – doi:10.1016/j.amepre.2022.03.020",
+    "Bull et al. (2020), Directrices de la OMS sobre actividad física, Br J Sports Med – doi:10.1136/bjsports-2020-102955"
+   ],
+   "hashtags": "#fuerza #longevidad #pesas #salud #cienciadelentrenamiento",
+   "created": "2026-11-12T09:29:03-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true
   }
  ]
 }
