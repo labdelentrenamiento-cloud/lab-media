@@ -210,7 +210,10 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "07d7514e-21d9-43e5-87f5-0e12c02a46c7",
+    "publishAt": "2026-11-12T18:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
