@@ -289,13 +289,14 @@
    "created": "2026-11-11T02:33:20-03:00",
    "slot": "2026-11-13T12:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "142fdcdf-ab38-4b68-a95e-51dd647f7613",
     "publicationId": "40a1fc98-c38e-4041-9849-1247c0302b21",
     "uploadId": "c3f471d9-3b7b-46d4-89f5-8e62779af581",
     "publishAt": null,
-    "note": "slot 12:00 ya pasado (ejecución atrasada): público inmediato"
+    "note": "slot 12:00 ya pasado (ejecución atrasada): público inmediato",
+    "url": "https://youtube.com/shorts/qIJBfTjMAWk"
    },
    "instagram": {
     "status": "pending"
