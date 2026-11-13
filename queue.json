@@ -524,6 +524,37 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v017",
+   "file": "videos/v017_Metabolismo_a_los_30_LAB.mp4",
+   "title": "¿Tu metabolismo se frena a los 30? Mito vs. realidad #shorts",
+   "caption": "¿Tu metabolismo se frena a los 30? 🔥 Un estudio en Science midió el gasto de energía de más de 6.600 personas (de 8 días a 95 años, 29 países) con agua doblemente marcada. Ajustado por tamaño y masa libre de grasa: el récord es cerca del año de vida (~50 % más que un adulto), entre los 20 y los 60 años se mantiene estable y recién después de los 60 baja cerca de un 0,7 % por año. Lo que más pesa en tu gasto diario es tu tamaño y tu masa libre de grasa, como el músculo. Son promedios: cada persona varía.\n\n¿A qué edad sentiste que tu metabolismo cambió? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Pontzer et al. (2021), Science – 6.600+ personas, 29 países – doi:10.1126/science.abe5017",
+    "Duke University (2021), 'Metabolism changes with age, just not when you might think' – resumen oficial del estudio",
+    "Bull et al. (2020), Directrices de la OMS sobre actividad física, Br J Sports Med – doi:10.1136/bjsports-2020-102955"
+   ],
+   "hashtags": "#metabolismo #musculo #fuerza #salud #mitosfitness #cienciadelentrenamiento",
+   "created": "2026-11-13T02:39:21-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿TU *METABOLISMO*|SE FRENA|A LOS 30?",
+   "cover_png": "portadas/v017_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ]
 }

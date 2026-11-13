@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "¿Tu metabolismo se frena a los treinta? Es uno de los mitos más repetidos.", "show": "¿Tu metabolismo se frena a los 30? Es uno de los mitos más repetidos.", "gap": 0.36},
+  {"shot": "study", "say": "Un estudio en la revista Sáiens midió el gasto de energía de más de seis mil seiscientas personas, de veintinueve países.", "show": "Un estudio en la revista Science midió el gasto de energía de más de 6.600 personas, de 29 países.", "gap": 0.36},
+  {"shot": "baby", "say": "El récord es al año de vida: un bebé gasta cerca de un cincuenta por ciento más que un adulto, ajustado por su tamaño.", "show": "El récord es al año de vida: un bebé gasta cerca de un 50 % más que un adulto, ajustado por su tamaño.", "gap": 0.36},
+  {"shot": "flat", "say": "Pero entre los veinte y los sesenta años, ese gasto ajustado se mantiene estable.", "show": "Pero entre los 20 y los 60 años, ese gasto ajustado se mantiene estable.", "gap": 0.36},
+  {"shot": "drop", "say": "Recién después de los sesenta empieza a bajar, cerca de un cero coma siete por ciento por año.", "show": "Recién después de los 60 empieza a bajar, cerca de un 0,7 % por año.", "gap": 0.36},
+  {"shot": "ffm", "say": "Lo que más pesa en tu gasto diario es tu tamaño y tu masa libre de grasa, como el músculo.", "show": "Lo que más pesa en tu gasto diario es tu tamaño y tu masa libre de grasa, como el músculo.", "gap": 0.36},
+  {"shot": "caveat", "say": "Ojo: son promedios, y cada persona varía.", "show": "Ojo: son promedios, y cada persona varía.", "gap": 0.36},
+  {"shot": "plan", "say": "Por eso, conservar tu músculo con entrenamiento de fuerza es una gran forma de cuidar tu gasto diario.", "show": "Por eso, conservar tu músculo con entrenamiento de fuerza es una gran forma de cuidar tu gasto diario.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}
