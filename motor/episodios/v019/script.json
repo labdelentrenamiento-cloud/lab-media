@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "¿Qué ejercicio ayuda más contra la depresión? Un estudio en la revista be eme jota analizó doscientos dieciocho ensayos.", "show": "¿Qué ejercicio ayuda más contra la depresión? Un estudio en la revista BMJ analizó 218 ensayos.", "gap": 0.36},
+  {"shot": "study", "say": "Más de catorce mil personas con depresión, comparadas con grupos de control.", "show": "Más de 14.000 personas con depresión, comparadas con grupos de control.", "gap": 0.36},
+  {"shot": "rank", "say": "Caminar o trotar mostró el mayor efecto, seguido del yoga y del entrenamiento de fuerza.", "show": "Caminar o trotar mostró el mayor efecto, seguido del yoga y del entrenamiento de fuerza.", "gap": 0.36},
+  {"shot": "intensity", "say": "Los efectos fueron moderados, y mayores cuanto más intenso era el ejercicio indicado.", "show": "Los efectos fueron moderados, y mayores cuanto más intenso era el ejercicio indicado.", "gap": 0.36},
+  {"shot": "tolerance", "say": "La fuerza y el yoga fueron los mejor tolerados.", "show": "La fuerza y el yoga fueron los mejor tolerados.", "gap": 0.36},
+  {"shot": "caveat", "say": "Ojo: la certeza de la evidencia fue baja, y el ejercicio no reemplaza tu tratamiento.", "show": "Ojo: la certeza de la evidencia fue baja, y el ejercicio no reemplaza tu tratamiento.", "gap": 0.36},
+  {"shot": "core", "say": "Los autores proponen considerarlo junto a la psicoterapia y los antidepresivos, como un tratamiento central.", "show": "Los autores proponen considerarlo junto a la psicoterapia y los antidepresivos, como un tratamiento central.", "gap": 0.36},
+  {"shot": "plan", "say": "Si te sientes así, habla con un profesional: moverte puede ser parte del plan.", "show": "Si te sientes así, habla con un profesional: moverte puede ser parte del plan.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}

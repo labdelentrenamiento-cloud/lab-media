@@ -586,6 +586,36 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v019",
+   "file": "videos/v019_Ejercicio_y_depresion_LAB.mp4",
+   "title": "¿Qué ejercicio ayuda más contra la depresión? Estudio de 218 ensayos explicado #shorts",
+   "caption": "¿Qué ejercicio ayuda más contra la depresión? 🧠 Un metaanálisis en red publicado en el BMJ (2024) reunió 218 ensayos con más de 14.000 personas con depresión. Frente a controles activos, caminar o trotar mostró el mayor efecto, seguido del yoga y del entrenamiento de fuerza; los efectos fueron moderados y mayores cuanto más intenso era el ejercicio indicado. La fuerza y el yoga fueron los mejor tolerados. Ojo: la certeza de la evidencia fue baja y el ejercicio no reemplaza tu tratamiento; los autores proponen considerarlo junto a la psicoterapia y los antidepresivos. Si te sientes así, habla con un profesional: moverte puede ser parte del plan.\n\n¿Qué tipo de ejercicio te ayuda más a despejar la mente? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Noetel et al. (2024), BMJ – metaanálisis en red, 218 ensayos, 14.170 participantes – doi:10.1136/bmj-2023-075847",
+    "Heissel et al. (2023), Br J Sports Med – 41 estudios, ejercicio y síntomas depresivos – doi:10.1136/bjsports-2022-106282"
+   ],
+   "hashtags": "#saludmental #depresion #ejercicio #cerebro #cienciadelentrenamiento",
+   "created": "2026-11-13T02:43:47-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿QUÉ *EJERCICIO*|AYUDA MÁS CONTRA|LA *DEPRESIÓN*?",
+   "cover_png": "portadas/v019_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ]
 }
