@@ -299,7 +299,13 @@
     "url": "https://youtube.com/shorts/qIJBfTjMAWk"
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DfsDeHvirmL/",
+    "via": "vidIQ",
+    "ai_label": true,
+    "mediaId": "18000755009827307",
+    "containerId": "18041586956688469",
+    "published_at": "2026-11-13T13:25:00-03:00"
    },
    "tiktok": {
     "status": "scheduled",
