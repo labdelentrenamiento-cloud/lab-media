@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "¿Estirar antes de entrenar te protege de lesiones? Un metaanálisis lo comparó.", "show": "¿Estirar antes de entrenar te protege de lesiones? Un metaanálisis lo comparó.", "gap": 0.36},
+  {"shot": "study", "say": "Reunió veinticinco ensayos controlados, con más de veintiséis mil participantes.", "show": "Reunió 25 ensayos controlados, con más de 26.000 participantes.", "gap": 0.36},
+  {"shot": "stretch", "say": "El estiramiento no mostró efecto protector: el riesgo quedó prácticamente igual.", "show": "El estiramiento no mostró efecto protector: el riesgo quedó prácticamente igual.", "gap": 0.36},
+  {"shot": "proprio", "say": "El entrenamiento de equilibrio y propiocepción lo redujo casi a la mitad.", "show": "El entrenamiento de equilibrio y propiocepción lo redujo casi a la mitad.", "gap": 0.36},
+  {"shot": "strength", "say": "Y el entrenamiento de fuerza redujo las lesiones a menos de un tercio.", "show": "Y el entrenamiento de fuerza redujo las lesiones a menos de un tercio.", "gap": 0.36},
+  {"shot": "dose", "say": "Una revisión de dos mil dieciocho lo confirmó: más volumen de fuerza se asoció con menos lesiones.", "show": "Una revisión de 2018 lo confirmó: más volumen de fuerza se asoció con menos lesiones.", "gap": 0.36},
+  {"shot": "caveat", "say": "Ojo: estirar sí mejora tu flexibilidad; solo que, por sí solo, no previene lesiones.", "show": "Ojo: estirar sí mejora tu flexibilidad; solo que, por sí solo, no previene lesiones.", "gap": 0.36},
+  {"shot": "plan", "say": "Si quieres entrenar sin lesionarte, no dejes fuera la fuerza.", "show": "Si quieres entrenar sin lesionarte, no dejes fuera la fuerza.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}

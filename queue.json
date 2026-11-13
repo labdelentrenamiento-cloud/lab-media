@@ -555,6 +555,37 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v018",
+   "file": "videos/v018_Estirar_vs_fuerza_lesiones_LAB.mp4",
+   "title": "¿Estirar te protege de lesiones? Estirar vs. fuerza, la ciencia los comparó #shorts",
+   "caption": "¿Estirar antes de entrenar te protege de lesiones? 🛡️ Un metaanálisis de 25 ensayos controlados (26.610 participantes, sobre todo deportistas y personas activas) comparó programas de prevención: el estiramiento no mostró efecto protector (riesgo ≈ 96 % del grupo sin programa), el entrenamiento de equilibrio y propiocepción lo redujo casi a la mitad y el de fuerza a menos de un tercio. Una revisión de 2018 lo confirmó y vio que más volumen de fuerza se asoció con menos lesiones. Ojo: estirar sí mejora la flexibilidad; solo que, por sí solo, no previene lesiones.\n\n¿Tú estiras, haces fuerza o ambas antes de entrenar? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Lauersen et al. (2014), Br J Sports Med – 25 ensayos, 26.610 participantes – doi:10.1136/bjsports-2013-092538",
+    "Lauersen et al. (2018), Br J Sports Med – fuerza y prevención de lesiones, dosis-respuesta – doi:10.1136/bjsports-2018-099078",
+    "Rudisill et al. (2022), Am J Sports Med – estiramiento y flexibilidad; fuerza excéntrica e isquiotibiales – doi:10.1177/03635465221083998"
+   ],
+   "hashtags": "#lesiones #estiramiento #fuerza #prevencion #cienciadelentrenamiento",
+   "created": "2026-11-13T02:40:31-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿*ESTIRAR*|TE PROTEGE DE|*LESIONES*?",
+   "cover_png": "portadas/v018_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ]
 }
