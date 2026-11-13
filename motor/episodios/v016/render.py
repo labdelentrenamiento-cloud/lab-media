@@ -1,4 +1,5 @@
 """v016 · Si quisieras vivir más con pesas: ¿cuántos minutos? (serie LONGEVIDAD-FUERZA · paleta coral)
+Corregido 2026-11-13: se agrega Zhang et al., Br J Sports Med 2026 (147.374 adultos, menor riesgo 90–119 min/sem).
 Uso: copiar a la carpeta del episodio (con timeline.json) y correr
   python3 render.py preview 2 8 ...   |   python3 render.py part 0 2
 """
@@ -98,7 +99,6 @@ def week(ctx, k, a, days=(1, 3), y=640):
             for sgn in (-1, 1):
                 rrect(ctx, sgn * 110 - 18, -70, 36, 140, 8); ctx.set_source_rgba(*GR, kk * a); ctx.fill()
             ctx.restore()
-            text(ctx, "20–30'", x + (sz - 14) / 2, y + 225, F_MONO, 24, GR, kk * a, align="center", bold=True)
 
 
 def neq(ctx, k, a):
@@ -115,22 +115,58 @@ def neq(ctx, k, a):
         ctx.set_source_rgba(*WH, ka); ctx.set_line_width(14); ctx.set_line_cap(cairo.LINE_CAP_ROUND); ctx.stroke()
 
 
+
+def hr26(m):
+    """esquema Zhang 2026: HR vs min/semana; mínimo ~0.87 en 90–119, meseta >= 120"""
+    if m <= 105:
+        return 1.0 - 0.13 * (1 - (1 - m / 105) ** 2)
+    return 0.87
+
+
+def curve(ctx, x0, y0, w, h, fn, upto, a, zones=(), mx=180):
+    lo, hi = 0.6, 1.05
+    Y = lambda r: y0 + h - (r - lo) / (hi - lo) * h
+    ctx.set_line_width(2)
+    for i in range(5):
+        yy = y0 + h - i * h / 4
+        ctx.move_to(x0, yy); ctx.line_to(x0 + w, yy); ctx.set_source_rgba(*CY, 0.12 * a); ctx.stroke()
+    ctx.move_to(x0, y0); ctx.line_to(x0, y0 + h); ctx.line_to(x0 + w, y0 + h); ctx.set_source_rgba(*CY, 0.6 * a); ctx.set_line_width(3); ctx.stroke()
+    for m in range(0, mx + 1, 30):
+        text(ctx, str(m), x0 + m / mx * w, y0 + h + 40, F_MONO, 24, MU, a, align="center")
+    text(ctx, "MIN/SEMANA DE FUERZA", x0 + w, y0 + h + 82, F_MONO, 22, MU, a, align="right")
+    text(ctx, "RIESGO DE MORIR", x0, y0 - 18, F_MONO, 22, MU, a)
+    ctx.move_to(x0, Y(1.0)); ctx.line_to(x0 + w, Y(1.0)); ctx.set_dash([10, 10]); ctx.set_source_rgba(*WH, 0.35 * a); ctx.stroke(); ctx.set_dash([])
+    for (m0, m1, col, zk) in zones:
+        if zk > 0:
+            xs, xe = x0 + m0 / mx * w, x0 + m1 / mx * w
+            rrect(ctx, xs, y0, (xe - xs) * zk, h, 10); ctx.set_source_rgba(*col, 0.14 * a); ctx.fill()
+    n = max(2, int(120 * upto))
+    pts = [(x0 + (i / 120) * w, Y(fn(i / 120 * mx))) for i in range(n + 1)]
+    ctx.new_path(); ctx.move_to(*pts[0])
+    for p in pts[1:]: ctx.line_to(*p)
+    ctx.set_source_rgba(*TL, a); ctx.set_line_width(7); ctx.stroke()
+    ctx.new_path(); ctx.arc(*pts[-1], 10, 0, 6.283); ctx.set_source_rgba(*WH, a); ctx.fill()
+
+
 def neon(ctx, i, u, d, t, lt):
     k = ease(u / 0.35)
     if i == 0:
         hourglass(ctx, 540, 720, 1.0, t, k)
         barbell_icon(ctx, 540, 1070, t, a=ease((u - 0.8) / 0.4))
     elif i == 1:
-        big(ctx, "30–60", 540, 860, 260, TL, easeb((u - 0.2) / 0.5) * k, maxw=900)
-        big(ctx, "MIN / SEMANA", 540, 1000, 90, CY, ease((u - 0.9) / 0.4))
-    elif i == 2:
         v = 10 + 7 * ease((u - 0.8) / 1.4)
         big(ctx, "−10 a −%d %%" % round(v), 540, 700, 150, GR, ease((u - 0.5) / 0.4), maxw=900)
+    elif i == 2:
+        curve(ctx, 150, 600, 800, 440, lambda m: risk(m / 150), ease((u - 0.2) / 1.8), k,
+              zones=[(30, 60, GR, ease((u - 1.6) / 0.8))], mx=150)
     elif i == 3:
-        jcurve(ctx, 150, 560, 800, 460, ease((u - 0.2) / 2.2), k, mark=ease((u - 2.2) / 0.4))
-        big(ctx, "−27 %", 540, 1200, 110, GR, ease((u - 2.4) / 0.4))
+        n = int(147374 * ease((u - 0.3) / 2.0))
+        big(ctx, "{:,}".format(n).replace(",", "."), 540, 760, 190, TL, k)
+        hourglass(ctx, 540, 1040, 0.45, t, ease((u - 1.6) / 0.4))
     elif i == 4:
-        jcurve(ctx, 150, 560, 800, 460, 1.0, k, mark=1.0, shade=ease((u - 0.4) / 1.0))
+        curve(ctx, 150, 600, 800, 440, hr26, ease((u - 0.2) / 2.4), k,
+              zones=[(90, 119, GR, ease((u - 2.0) / 0.6)), (120, 180, AM, ease((u - 4.4) / 0.8))])
+        big(ctx, "−13 %", 540, 1212, 96, GR, ease((u - 2.6) / 0.4))
     elif i == 5:
         neq(ctx, ease((u - 0.2) / 1.6), k)
     elif i == 6:
@@ -152,25 +188,26 @@ def txt(ctx, i, u, d, t, lt):
         pill(ctx, "SI QUISIERAS… · LONGEVIDAD", W / 2, 196, CY, k, 28)
         title(ctx, "¿CUÁNTA FUERZA PARA VIVIR MÁS?", WH, 350, 88, k)
     elif i == 1:
-        pill(ctx, "LA RESPUESTA", W / 2, 196, TL, k, 30, filled=True)
-        title(ctx, "MENOS DE LO QUE CREES", WH, 345, 92, k)
-        src(ctx, "Momma et al., Br J Sports Med 2022 · Shailendra et al., Am J Prev Med 2022", k, 1240)
-    elif i == 2:
         pill(ctx, "METAANÁLISIS · 16 ESTUDIOS", W / 2, 196, CY, k, 28)
         title(ctx, "MENOS RIESGO DE…", WH, 345, 96, k)
         for j, (lab, col) in enumerate((("MORIR POR CUALQUIER CAUSA", GR), ("ENFERMEDAD CARDIOVASCULAR", TL), ("CÁNCER", AM), ("DIABETES", CY))):
             a = ease((u - 2.0 - j * 1.3) / 0.4)
             pill(ctx, lab, W / 2, 830 + j * 92, col, a, 34, filled=(j == 0))
         src(ctx, "cohortes de adultos · Momma et al., Br J Sports Med 2022", k, 1250)
+    elif i == 2:
+        pill(ctx, "METAANÁLISIS 2022", W / 2, 196, CY, k, 28)
+        title(ctx, "MÁXIMO: 30–60 MIN", GR, 345, 96, k)
+        src(ctx, "esquema ilustrativo · Momma 2022 · Shailendra 2022", k, 1250)
     elif i == 3:
-        pill(ctx, "OTRO METAANÁLISIS · AM J PREV MED 2022", W / 2, 196, CY, k, 26)
-        title(ctx, "MÁXIMO CERCA DE 60 MIN", GR, 345, 92, k)
-        src(ctx, "esquema ilustrativo · Shailendra et al., 2022", k, 1265)
+        pill(ctx, "NUEVO · BR J SPORTS MED 2026", W / 2, 196, TL, k, 28, filled=True)
+        title(ctx, "ADULTOS SEGUIDOS 30 AÑOS", WH, 345, 88, k)
+        text(ctx, "ADULTOS", W / 2, 850, F_MONO, 32, TL, k, align="center", bold=True)
+        src(ctx, "3 cohortes de EE. UU. · Zhang et al., Br J Sports Med 2026", k, 1250)
     elif i == 4:
-        pill(ctx, "MÁS DE 60 MIN", W / 2, 196, AM, k, 30, filled=True)
-        title(ctx, "SIN BENEFICIO EXTRA", AM, 345, 96, k)
-        text(ctx, "ZONA > 60 MIN", 760, 600, F_MONO, 26, AM, ease((u - 0.6) / 0.4), align="center", bold=True)
-        src(ctx, "esquema ilustrativo · curva en J · Momma 2022 y Shailendra 2022", k, 1200)
+        pill(ctx, "MENOR RIESGO", W / 2, 196, GR, k, 30, filled=True)
+        title(ctx, "90–119 MIN POR SEMANA", GR, 345, 92, k)
+        text(ctx, "SIN GANANCIA EXTRA", 150 + 150 / 180 * 800, 640, F_MONO, 24, AM, ease((u - 4.6) / 0.4), align="center", bold=True)
+        src(ctx, "esquema ilustrativo · Zhang et al., Br J Sports Med 2026", k, 1325)
     elif i == 5:
         pill(ctx, "OJO", W / 2, 196, RD, k, 30)
         title(ctx, "ESTUDIOS OBSERVACIONALES", WH, 345, 88, k)
@@ -183,12 +220,6 @@ def txt(ctx, i, u, d, t, lt):
         src(ctx, "OMS 2020: fuerza ≥ 2 días/semana · Bull et al., Br J Sports Med 2020", k, 1240)
     elif i == 7:
         title(ctx, "MÁS CIENCIA DEL ENTRENAMIENTO", WH, 345, 80, k)
-        a = ease((u - 0.8) / 0.4)
-        if a > 0:
-            pulse = 1 + 0.04 * math.sin(t * 7)
-            ctx.save(); ctx.translate(540, 1000); ctx.scale(pulse, pulse)
-            rrect(ctx, -170, -50, 340, 100, 50); ctx.set_source_rgba(*RD, a); ctx.fill()
-            text(ctx, "SEGUIR", 0, 18, F_UI, 50, WH, a, align="center", bold=True); ctx.restore()
 
 
 run_episode(neon, txt, "EXPEDIENTE 16 · LONGEVIDAD")

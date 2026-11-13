@@ -497,11 +497,12 @@
   {
    "id": "v016",
    "file": "videos/v016_Fuerza_para_vivir_mas_LAB.mp4",
-   "title": "¿Cuántos minutos de pesas para vivir más? Lo que dicen los metaanálisis #shorts",
-   "caption": "Si quisieras vivir más gracias a las pesas, ¿cuánto necesitas? 🏋️ Menos de lo que crees: entre 30 y 60 minutos a la semana. Un metaanálisis de 16 estudios de cohortes asoció el entrenamiento de fuerza con un 10–17 % menos riesgo de morir por cualquier causa, de enfermedad cardiovascular, cáncer y diabetes. Otro metaanálisis vio la mayor reducción (27 %) cerca de los 60 minutos semanales, y más allá el beneficio no siguió aumentando. Ojo: son estudios observacionales (asociación, no causa). Para empezar: 2 sesiones de 20–30 minutos con los grandes grupos musculares, como recomienda la OMS (fuerza 2 o más días por semana).",
+   "title": "¿Cuántos minutos de pesas para vivir más? Lo que dice la ciencia en 2026 #shorts",
+   "caption": "Si quisieras vivir más gracias a las pesas, ¿cuántos minutos a la semana necesitarías? 🏋️ Un metaanálisis de 16 estudios asoció el entrenamiento de fuerza con un 10–17 % menos riesgo de morir por cualquier causa, de enfermedad cardiovascular, cáncer y diabetes; ahí, la mayor reducción aparecía entre 30 y 60 minutos semanales. Pero un estudio de 2026 (Br J Sports Med) siguió a más de 147.000 adultos hasta por 30 años: el menor riesgo de morir por cualquier causa (13 % menos) apareció entre 90 y 119 minutos por semana, y sobre las 2 horas no hubo ganancia extra. Ojo: son estudios observacionales (asociación, no causa). Para empezar: 2 sesiones por semana con los grandes grupos musculares, como recomienda la OMS.\n\n¿Cuántos minutos de fuerza haces tú a la semana? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
    "sources": [
     "Momma et al. (2022), Br J Sports Med – 16 estudios – doi:10.1136/bjsports-2021-105061",
     "Shailendra et al. (2022), Am J Prev Med – doi:10.1016/j.amepre.2022.03.020",
+    "Zhang et al. (2026), Br J Sports Med – 147.374 adultos, hasta 30 años – doi:10.1136/bjsports-2025-110503",
     "Bull et al. (2020), Directrices de la OMS sobre actividad física, Br J Sports Med – doi:10.1136/bjsports-2020-102955"
    ],
    "hashtags": "#fuerza #longevidad #pesas #salud #cienciadelentrenamiento",
@@ -523,7 +524,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-13: corregido antes de publicar. El guion decía 'entre 30 y 60 min' y 'más allá de 60 min el beneficio no siguió aumentando' (Momma 2022, Shailendra 2022). Zhang et al., Br J Sports Med 2026 (147.374 adultos, hasta 30 años) encontró el menor riesgo de mortalidad total entre 90 y 119 min/semana (HR 0,87) y meseta desde ~120 min. Se reescribieron las escenas 2–5, se cambió el cierre por el de compartir, se re-renderizó (53 s) con portada y se reemplazó el MP4."
   },
   {
    "id": "v017",

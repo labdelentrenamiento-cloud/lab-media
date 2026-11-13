@@ -2,12 +2,12 @@
  "tail": 1.4,
  "lines": [
   {"shot": "hook", "say": "Si quisieras vivir más gracias a las pesas, ¿cuántos minutos a la semana necesitarías?", "show": "Si quisieras vivir más gracias a las pesas, ¿cuántos minutos a la semana necesitarías?", "gap": 0.36},
-  {"shot": "answer", "say": "Menos de lo que crees: entre treinta y sesenta.", "show": "Menos de lo que crees: entre 30 y 60.", "gap": 0.36},
   {"shot": "meta1", "say": "Un metaanálisis de dieciséis estudios vio que quienes hacían fuerza tenían entre diez y diecisiete por ciento menos riesgo de morir, de enfermedad cardiovascular, cáncer y diabetes.", "show": "Un metaanálisis de 16 estudios vio que quienes hacían fuerza tenían entre 10 y 17 % menos riesgo de morir, de enfermedad cardiovascular, cáncer y diabetes.", "gap": 0.36},
-  {"shot": "meta2", "say": "Otro encontró la mayor reducción, un veintisiete por ciento, cerca de los sesenta minutos semanales.", "show": "Otro encontró la mayor reducción, un 27 %, cerca de los 60 minutos semanales.", "gap": 0.36},
-  {"shot": "plateau", "say": "Más allá de eso, el beneficio no siguió aumentando.", "show": "Más allá de eso, el beneficio no siguió aumentando.", "gap": 0.36},
+  {"shot": "meta2", "say": "Ahí, la mayor reducción aparecía entre treinta y sesenta minutos semanales.", "show": "Ahí, la mayor reducción aparecía entre 30 y 60 minutos semanales.", "gap": 0.36},
+  {"shot": "cohort", "say": "Pero un estudio de dos mil veintiséis siguió a más de ciento cuarenta y siete mil adultos, hasta por treinta años.", "show": "Pero un estudio de 2026 siguió a más de 147.000 adultos, hasta por 30 años.", "gap": 0.36},
+  {"shot": "plateau", "say": "El menor riesgo, un trece por ciento menos, apareció entre noventa y ciento diecinueve minutos; sobre dos horas, no hubo ganancia extra.", "show": "El menor riesgo, un 13 % menos, apareció entre 90 y 119 minutos; sobre dos horas, no hubo ganancia extra.", "gap": 0.36},
   {"shot": "caveat", "say": "Ojo: son estudios observacionales; muestran asociación, no prueban causa.", "show": "Ojo: son estudios observacionales; muestran asociación, no prueban causa.", "gap": 0.36},
-  {"shot": "plan", "say": "Para empezar: dos sesiones de veinte a treinta minutos, con los grandes grupos musculares, como recomienda la OMS.", "show": "Para empezar: 2 sesiones de 20 a 30 minutos, con los grandes grupos musculares, como recomienda la OMS.", "gap": 0.36},
-  {"shot": "cta", "say": "Sígueme para más ciencia del entrenamiento.", "show": "Sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+  {"shot": "plan", "say": "Para empezar: dos sesiones por semana con los grandes grupos musculares, como recomienda la OMS.", "show": "Para empezar: 2 sesiones por semana con los grandes grupos musculares, como recomienda la OMS.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
  ]
 }
