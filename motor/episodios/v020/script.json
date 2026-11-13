@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "¿Qué pasa si subes las escaleras a toda prisa, uno o dos minutos, tres veces al día?", "show": "¿Qué pasa si subes las escaleras a toda prisa, uno o dos minutos, 3 veces al día?", "gap": 0.36},
+  {"shot": "study", "say": "Un estudio en Nature Medicine siguió a más de veinticinco mil adultos que no hacían ejercicio, con un sensor en la muñeca.", "show": "Un estudio en Nature Medicine siguió a más de 25.000 adultos que no hacían ejercicio, con un sensor en la muñeca.", "gap": 0.36},
+  {"shot": "bursts", "say": "Midió ráfagas cortas e intensas de la vida diaria: escaleras, cargar bolsas, caminar muy rápido.", "show": "Midió ráfagas cortas e intensas de la vida diaria: escaleras, cargar bolsas, caminar muy rápido.", "gap": 0.36},
+  {"shot": "result", "say": "Con unas tres ráfagas al día, el riesgo de morir por enfermedad cardiovascular fue casi la mitad.", "show": "Con unas 3 ráfagas al día, el riesgo de morir por enfermedad cardiovascular fue casi la mitad.", "gap": 0.36},
+  {"shot": "allcause", "say": "Y la mortalidad total, entre un treinta y ocho y un cuarenta por ciento menor.", "show": "Y la mortalidad total, entre un 38 y un 40 % menor.", "gap": 0.36},
+  {"shot": "women", "say": "En mujeres, unos tres minutos y medio al día se asociaron con un cuarenta y cinco por ciento menos de eventos cardiovasculares graves.", "show": "En mujeres, unos 3,5 minutos al día se asociaron con un 45 % menos de eventos cardiovasculares graves.", "gap": 0.36},
+  {"shot": "caveat", "say": "Ojo: son estudios observacionales. Muestran una asociación, no prueban que sea la causa.", "show": "Ojo: son estudios observacionales. Muestran una asociación, no prueban que sea la causa.", "gap": 0.36},
+  {"shot": "plan", "say": "La idea: sube escaleras rápido o camina apurado, hasta que hablar te cueste un poco.", "show": "La idea: sube escaleras rápido o camina apurado, hasta que hablar te cueste un poco.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}

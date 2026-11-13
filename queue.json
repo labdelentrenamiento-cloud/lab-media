@@ -618,6 +618,37 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v020",
+   "file": "videos/v020_Escaleras_corazon_LAB.mp4",
+   "title": "¿Qué pasa si subes escaleras a toda prisa 3 veces al día? Lo que dice la ciencia #shorts",
+   "caption": "¿Qué pasa si subes las escaleras a toda prisa, 1 o 2 minutos, 3 veces al día? ❤️ Un estudio en Nature Medicine (2022) siguió a 25.241 adultos que no hacían ejercicio, con un sensor en la muñeca, y midió ráfagas cortas e intensas de la vida diaria (VILPA): escaleras, cargar bolsas, caminar muy rápido. Con unas 3 ráfagas al día, el riesgo de morir por enfermedad cardiovascular fue un 48–49 % menor y la mortalidad total, un 38–40 % menor. En mujeres, unos 3,5 minutos al día se asociaron con un 45 % menos de eventos cardiovasculares graves (BJSM 2025). Ojo: son estudios observacionales; muestran una asociación, no prueban causa. Si tienes una condición cardíaca, consulta antes de subir la intensidad.\n\n¿Escaleras o ascensor: qué eliges tú? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Stamatakis et al. (2022), Nature Medicine – VILPA y mortalidad, 25.241 no ejercitantes, UK Biobank – doi:10.1038/s41591-022-02100-x",
+    "Stamatakis et al. (2025), Br J Sports Med – VILPA y eventos cardiovasculares graves, diferencias por sexo – doi:10.1136/bjsports-2024-108484",
+    "Koemel et al. (2026), Int J Behav Nutr Phys Act – VILPA y mortalidad en adultos de EE. UU. (NHANES) – doi:10.1186/s12966-026-01876-2"
+   ],
+   "hashtags": "#corazon #escaleras #longevidad #ejercicio #saludcardiovascular #cienciadelentrenamiento",
+   "created": "2026-11-13T09:26:36-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿Y SI SUBES *ESCALERAS*|A TODA PRISA|*3 VECES* AL DÍA?",
+   "cover_png": "portadas/v020_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ]
 }
