@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "Apretar un aparato con la mano predijo el riesgo de morir mejor que la presión arterial.", "show": "Apretar un aparato con la mano predijo el riesgo de morir mejor que la presión arterial.", "gap": 0.36},
+  {"shot": "pure", "say": "El estudio PURE midió la fuerza de agarre de casi ciento cuarenta mil adultos en diecisiete países.", "show": "El estudio PURE midió la fuerza de agarre de casi 140.000 adultos en 17 países.", "gap": 0.36},
+  {"shot": "per5", "say": "Por cada cinco kilos menos de fuerza, el riesgo de morir en los años siguientes fue un dieciséis por ciento mayor.", "show": "Por cada 5 kilos menos de fuerza, el riesgo de morir en los años siguientes fue un 16 % mayor.", "gap": 0.36},
+  {"shot": "bp", "say": "Y fue mejor predictor de muerte cardiovascular que la presión sistólica.", "show": "Y fue mejor predictor de muerte cardiovascular que la presión sistólica.", "gap": 0.36},
+  {"shot": "biobank", "say": "En el Biobanco del Reino Unido, con medio millón de personas, el patrón se repitió en mujeres y en hombres.", "show": "En el Biobanco del Reino Unido, con medio millón de personas, el patrón se repitió en mujeres y en hombres.", "gap": 0.36},
+  {"shot": "caveat", "say": "Ojo: es una asociación. Tu mano no te protege sola; refleja tu fuerza general y tu salud.", "show": "Ojo: es una asociación. Tu mano no te protege sola; refleja tu fuerza general y tu salud.", "gap": 0.36},
+  {"shot": "unknown", "say": "Y aún no está probado que mejorar solo el agarre reduzca el riesgo.", "show": "Y aún no está probado que mejorar solo el agarre reduzca el riesgo.", "gap": 0.36},
+  {"shot": "plan", "say": "La idea: entrena fuerza de todo el cuerpo al menos dos días por semana, como recomienda la OMS.", "show": "La idea: entrena fuerza de todo el cuerpo al menos 2 días por semana, como recomienda la OMS.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}

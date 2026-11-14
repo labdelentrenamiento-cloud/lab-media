@@ -523,10 +523,11 @@
    "id": "v015",
    "file": "videos/v015_Entrenar_de_noche_LAB.mp4",
    "title": "¿Entrenar de noche arruina tu sueño? Mito o realidad #shorts",
-   "caption": "¿Entrenar de noche arruina tu sueño? 🌙 Un metaanálisis de 23 estudios en adultos sanos no encontró que el ejercicio en la tarde-noche empeore el sueño; incluso el sueño profundo subió un poco (+1,3 puntos porcentuales). La excepción: un entrenamiento intenso que termina 1 hora o menos antes de acostarte. Un estudio observacional de 2025 (14.689 personas, más de 4 millones de noches con pulsera biométrica) vio que cuanto más intenso y más tarde, más tardaban en dormirse, dormían menos y el pulso nocturno subía; si terminaban 4 horas o más antes de dormir, no hubo cambios. Veredicto: entrena de noche si te acomoda, pero deja lo más intenso para antes.",
+   "caption": "¿Entrenar de noche arruina tu sueño? 🌙 Un metaanálisis de 23 estudios en adultos sanos no encontró que el ejercicio en la tarde-noche empeore el sueño; incluso el sueño profundo subió un poco (+1,3 puntos porcentuales). La excepción: un entrenamiento intenso que termina 1 hora o menos antes de acostarte. Un estudio observacional de 2025 (14.689 personas, más de 4 millones de noches con pulsera biométrica) vio que cuanto más intenso y más tarde, más tardaban en dormirse, dormían menos y el pulso nocturno subía; si terminaban 4 horas o más antes de dormir, no hubo cambios. Veredicto: entrena de noche si te acomoda, pero deja lo más intenso para antes. Una revisión de 2026 (Sleep Med Rev, 16 ensayos) tampoco vio una ventaja clara de entrenar en la mañana, aunque el ejercicio intenso de noche podría hacer que despiertes un poco más durante la noche.",
    "sources": [
     "Stutz, Eiholzer y Spengler (2019), Sports Med – 23 estudios – doi:10.1007/s40279-018-1015-0",
-    "Leota et al. (2025), Nat Commun – 14.689 personas, 4.084.354 noches – doi:10.1038/s41467-025-58271-x"
+    "Leota et al. (2025), Nat Commun – 14.689 personas, 4.084.354 noches – doi:10.1038/s41467-025-58271-x",
+    "Souabni et al. (2026), Sleep Med Rev – ejercicio en la mañana vs. en la noche y sueño, metaanálisis de 16 ensayos – doi:10.1016/j.smrv.2026.102358"
    ],
    "hashtags": "#sueño #entrenamiento #recuperacion #ejercicio #cienciadelentrenamiento",
    "created": "2026-11-12T09:24:56-03:00",
@@ -547,7 +548,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-14: revisado con Souabni et al., Sleep Med Rev 2026 (16 ECA): sin ventaja clara de la mañana; el ejercicio de noche, sobre todo intenso, se asoció a algo más de despertares (WASO). Coincide con el veredicto del guion; no requiere re-render. Se agregó una frase y la fuente al caption."
   },
   {
    "id": "v016",
@@ -764,6 +766,38 @@
    "file_ready": true,
    "cover": "¿*CAFEÍNA* PARA|RENDIR MÁS?|LA *DOSIS* QUE FUNCIONA",
    "cover_png": "portadas/v022_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
+  },
+  {
+   "id": "v023",
+   "file": "videos/v023_Fuerza_de_agarre_LAB.mp4",
+   "title": "¿Qué dice la fuerza de tu mano sobre tu salud? Estudio de 140.000 personas explicado #shorts",
+   "caption": "Apretar un aparato con la mano predijo el riesgo de morir mejor que la presión arterial ✊ El estudio PURE (The Lancet, 2015) midió la fuerza de agarre de 139.691 adultos de 35 a 70 años en 17 países: por cada 5 kg menos de fuerza, el riesgo de morir en los años siguientes fue un 16 % mayor (seguimiento mediano de 4 años), y la fuerza de agarre predijo la mortalidad total y cardiovascular mejor que la presión sistólica. En el UK Biobank (BMJ 2018, 502.293 personas) el patrón se repitió en mujeres (+20 %) y hombres (+16 %) por cada 5 kg menos. Ojo: es una asociación. Tu mano no te protege sola; refleja tu fuerza general y tu salud, y aún no está probado que mejorar solo el agarre reduzca el riesgo. La idea: entrena fuerza de todo el cuerpo al menos 2 días por semana, como recomienda la OMS.\n\n¿Alguna vez te han medido la fuerza de agarre? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Leong et al. (2015), The Lancet – valor pronóstico de la fuerza de agarre, estudio PURE (139.691 adultos, 17 países) – doi:10.1016/S0140-6736(14)62000-6",
+    "Celis-Morales et al. (2018), BMJ – fuerza de agarre y mortalidad en 502.293 participantes del UK Biobank – doi:10.1136/bmj.k1651",
+    "Soysal et al. (2021), Journal of Sport and Health Science – fuerza de agarre y salud: revisión paraguas – doi:10.1016/j.jshs.2020.06.009",
+    "Bull et al. (2020), British Journal of Sports Medicine – directrices de la OMS sobre actividad física – doi:10.1136/bjsports-2020-102955"
+   ],
+   "hashtags": "#fuerzadeagarre #longevidad #fuerza #salud #entrenamientodefuerza #cienciadelentrenamiento",
+   "created": "2026-11-14T02:40:41-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿QUÉ DICE TU *MANO*|SOBRE TU *SALUD*?|140.000 PERSONAS",
+   "cover_png": "portadas/v023_portada.png",
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
