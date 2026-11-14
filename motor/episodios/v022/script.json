@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "Si quisieras usar la cafeína para rendir más en tu entrenamiento, harías esto.", "show": "Si quisieras usar la cafeína para rendir más en tu entrenamiento, harías esto.", "gap": 0.36},
+  {"shot": "umbrella", "say": "Una revisión de veintiún metaanálisis concluyó que mejora la resistencia, la fuerza y la potencia.", "show": "Una revisión de 21 metaanálisis concluyó que mejora la resistencia, la fuerza y la potencia.", "gap": 0.36},
+  {"shot": "aerobic", "say": "El efecto más constante se ve en ejercicios de resistencia, como correr o pedalear.", "show": "El efecto más constante se ve en ejercicios de resistencia, como correr o pedalear.", "gap": 0.36},
+  {"shot": "dose", "say": "La dosis de los estudios: de tres a seis miligramos por kilo de peso, unos sesenta minutos antes.", "show": "La dosis de los estudios: de 3 a 6 mg por kilo de peso, unos 60 minutos antes.", "gap": 0.36},
+  {"shot": "example", "say": "Para alguien de setenta kilos, tres miligramos por kilo son unos doscientos diez: más o menos dos tazas de café.", "show": "Para alguien de 70 kilos, 3 mg por kilo son unos 210: más o menos 2 tazas de café.", "gap": 0.36},
+  {"shot": "more", "say": "Más no es mejor: con nueve miligramos por kilo se disparan los efectos secundarios, sin más beneficio.", "show": "Más no es mejor: con 9 mg por kilo se disparan los efectos secundarios, sin más beneficio.", "gap": 0.36},
+  {"shot": "sleep", "say": "Y cuida tu sueño: en un metaanálisis, la cafeína recortó unos cuarenta y cinco minutos de sueño.", "show": "Y cuida tu sueño: en un metaanálisis, la cafeína recortó unos 45 minutos de sueño.", "gap": 0.36},
+  {"shot": "timing", "say": "Toma el café al menos nueve horas antes de dormir. Si estás embarazada o tienes una condición médica, consulta antes.", "show": "Toma el café al menos 9 horas antes de dormir. Si estás embarazada o tienes una condición médica, consulta antes.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}

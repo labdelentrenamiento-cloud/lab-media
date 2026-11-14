@@ -736,6 +736,38 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v022",
+   "file": "videos/v022_Cafeina_rendimiento_LAB.mp4",
+   "title": "Cafeína para rendir más: la dosis que usa la ciencia y cuándo tomarla #shorts",
+   "caption": "Si quisieras usar la cafeína para rendir más en tu entrenamiento, harías esto ☕ Una revisión de 21 metaanálisis (Br J Sports Med 2019) concluyó que mejora la resistencia, la fuerza y la potencia, y el efecto más constante se ve en ejercicios de resistencia como correr o pedalear (postura ISSN 2021). La dosis de los estudios: 3 a 6 mg por kilo de peso, unos 60 min antes. Para alguien de 70 kg, 3 mg/kg son unos 210 mg: más o menos 2 tazas de café (el contenido varía mucho). Más no es mejor: con 9 mg/kg se disparan los efectos secundarios sin más beneficio. Y cuida tu sueño: en un metaanálisis la cafeína recortó unos 45 min de sueño; el café, al menos ~9 h antes de dormir. La EFSA considera seguros hasta 200 mg por dosis y 400 mg al día en adultos sanos (embarazo: máx. 200 mg/día). Si estás embarazada o tienes una condición médica, consulta antes.\n\n¿Tomas café antes de entrenar? ¿Cuántas horas antes? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Grgic et al. (2019), British Journal of Sports Medicine – cafeína y rendimiento: revisión paraguas de 21 metaanálisis – doi:10.1136/bjsports-2018-100278",
+    "Guest et al. (2021), Journal of the International Society of Sports Nutrition – postura de la ISSN: cafeína y rendimiento – doi:10.1186/s12970-020-00383-4",
+    "Gardiner et al. (2023), Sleep Medicine Reviews – efecto de la cafeína en el sueño, metaanálisis de 24 estudios – doi:10.1016/j.smrv.2023.101764",
+    "EFSA (2015), EFSA Journal – opinión científica sobre la seguridad de la cafeína – doi:10.2903/j.efsa.2015.4102"
+   ],
+   "hashtags": "#cafeina #rendimiento #preentreno #suplementos #sueño #cienciadelentrenamiento",
+   "created": "2026-11-14T02:38:35-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿*CAFEÍNA* PARA|RENDIR MÁS?|LA *DOSIS* QUE FUNCIONA",
+   "cover_png": "portadas/v022_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ]
 }
