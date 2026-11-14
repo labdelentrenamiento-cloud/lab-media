@@ -650,10 +650,11 @@
    "id": "v019",
    "file": "videos/v019_Ejercicio_y_depresion_LAB.mp4",
    "title": "¿Qué ejercicio ayuda más contra la depresión? Estudio de 218 ensayos explicado #shorts",
-   "caption": "¿Qué ejercicio ayuda más contra la depresión? 🧠 Un metaanálisis en red publicado en el BMJ (2024) reunió 218 ensayos con más de 14.000 personas con depresión. Frente a controles activos, caminar o trotar mostró el mayor efecto, seguido del yoga y del entrenamiento de fuerza; los efectos fueron moderados y mayores cuanto más intenso era el ejercicio indicado. La fuerza y el yoga fueron los mejor tolerados. Ojo: la certeza de la evidencia fue baja y el ejercicio no reemplaza tu tratamiento; los autores proponen considerarlo junto a la psicoterapia y los antidepresivos. Si te sientes así, habla con un profesional: moverte puede ser parte del plan.\n\n¿Qué tipo de ejercicio te ayuda más a despejar la mente? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "caption": "¿Qué ejercicio ayuda más contra la depresión? 🧠 Un metaanálisis en red publicado en el BMJ (2024) reunió 218 ensayos con más de 14.000 personas con depresión: caminar o trotar mostró el mayor efecto, seguido del yoga y del entrenamiento de fuerza, y la fuerza y el yoga fueron los mejor tolerados. En 2026, una revisión Cochrane de 73 ensayos (unos 5.000 adultos) encontró un efecto moderado, similar al de la psicoterapia, y ningún tipo de ejercicio fue claramente superior: elige uno que puedas mantener. Ojo: muchos ensayos eran pequeños y el ejercicio no reemplaza tu tratamiento. Si te sientes así, habla con un profesional: moverte puede ser parte del plan.\n\n¿Qué tipo de ejercicio te ayuda más a despejar la mente? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
    "sources": [
     "Noetel et al. (2024), BMJ – metaanálisis en red, 218 ensayos, 14.170 participantes – doi:10.1136/bmj-2023-075847",
-    "Heissel et al. (2023), Br J Sports Med – 41 estudios, ejercicio y síntomas depresivos – doi:10.1136/bjsports-2022-106282"
+    "Heissel et al. (2023), Br J Sports Med – 41 estudios, ejercicio y síntomas depresivos – doi:10.1136/bjsports-2022-106282",
+    "Clegg et al. (2026), Cochrane Database of Systematic Reviews – Exercise for depression, 73 ensayos, ~5.000 adultos – doi:10.1002/14651858.CD004366.pub7"
    ],
    "hashtags": "#saludmental #depresion #ejercicio #cerebro #cienciadelentrenamiento",
    "created": "2026-11-13T02:43:47-03:00",
@@ -674,7 +675,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-14: corregido antes de publicar. El guion decía que los efectos eran 'mayores cuanto más intenso era el ejercicio indicado' (Noetel, BMJ 2024). La revisión Cochrane de Clegg et al. (2026; 73 ECA, ~5.000 adultos) encontró que la intensidad ligera a moderada podría beneficiar más que la vigorosa y que ningún tipo de ejercicio fue claramente superior; efecto moderado, similar a la psicoterapia (certeza moderada). Se eliminó la frase de intensidad y la de 'tratamiento central', se agregaron dos escenas con Cochrane 2026, se re-renderizó (50 s) con portada (cuadro del cerebro) y se reemplazó el MP4."
   },
   {
    "id": "v020",

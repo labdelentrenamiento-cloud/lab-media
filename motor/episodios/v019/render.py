@@ -1,4 +1,5 @@
 """v019 · ¿Qué ejercicio ayuda más contra la depresión? (serie CEREBRO · paleta magenta + turquesa)
+Corregido 2026-11-14 con Clegg et al., Cochrane 2026 (escenas 4–6).
 Uso: copiar a la carpeta del episodio (con timeline.json) y correr
   python3 render.py preview 2 8 ...   |   python3 render.py part 0 2
 """
@@ -51,19 +52,27 @@ def neon(ctx, i, u, d, t, lt):
             if kk > 0.8:
                 text(ctx, ("%.2f" % v).replace(".", ","), 162 + j * 156 + 66, 1050 - 600 * v - 18, F_MONO, 26, WH, k, align="center", bold=True)
     elif i == 3:
-        line_chart(ctx, 150, 600, 780, 440, [(lambda f: 0.2 + 0.6 * f, TL, ease((u - 0.3) / 2.6), True)],
-                   [(0.0, "SUAVE"), (0.5, "MODERADA"), (1.0, "INTENSA")], "INTENSIDAD INDICADA", "REDUCCIÓN DE SÍNTOMAS", k)
-    elif i == 4:
         badge(ctx, 320, 820, 190, "FUERZA", AM, k, check=ease((u - 1.0) / 0.4))
         badge(ctx, 760, 820, 190, "YOGA", CY, ease((u - 0.5) / 0.4), check=ease((u - 1.4) / 0.4))
+    elif i == 4:
+        n = int(73 * ease((u - 0.2) / 1.2))
+        big(ctx, str(n), 540, 700, 190, TL, k)
+        k2 = ease((u - 3.2) / 0.5); k3 = ease((u - 4.6) / 0.5)
+        for x, col, lab, kk in ((300, CY, "EJERCICIO", k2), (780, VI, "PSICOTERAPIA", k3)):
+            ctx.new_path(); ctx.arc(x, 1010, 165, 0, 6.283); ctx.set_source_rgba(*col, 0.10 * kk); ctx.fill_preserve()
+            ctx.set_source_rgba(*col, kk); ctx.set_line_width(6); ctx.stroke()
+            text(ctx, lab, x, 1022, F_MONO, 30 if len(lab) > 9 else 34, col, kk, align="center", bold=True)
+        text(ctx, "≈", 540, 1045, F_MONO, 120, WH, k3, align="center", bold=True)
     elif i == 5:
-        gauge(ctx, 540, 860, 220, 0.25 * ease((u - 0.4) / 1.2), a=k, col=RD)
+        items = (("CAMINAR", TL, 330, 700), ("FUERZA", AM, 750, 700), ("MIXTO", CY, 330, 1010), ("AERÓBICO", VI, 750, 1010))
+        for j, (lab, col, x, y) in enumerate(items):
+            kk = ease((u - 0.2 - j * 0.35) / 0.4) * k
+            ctx.new_path(); ctx.arc(x, y, 140, 0, 6.283); ctx.set_source_rgba(*col, 0.10 * kk); ctx.fill_preserve()
+            ctx.set_source_rgba(*col, kk); ctx.set_line_width(5); ctx.stroke()
+            text(ctx, lab, x, y + 12, F_MONO, 32, col, kk, align="center", bold=True)
+        text(ctx, "=", 540, 875, F_MONO, 110, WH, ease((u - 1.8) / 0.4), align="center", bold=True)
     elif i == 6:
-        for j, (lab, col, x, y) in enumerate((("PSICOTERAPIA", VI, 390, 720), ("ANTIDEPRESIVOS", TL, 690, 720), ("EJERCICIO", CY, 540, 960))):
-            kk = ease((u - 0.3 - j * 0.9) / 0.5)
-            ctx.new_path(); ctx.arc(x, y, 200, 0, 6.283); ctx.set_source_rgba(*col, 0.10 * kk * k); ctx.fill_preserve()
-            ctx.set_source_rgba(*col, kk * k); ctx.set_line_width(5); ctx.stroke()
-            text(ctx, lab, x + (-60 if j == 0 else 60 if j == 1 else 0), y + (-40 if j < 2 else 90), F_MONO, 28, col, kk * k, align="center", bold=True)
+        gauge(ctx, 540, 860, 220, 0.3 * ease((u - 0.4) / 1.2), a=k, col=RD)
     elif i == 7:
         brain(ctx, 540, 760, 1.3, t, k, col=CY, fire=0.6)
         nerve(ctx, [(200, 1110), (540, 1060), (880, 1110)], t, a=ease((u - 0.6) / 0.4), col=TL)
@@ -95,22 +104,24 @@ def txt(ctx, i, u, d, t, lt):
         title(ctx, "EL PODIO", WH, 345, 104, k)
         src(ctx, "g de Hedges vs. controles activos · Noetel et al., BMJ 2024", k, 1260)
     elif i == 3:
-        pill(ctx, "EFECTO MODERADO", W / 2, 196, CY, k, 30)
-        title(ctx, "MÁS INTENSO, MÁS EFECTO", TL, 345, 92, k)
-        src(ctx, "esquema ilustrativo · Noetel et al., BMJ 2024", k, 1250)
-    elif i == 4:
         pill(ctx, "ADHERENCIA", W / 2, 196, GR, k, 30, filled=True)
         title(ctx, "LOS MEJOR TOLERADOS", WH, 345, 94, k)
         src(ctx, "Noetel et al., BMJ 2024", k, 1130)
+    elif i == 4:
+        pill(ctx, "REVISIÓN COCHRANE · 2026", W / 2, 196, TL, k, 28, filled=True)
+        title(ctx, "EFECTO MODERADO", WH, 345, 100, k)
+        text(ctx, "ENSAYOS ALEATORIZADOS · ~5.000 ADULTOS", W / 2, 800, F_MONO, 28, TL, ease((u - 0.8) / 0.4), align="center", bold=True)
+        src(ctx, "Clegg et al., Cochrane Database Syst Rev 2026", k, 1240)
+        src(ctx, "doi:10.1002/14651858.CD004366.pub7", k, 1272)
     elif i == 5:
-        pill(ctx, "OJO", W / 2, 196, RD, k, 30)
-        title(ctx, "CERTEZA DE LA EVIDENCIA: BAJA", WH, 345, 80, k)
-        text(ctx, "NO REEMPLAZA TU TRATAMIENTO", W / 2, 1140, F_MONO, 32, AM, ease((u - 2.4) / 0.4), align="center", bold=True)
-        src(ctx, "solo 1 estudio con bajo riesgo de sesgo · CINeMA", k, 1220)
+        pill(ctx, "NINGUNO CLARAMENTE SUPERIOR", W / 2, 196, AM, k, 28)
+        title(ctx, "ELIGE UNO QUE PUEDAS MANTENER", WH, 345, 78, k)
+        src(ctx, "Clegg et al., Cochrane 2026 · ejemplos de tipos de ejercicio", k, 1250)
     elif i == 6:
-        pill(ctx, "PROPUESTA DE LOS AUTORES", W / 2, 196, CY, k, 28)
-        title(ctx, "UN TRATAMIENTO CENTRAL MÁS", WH, 345, 86, k)
-        src(ctx, "junto a, no en lugar de · Noetel 2024 · Heissel et al., BJSM 2023", k, 1250)
+        pill(ctx, "OJO", W / 2, 196, RD, k, 30)
+        title(ctx, "MUCHOS ENSAYOS PEQUEÑOS", WH, 345, 86, k)
+        text(ctx, "NO REEMPLAZA TU TRATAMIENTO", W / 2, 1140, F_MONO, 32, AM, ease((u - 1.8) / 0.4), align="center", bold=True)
+        src(ctx, "mayoría con menos de 100 participantes · Cochrane 2026", k, 1220)
     elif i == 7:
         pill(ctx, "SI TE SIENTES ASÍ", W / 2, 196, TL, k, 30, filled=True)
         title(ctx, "HABLA CON UN PROFESIONAL", WH, 345, 88, k)
