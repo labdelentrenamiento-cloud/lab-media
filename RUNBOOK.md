@@ -71,6 +71,9 @@ La subida de archivos con la herramienta file_upload está bloqueada; usar este 
 3. Recortar: elegir **Original** (NO 1:1). Siguiente → portada = primer cuadro, sonido activado → Siguiente.
 4. Caption (contenteditable del diálogo): caption + "📚 Fuentes:" + fuentes + "Sígueme para más ciencia del entrenamiento 🔬" + hashtags. Activar la etiqueta de IA en "Configuración avanzada" si aparece. Compartir y esperar "Se compartió tu reel".
 
+### TikTok — PAUSA
+Si hoy (America/Santiago) es anterior a `tiktok_paused_until` de queue.json, NO publiques en TikTok: marca tiktok {"status":"skipped_warmup"} en el video del slot y sigue con YouTube e Instagram. Motivo: cuenta nueva con 0 vistas por publicar solo por API; Michelle la está calentando a mano en la app.
+
 ### TikTok (vidIQ, en la nube; no necesita el computador)
 `vidiq_video_upload` con RAW_URL → `vidiq_social_post_draft_create` (destino TIKTOK, platformAccountId `_000GSl62CkrNcegWeVPUh6LPcRlcItlafJk`, ajustes de `tiktok_settings`, `publishAt` = H+2 con zona -03:00) → `vidiq_social_post_publish`.
 
