@@ -704,6 +704,38 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v021",
+   "file": "videos/v021_Hielo_tras_las_pesas_LAB.mp4",
+   "title": "¿Baño de hielo después de las pesas? Ayuda a recuperar… pero frena el músculo #shorts",
+   "caption": "¿El baño de hielo después de las pesas te ayuda a recuperarte… o frena tu músculo? 🧊 Para recuperarte, funciona: un metaanálisis de 52 estudios (Sports Med 2022) vio menos dolor muscular y mejor recuperación de la potencia a las 24 h. Pero en un ensayo de 12 semanas (J Physiol 2015), quienes se metían 10 min al agua fría después de entrenar fuerza ganaron menos músculo y menos fuerza: sin frío, las fibras rápidas (tipo II) crecieron un 17 %; con frío, no crecieron de forma significativa. El frío frena en parte las señales de crecimiento y a las células satélite. Un metaanálisis de 2024 (8 estudios) vio la misma tendencia, con evidencia aún limitada. Si tu meta es músculo, evita el hielo justo después de las pesas; si necesitas recuperarte rápido para competir o entrenar al día siguiente, ahí sí puede servir.\n\n¿Tú usas agua fría después de entrenar? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Moore et al. (2022), Sports Medicine – inmersión en agua fría vs. recuperación pasiva, metaanálisis de 52 estudios – doi:10.1007/s40279-022-01644-9",
+    "Roberts et al. (2015), Journal of Physiology – agua fría tras el entrenamiento de fuerza atenúa la señal anabólica y la hipertrofia (12 semanas) – doi:10.1113/JP270570",
+    "Piñero et al. (2024), European Journal of Sport Science – metaanálisis: agua fría post-entrenamiento e hipertrofia – doi:10.1002/ejsc.12074",
+    "Tornero-Aguilera et al. (2026), Experimental Physiology – la paradoja recuperación-adaptación del agua fría – doi:10.1113/EP094042"
+   ],
+   "hashtags": "#bañodehielo #recuperacion #hipertrofia #musculo #entrenamientodefuerza #cienciadelentrenamiento",
+   "created": "2026-11-14T02:35:11-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿*HIELO* DESPUÉS|DE LAS PESAS?|¿AYUDA O *FRENA*?",
+   "cover_png": "portadas/v021_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ]
 }

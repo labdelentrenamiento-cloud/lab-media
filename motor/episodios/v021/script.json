@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "¿El baño de hielo después de las pesas te ayuda a recuperarte... o frena tu músculo?", "show": "¿El baño de hielo después de las pesas te ayuda a recuperarte… o frena tu músculo?", "gap": 0.36},
+  {"shot": "recovery", "say": "Para recuperarte, funciona: un metaanálisis de cincuenta y dos estudios vio menos dolor muscular al día siguiente.", "show": "Para recuperarte, funciona: un metaanálisis de 52 estudios vio menos dolor muscular al día siguiente.", "gap": 0.36},
+  {"shot": "trial", "say": "Pero en un ensayo de doce semanas, quienes se metían al agua fría después de entrenar fuerza ganaron menos músculo y menos fuerza.", "show": "Pero en un ensayo de 12 semanas, quienes se metían al agua fría después de entrenar fuerza ganaron menos músculo y menos fuerza.", "gap": 0.36},
+  {"shot": "fibers", "say": "Sin frío, sus fibras rápidas crecieron un diecisiete por ciento. Con frío, no crecieron de forma clara.", "show": "Sin frío, sus fibras rápidas crecieron un 17 %. Con frío, no crecieron de forma clara.", "gap": 0.36},
+  {"shot": "why", "say": "¿Por qué? El frío apaga en parte las señales de crecimiento y a las células que reparan el músculo.", "show": "¿Por qué? El frío apaga en parte las señales de crecimiento y a las células que reparan el músculo.", "gap": 0.36},
+  {"shot": "meta", "say": "Un metaanálisis de dos mil veinticuatro, con ocho estudios, vio la misma tendencia, aunque con evidencia limitada.", "show": "Un metaanálisis de 2024, con 8 estudios, vio la misma tendencia, aunque con evidencia limitada.", "gap": 0.36},
+  {"shot": "muscle", "say": "Entonces: si tu meta es ganar músculo, evita el hielo justo después de las pesas.", "show": "Entonces: si tu meta es ganar músculo, evita el hielo justo después de las pesas.", "gap": 0.36},
+  {"shot": "compete", "say": "Si necesitas recuperarte rápido para competir o entrenar al día siguiente, ahí sí puede servir.", "show": "Si necesitas recuperarte rápido para competir o entrenar al día siguiente, ahí sí puede servir.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}
