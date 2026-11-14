@@ -440,7 +440,7 @@
    "created": "2026-11-12T02:26:29-03:00",
    "slot": "2026-11-14T12:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "3d2aace4-39cf-4696-b476-50777e9a087a",
     "publicationId": "22a8348f-905d-48e4-b901-81203ad55c15",
@@ -484,13 +484,20 @@
    "created": "2026-11-12T02:30:35-03:00",
    "slot": "2026-11-14T16:00:00-03:00",
    "youtube": {
-    "status": "pending"
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "523d9904-8eef-40bc-a0e2-2f965f26f2f9",
+    "publicationId": "4c6c47cf-bbbb-4af6-bd20-4b53288b1ae1",
+    "uploadId": "94abfdb5-c499-403e-a048-27afea56cca9",
+    "publishAt": "2026-11-14T16:00:00-03:00",
+    "url": "https://youtube.com/shorts/N16F1t1TSOY"
    },
    "instagram": {
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "skipped_warmup",
+    "note": "TikTok en pausa hasta 2026-11-21 (tiktok_paused_until)"
    },
    "synced_to_pc": false,
    "file_ready": true,
