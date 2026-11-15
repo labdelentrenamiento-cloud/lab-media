@@ -539,13 +539,20 @@
    },
    "instagram": {
     "status": "published",
-    "url": "https://www.instagram.com/labdelentrenamiento/reel/DfvcUirh4cj/",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DfvcdRwBfGE/",
     "via": "vidIQ",
     "ai_label": true,
-    "mediaId": "18040383743901441",
-    "containerId": "18041989265688469",
-    "uploadId": "a946e29e-debe-4819-83be-721fed076f31",
-    "published_at": "2026-11-14T21:03:00-03:00"
+    "mediaId": "18391928890224997",
+    "containerId": "18041989289688469",
+    "uploadId": "962707ab-a9da-46e3-ae69-deb26f824419",
+    "published_at": "2026-11-14T21:01:42-03:00",
+    "duplicate": {
+     "url": "https://www.instagram.com/labdelentrenamiento/reel/DfvcUirh4cj/",
+     "mediaId": "18040383743901441",
+     "containerId": "18041989265688469",
+     "published_at": "2026-11-14T21:03:00-03:00",
+     "note": "DUPLICADO: dos ejecuciones publicaron v014 en Instagram a la vez (21:00:43 y 21:01:42). Se conserva DfvcdRwBfGE (caption con pregunta y llamado a compartir/guardar). Michelle debe borrar a mano DfvcUirh4cj (vidIQ no puede borrar reels)."
+    }
    },
    "tiktok": {
     "status": "skipped_warmup",
