@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Intervalos intensos o cardio de siempre? Cochrane juntó cincuenta y ocho ensayos para compararlos.",
+   "show": "¿Intervalos intensos o cardio de siempre? Cochrane juntó 58 ensayos para compararlos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "who",
+   "say": "Participaron dos mil setenta y cinco adultos sanos, pero sedentarios, durante al menos cuatro semanas.",
+   "show": "Participaron 2.075 adultos sanos, pero sedentarios, durante al menos 4 semanas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "vsnone",
+   "say": "Frente a no entrenar, los intervalos subieron el consumo máximo de oxígeno en unos seis mililitros por kilo por minuto.",
+   "show": "Frente a no entrenar, los intervalos subieron el consumo máximo de oxígeno en unos 6 ml por kilo por minuto.",
+   "gap": 0.36
+  },
+  {
+   "shot": "vsmict",
+   "say": "Frente al cardio continuo moderado, los intervalos ganaron, pero por poco: uno coma cuatro más.",
+   "show": "Frente al cardio continuo moderado, los intervalos ganaron, pero por poco: 1,4 más.",
+   "gap": 0.36
+  },
+  {
+   "shot": "tie",
+   "say": "Y en cintura, presión arterial y triglicéridos, no hubo una diferencia clara.",
+   "show": "Y en cintura, presión arterial y triglicéridos, no hubo una diferencia clara.",
+   "gap": 0.36
+  },
+  {
+   "shot": "caveat",
+   "say": "Ojo: la certeza es baja. Son estudios pequeños y todos supervisados.",
+   "show": "Ojo: la certeza es baja. Son estudios pequeños y todos supervisados.",
+   "gap": 0.36
+  },
+  {
+   "shot": "time",
+   "say": "La ventaja real es el tiempo: la OMS cuenta cada minuto vigoroso como dos moderados.",
+   "show": "La ventaja real es el tiempo: la OMS cuenta cada minuto vigoroso como 2 moderados.",
+   "gap": 0.36
+  },
+  {
+   "shot": "plan",
+   "say": "La idea: elige el que puedas repetir cada semana. Los dos mejoran tu capacidad aeróbica.",
+   "show": "La idea: elige el que puedas repetir cada semana. Los dos mejoran tu capacidad aeróbica.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

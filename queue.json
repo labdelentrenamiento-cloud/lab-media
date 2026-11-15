@@ -882,6 +882,37 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v025",
+   "file": "videos/v025_Intervalos_vs_continuo_LAB.mp4",
+   "title": "¿Intervalos (HIIT) o cardio de siempre? Cochrane comparó 58 ensayos #shorts",
+   "caption": "¿Intervalos intensos (HIIT) o el cardio continuo de siempre? 🫀 La revisión Cochrane de 2026 (Strauss et al.) juntó 58 ensayos con 2.075 adultos de 18 a 64 años, sanos pero sedentarios, con programas de al menos 4 semanas. Frente a no entrenar, los intervalos subieron el consumo máximo de oxígeno (VO2 máx) en unos 6 ml/kg/min (certeza moderada). Frente al cardio continuo moderado ganaron, pero por poco: 1,4 ml/kg/min más (certeza baja), y en cintura, presión arterial y triglicéridos no hubo una diferencia clara. Ojo: son estudios pequeños y todos con intervalos supervisados. La ventaja real es el tiempo: la OMS cuenta cada minuto de actividad vigorosa como dos de moderada (75–150 min vigorosos ≈ 150–300 min moderados por semana). La idea: elige el que puedas repetir cada semana; los dos mejoran tu capacidad aeróbica.\n\n¿Tú eres más de intervalos o de cardio continuo? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Strauss et al. (2026), Cochrane Database of Systematic Reviews – HIIT para reducir el síndrome cardiometabólico en adultos sanos sedentarios (58 ensayos, 2.075 personas) – doi:10.1002/14651858.CD013617.pub2",
+    "Bull et al. (2020), British Journal of Sports Medicine – directrices de la OMS sobre actividad física – doi:10.1136/bjsports-2020-102955",
+    "Liang et al. (2025), European Journal of Applied Physiology – revisión paraguas: intervalos de sprint vs. cardio continuo, sin superioridad clara – doi:10.1007/s00421-025-05975-z"
+   ],
+   "hashtags": "#hiit #cardio #vo2max #corazon #entrenamiento #cienciadelentrenamiento",
+   "created": "2026-11-15T02:39:00-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿*INTERVALOS*|O CARDIO|DE *SIEMPRE*?",
+   "cover_png": "portadas/v025_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
