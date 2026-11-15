@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "El dolor muscular de los días siguientes no es ácido láctico. Y hay un experimento que lo demuestra.",
+   "show": "El dolor muscular de los días siguientes no es ácido láctico. Y hay un experimento que lo demuestra.",
+   "gap": 0.36
+  },
+  {
+   "shot": "clear",
+   "say": "El lactato sube mientras haces el esfuerzo, pero vuelve a lo normal entre treinta y sesenta minutos después.",
+   "show": "El lactato sube mientras haces el esfuerzo, pero vuelve a lo normal entre 30 y 60 minutos después.",
+   "gap": 0.36
+  },
+  {
+   "shot": "flat",
+   "say": "En mil novecientos ochenta y tres, unos voluntarios corrieron en plano: el lactato subió, pero no hubo dolor importante.",
+   "show": "En 1983, unos voluntarios corrieron en plano: el lactato subió, pero no hubo dolor importante.",
+   "gap": 0.36
+  },
+  {
+   "shot": "down",
+   "say": "Luego corrieron cuesta abajo: el lactato nunca subió, y el dolor llegó en los días siguientes.",
+   "show": "Luego corrieron cuesta abajo: el lactato nunca subió, y el dolor llegó en los días siguientes.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cause",
+   "say": "Lo más aceptado: microlesiones e inflamación, sobre todo cuando el músculo frena una carga, en la fase excéntrica.",
+   "show": "Lo más aceptado: microlesiones e inflamación, sobre todo cuando el músculo frena una carga, en la fase excéntrica.",
+   "gap": 0.36
+  },
+  {
+   "shot": "peak",
+   "say": "Por eso aparece con retraso y llega a su máximo entre las veinticuatro y setenta y dos horas.",
+   "show": "Por eso aparece con retraso y llega a su máximo entre las 24 y 72 horas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "gain",
+   "say": "¿Sin dolor no hay músculo? Tampoco: un grupo con dolor y otro sin señales de daño ganaron la misma fuerza y músculo.",
+   "show": "¿Sin dolor no hay músculo? Tampoco: un grupo con dolor y otro sin señales de daño ganaron la misma fuerza y músculo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "rbe",
+   "say": "Y repetir el ejercicio protege: la segunda vez suele doler menos. Es el efecto de la sesión repetida.",
+   "show": "Y repetir el ejercicio protege: la segunda vez suele doler menos. Es el efecto de la sesión repetida.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

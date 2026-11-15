@@ -913,6 +913,39 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v026",
+   "file": "videos/v026_Dolor_muscular_acido_lactico_LAB.mp4",
+   "title": "¿El dolor muscular de los días siguientes es ácido láctico? Mito vs. realidad #shorts",
+   "caption": "¿El dolor muscular de los días siguientes es ácido láctico? 🦵 Mito. El lactato sube durante el esfuerzo, pero vuelve a lo normal entre 30 y 60 minutos después. En un experimento clásico (Schwane et al., 1983), los mismos voluntarios corrieron 45 minutos en plano y cuesta abajo: en plano el lactato subió, pero no hubo dolor importante; cuesta abajo el lactato nunca subió… y el dolor llegó en los días siguientes. La explicación más aceptada combina microlesiones e inflamación, sobre todo con contracciones excéntricas (cuando el músculo frena una carga); por eso aparece con retraso y llega a su máximo entre las 24 y 72 horas. ¿Sin dolor no hay músculo? Tampoco: en un estudio de 8 semanas, un grupo con daño y dolor y otro que subió la carga de a poco, sin señales de daño, ganaron la misma fuerza (+26 % y +25 %) y el mismo músculo. Y repetir el ejercicio protege: la segunda vez suele doler menos (efecto de la sesión repetida).\n\n¿Qué ejercicio te deja más adolorido al día siguiente? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Schwane et al. (1983), The Physician and Sportsmedicine – ¿el ácido láctico se relaciona con el dolor muscular tardío? – doi:10.1080/00913847.1983.11708485",
+    "Cheung, Hume y Maxwell (2003), Sports Medicine – dolor muscular de aparición tardía: mecanismos y tratamiento – doi:10.2165/00007256-200333020-00005",
+    "Flann et al. (2011), Journal of Experimental Biology – daño muscular y remodelación: ¿sin dolor no hay ganancia? – doi:10.1242/jeb.050112",
+    "Hyldahl, Chen y Nosaka (2017), Exercise and Sport Sciences Reviews – efecto de la sesión repetida – doi:10.1249/JES.0000000000000095",
+    "Hospital for Special Surgery (HSS) – Myth-busting: lactic acid (el lactato vuelve a lo normal en 30–60 min) – https://news.hss.edu/myth-busting-lactic-acid/"
+   ],
+   "hashtags": "#dolormuscular #agujetas #recuperacion #acidolactico #entrenamiento #cienciadelentrenamiento",
+   "created": "2026-11-15T02:44:31-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿EL DOLOR DE|DESPUÉS ES|*ÁCIDO LÁCTICO*?",
+   "cover_png": "portadas/v026_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
