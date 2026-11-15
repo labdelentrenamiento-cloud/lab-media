@@ -673,7 +673,13 @@
    "created": "2026-11-13T02:39:21-03:00",
    "slot": "2026-11-15T20:00:00-03:00",
    "youtube": {
-    "status": "pending"
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "e6c8e149-e038-494b-9b55-f83df1c18c6b",
+    "publicationId": "aecb1095-e31f-4fed-a831-185568dfb81b",
+    "uploadId": "e2103877-19eb-4877-98ab-2865800e0fe0",
+    "publishAt": "2026-11-15T20:00:00-03:00",
+    "url": "https://youtube.com/shorts/XiAUQ7b1qBE"
    },
    "instagram": {
     "status": "pending"
