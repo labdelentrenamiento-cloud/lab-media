@@ -628,7 +628,7 @@
    "created": "2026-11-12T09:29:03-03:00",
    "slot": "2026-11-15T16:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "51c2b8c0-8553-4774-be48-ec51a0f59d57",
     "publicationId": "3870812a-9335-4d31-a73f-f40e5821e8fb",
@@ -671,7 +671,7 @@
    ],
    "hashtags": "#metabolismo #musculo #fuerza #salud #mitosfitness #cienciadelentrenamiento",
    "created": "2026-11-13T02:39:21-03:00",
-   "slot": null,
+   "slot": "2026-11-15T20:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
@@ -679,7 +679,8 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "skipped_warmup",
+    "note": "TikTok en pausa hasta 2026-11-21 (tiktok_paused_until)"
    },
    "synced_to_pc": false,
    "file_ready": true,
