@@ -787,7 +787,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-15: revisado con Cold-Water Immersion for Post-exercise Recovery: An Overlap-Aware Umbrella Review (Sports Med Open 2026, 14 revisiones, doi:10.1186/s40798-026-01132-8): el efecto más constante del agua fría es menos dolor muscular a corto plazo; rendimiento objetivo e inflamación, inconsistentes. Coincide con el guion ('puede servir' para recuperarse): sin cambios."
   },
   {
    "id": "v022",
@@ -819,7 +820,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-15: revisado con metaanálisis 2026 (natación, J Int Soc Sports Nutr, doi:10.1080/15502783.2026.2692016; efecto placebo de la cafeína, doi:10.1080/15502783.2026.2747142): confirman un efecto pequeño-moderado; no contradicen dosis ni recomendaciones del video: sin cambios."
   },
   {
    "id": "v023",
@@ -881,7 +883,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-15: revisado con Bischof et al. (J Int Soc Sports Nutr 2026, metaanálisis en red de 51 ensayos, doi:10.1080/15502783.2026.2740224): mide la síntesis proteica por hora en ventanas cortas (mayor respuesta prevista con 18–25 g según la fuente). No contradice a Trommelen 2023 (12 h); el video ya aclara que fue una sola comida y que importa el total diario: sin cambios."
   },
   {
    "id": "v025",
