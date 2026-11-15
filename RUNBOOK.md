@@ -60,7 +60,7 @@ La subida de archivos con la herramienta file_upload está bloqueada; usar este 
 6. Leer el enlace del diálogo final y guardarlo en queue.json.
 
 ### Instagram (vidIQ, a la hora H+1)
-**IMPORTANTE:** Instagram lo publica SOLO la tarea "Lab del Entrenamiento · Publicar (Instagram)" (minuto 58 después de cada H). La tarea "Publicar (YouTube y TikTok)" NO publica Instagram aunque su texto diga "Instagram a las H+1": deja instagram `pending`. (2026-11-14: ambas publicaron v014 a la vez → reel duplicado.)
+**IMPORTANTE:** Instagram lo publica SOLO la tarea "Lab del Entrenamiento · Publicar (Instagram)" (minuto 58 después de cada H). La tarea "Publicar (YouTube y TikTok)" NO publica Instagram aunque su texto diga "Instagram a las H+1": deja instagram `pending`. (2026-11-14: ambas publicaron v014 a la vez → reel duplicado.) Regla de Michelle: así se mantiene hasta que ella pida otra cosa.
 1. Duplicados: `vidiq_instagram_owner_insights` (platformAccountId de arriba, mode `media`, metrics `["views"]`, gratis) lista los reels publicados; si el del video ya está, solo guarda su permalink.
 2. `vidiq_video_upload` con RAW_URL → videoUrl (firmado de vidIQ).
 3. `vidiq_instagram_publish_reel` con platformAccountId, videoUrl, caption = caption + "📚 Fuentes:" + fuentes + "Sígueme para más ciencia del entrenamiento 🔬" + hashtags, e `isAiGenerated: true` (etiqueta IA, regla de Michelle). Devuelve containerId con IN_PROGRESS: espera ~15 s y vuelve a llamar solo con platformAccountId + containerId hasta PUBLISHED. Nunca crees otro contenedor para el mismo video; si da error, déjalo `pending` y anota el error.
