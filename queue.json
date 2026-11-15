@@ -852,6 +852,36 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v024",
+   "file": "videos/v024_Proteina_por_comida_LAB.mp4",
+   "title": "¿Solo aprovechas 30 g de proteína por comida? Un estudio lo puso a prueba #shorts",
+   "caption": "¿Tu cuerpo solo aprovecha 30 g de proteína por comida? 🥛 Un estudio de la Universidad de Maastricht (Trommelen et al., Cell Reports Medicine 2023) lo puso a prueba: hombres jóvenes sanos hicieron una sesión de fuerza de cuerpo completo y luego tomaron 0, 25 o 100 g de proteína de leche. Con aminoácidos marcados siguieron esa proteína en la sangre y en el músculo durante 12 horas: con 100 g, la síntesis de proteína muscular fue mayor y seguía activa a las 12 horas, y la oxidación de aminoácidos casi no cambió. Ojo: fue una sola comida y en hombres jóvenes; no mide cuánto músculo se gana en meses. Para eso pesa el total del día: un metaanálisis de 49 ensayos (1.863 personas) vio que el beneficio de sumar proteína al entrenamiento de fuerza se estanca cerca de 1,6 g por kilo al día (rango estimado 1,0–2,2). La idea: no temas una comida grande en proteína; enfócate en tu total diario y en entrenar fuerza.\n\n¿Cuánta proteína comes en tu comida más grande del día? 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Trommelen et al. (2023), Cell Reports Medicine – la respuesta anabólica a la proteína tras el ejercicio no mostró límite superior (25 vs. 100 g, 12 h) – doi:10.1016/j.xcrm.2023.101324",
+    "Morton et al. (2018), British Journal of Sports Medicine – metaanálisis de 49 ensayos (1.863 personas): proteína y entrenamiento de fuerza, punto de quiebre ≈1,6 g/kg/día – doi:10.1136/bjsports-2017-097608"
+   ],
+   "hashtags": "#proteina #musculo #nutriciondeportiva #hipertrofia #entrenamientodefuerza #cienciadelentrenamiento",
+   "created": "2026-11-15T02:37:44-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿SOLO *30 g*|DE PROTEÍNA|POR *COMIDA*?",
+   "cover_png": "portadas/v024_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

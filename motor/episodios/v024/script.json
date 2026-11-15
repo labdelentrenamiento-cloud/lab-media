@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "Te dijeron que tu cuerpo solo aprovecha treinta gramos de proteína por comida. Un estudio lo puso a prueba.",
+   "show": "Te dijeron que tu cuerpo solo aprovecha 30 g de proteína por comida. Un estudio lo puso a prueba.",
+   "gap": 0.36
+  },
+  {
+   "shot": "setup",
+   "say": "En dos mil veintitrés, en Maastricht, hombres jóvenes sanos entrenaron fuerza y tomaron veinticinco o cien gramos de proteína de leche.",
+   "show": "En 2023, en Maastricht, hombres jóvenes sanos entrenaron fuerza y tomaron 25 o 100 g de proteína de leche.",
+   "gap": 0.36
+  },
+  {
+   "shot": "tracer",
+   "say": "Con aminoácidos marcados, siguieron esa proteína en la sangre y en el músculo durante doce horas.",
+   "show": "Con aminoácidos marcados, siguieron esa proteína en la sangre y en el músculo durante 12 horas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "result",
+   "say": "Con cien gramos, la síntesis de proteína muscular fue mayor y seguía activa a las doce horas.",
+   "show": "Con 100 g, la síntesis de proteína muscular fue mayor y seguía activa a las 12 horas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "oxid",
+   "say": "Y la proteína extra casi no se quemó como energía: la oxidación de aminoácidos apenas cambió.",
+   "show": "Y la proteína extra casi no se quemó como energía: la oxidación de aminoácidos apenas cambió.",
+   "gap": 0.36
+  },
+  {
+   "shot": "caveat",
+   "say": "Ojo: fue una sola comida y en hombres jóvenes. No mide cuánto músculo ganas en meses.",
+   "show": "Ojo: fue una sola comida y en hombres jóvenes. No mide cuánto músculo ganas en meses.",
+   "gap": 0.36
+  },
+  {
+   "shot": "total",
+   "say": "Para eso pesa el total del día: un metaanálisis de cuarenta y nueve ensayos vio que el beneficio se estanca cerca de uno coma seis gramos por kilo.",
+   "show": "Para eso pesa el total del día: un metaanálisis de 49 ensayos vio que el beneficio se estanca cerca de 1,6 g por kilo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "plan",
+   "say": "La idea: no temas una comida grande en proteína. Enfócate en tu total diario y en entrenar fuerza.",
+   "show": "La idea: no temas una comida grande en proteína. Enfócate en tu total diario y en entrenar fuerza.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
