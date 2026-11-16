@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Tienes que llegar al fallo en cada serie para ganar músculo? La ciencia lo puso a prueba.",
+   "show": "¿Tienes que llegar al fallo en cada serie para ganar músculo? La ciencia lo puso a prueba.",
+   "gap": 0.36
+  },
+  {
+   "shot": "def",
+   "say": "Llegar al fallo es repetir hasta que no puedes hacer ni una más.",
+   "show": "Llegar al fallo es repetir hasta que no puedes hacer ni una más.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis de quince estudios no encontró diferencias claras en fuerza ni en músculo entre ir al fallo o no.",
+   "show": "Un metaanálisis de 15 estudios no encontró diferencias claras en fuerza ni en músculo entre ir al fallo o no.",
+   "gap": 0.36
+  },
+  {
+   "shot": "acsm",
+   "say": "La nueva guía del Colegio Americano de Medicina del Deporte, con ciento treinta y siete revisiones, coincide.",
+   "show": "La nueva guía del Colegio Americano de Medicina del Deporte, con 137 revisiones, coincide.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú vas al fallo en cada serie? Comenta sí o no.",
+   "show": "¿Tú vas al fallo en cada serie? Comenta sí o no.",
+   "gap": 0.36
+  },
+  {
+   "shot": "near",
+   "say": "Pero ojo: quedarse muy lejos tampoco sirve. El músculo parece crecer más cuanto más cerca del fallo terminas.",
+   "show": "Pero ojo: quedarse muy lejos tampoco sirve. El músculo parece crecer más cuanto más cerca del fallo terminas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "str",
+   "say": "En fuerza, en cambio, los resultados fueron parecidos con muchas o pocas repeticiones en reserva.",
+   "show": "En fuerza, en cambio, los resultados fueron parecidos con muchas o pocas repeticiones en reserva.",
+   "gap": 0.36
+  },
+  {
+   "shot": "arm",
+   "say": "Un estudio de dos mil veintiséis entrenó un brazo al fallo y el otro dejando de una a tres repeticiones: crecieron igual.",
+   "show": "Un estudio de 2026 entrenó un brazo al fallo y el otro dejando de 1 a 3 repeticiones: crecieron igual.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

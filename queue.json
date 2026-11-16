@@ -989,6 +989,39 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v027",
+   "file": "videos/v027_Fallo_vs_reserva_LAB.mp4",
+   "title": "¿Hay que llegar al fallo para ganar músculo? Fallo vs. repeticiones en reserva #shorts",
+   "caption": "¿Hay que llegar al fallo en cada serie para ganar músculo? 💪 No necesariamente. Un metaanálisis de 15 estudios (Grgic et al., 2022) no encontró diferencias claras en fuerza ni en músculo entre entrenar al fallo o no, y la nueva guía del ACSM (2026, 137 revisiones sistemáticas) concluye que llegar al fallo no cambia los resultados de forma consistente. Pero quedarse muy lejos tampoco sirve: los datos sugieren que el músculo crece más cuanto más cerca del fallo terminas la serie, mientras que la fuerza mejora parecido con más o menos repeticiones en reserva (Robinson et al., 2024). En un estudio de 2026, 19 adultos entrenados hicieron curl con un brazo al fallo y el otro dejando 1–3 repeticiones en reserva durante 8 semanas: ambos brazos ganaron músculo y fuerza de forma similar.\n\n¿Tú vas al fallo en cada serie? Comenta SÍ o NO 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Grgic, Schoenfeld, Orazem y Sabol (2022), Journal of Sport and Health Science – entrenar al fallo o sin fallo: fuerza e hipertrofia (metaanálisis, 15 estudios) – doi:10.1016/j.jshs.2021.01.007",
+    "Currier et al. (2026), Medicine & Science in Sports & Exercise – Posición del ACSM: prescripción del entrenamiento de fuerza en adultos sanos (137 revisiones sistemáticas) – doi:10.1249/MSS.0000000000003897",
+    "Robinson et al. (2024), Sports Medicine – dosis-respuesta entre cercanía al fallo, fuerza e hipertrofia (metarregresiones) – doi:10.1007/s40279-024-02069-2",
+    "Refalo et al. (2023), Sports Medicine – cercanía al fallo e hipertrofia (metaanálisis) – doi:10.1007/s40279-022-01784-y",
+    "Vasconcelos, Refalo et al. (2026), Muscles – fallo vs. 1–3 repeticiones en reserva: un brazo vs. el otro en adultos entrenados – doi:10.3390/muscles5030061"
+   ],
+   "hashtags": "#hipertrofia #entrenamientodefuerza #gimnasio #musculo #fallomuscular #cienciadelentrenamiento",
+   "created": "2026-11-16T02:31:17-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿HAY QUE LLEGAR|AL *FALLO* PARA|GANAR *MÚSCULO*?",
+   "cover_png": "portadas/v027_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
