@@ -761,13 +761,19 @@
    "created": "2026-11-13T02:43:47-03:00",
    "slot": "2026-11-16T16:00:00-03:00",
    "youtube": {
-    "status": "pending"
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "2188172f-30a3-449e-a342-1b43fbc9766e",
+    "publicationId": "6f979c96-6e4c-4145-9f64-4758991676d4",
+    "uploadId": "eb9577fd-3d29-48b1-9a75-999887dd14b6",
+    "publishAt": "2026-11-16T16:00:00-03:00",
+    "url": "https://youtube.com/shorts/77kmTtlndnM"
    },
    "instagram": {
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "skipped_warmup"
    },
    "synced_to_pc": false,
    "file_ready": true,
