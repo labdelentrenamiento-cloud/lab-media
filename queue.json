@@ -1054,6 +1054,38 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v029",
+   "file": "videos/v029_Frecuencia_1_vez_por_semana_LAB.mp4",
+   "title": "¿Qué pasa si entrenas cada músculo solo 1 vez por semana? #shorts",
+   "caption": "¿Qué pasa si entrenas cada músculo solo 1 vez por semana? 📅 Con el mismo número total de series, el músculo crece de forma parecida con 1, 2 o 3 sesiones: es la conclusión de un metaanálisis de 25 estudios (Schoenfeld et al., 2019). Lo que más pesa es el volumen semanal: cuántas series exigentes haces en total. En fuerza sí hay diferencia: un análisis de 67 estudios (Pelland et al., 2025) encontró más fuerza al entrenar más veces, aunque cada día extra suma menos. La guía 2026 del ACSM recomienda al menos 2 sesiones por semana y unas 10 series semanales por músculo para crecer. En la práctica: si solo tienes un día, ese día sí sirve; si tienes más, reparte tus series.\n\n¿Cuántas veces a la semana entrenas piernas? Comenta el número 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Schoenfeld, Grgic y Krieger (2019), Journal of Sports Sciences – ¿cuántas veces por semana entrenar un músculo para maximizar la hipertrofia? (metaanálisis, 25 estudios) – doi:10.1080/02640414.2018.1555906",
+    "Pelland et al. (2025), Sports Medicine – dosis-respuesta del volumen y la frecuencia semanal en hipertrofia y fuerza (metarregresiones, 67 estudios) – doi:10.1007/s40279-025-02344-w",
+    "Currier et al. (2026), Medicine & Science in Sports & Exercise – Posición del ACSM: prescripción del entrenamiento de fuerza (≥2 sesiones/semana para fuerza; ≥10 series/semana para hipertrofia) – doi:10.1249/MSS.0000000000003897",
+    "ACSM (2026) – infografía de la posición sobre entrenamiento de fuerza – https://acsm.org/wp-content/uploads/2026/03/Resistance-Training-Position-Stand-infographic.pdf"
+   ],
+   "hashtags": "#frecuencia #hipertrofia #rutinadegimnasio #entrenamientodefuerza #musculo #cienciadelentrenamiento",
+   "created": "2026-11-16T02:42:54-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿Y SI ENTRENAS|CADA MÚSCULO|*1 VEZ* POR SEMANA?",
+   "cover_png": "portadas/v029_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

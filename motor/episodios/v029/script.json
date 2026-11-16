@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Qué pasa si entrenas cada músculo solo una vez por semana? ¿Creces menos?",
+   "show": "¿Qué pasa si entrenas cada músculo solo una vez por semana? ¿Creces menos?",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis de veinticinco estudios lo comparó con el mismo número de series a la semana.",
+   "show": "Un metaanálisis de 25 estudios lo comparó con el mismo número de series a la semana.",
+   "gap": 0.36
+  },
+  {
+   "shot": "same",
+   "say": "Resultado: el músculo creció de forma parecida con una, dos o tres sesiones.",
+   "show": "Resultado: el músculo creció de forma parecida con una, dos o tres sesiones.",
+   "gap": 0.36
+  },
+  {
+   "shot": "vol",
+   "say": "Lo que más pesó fue el volumen: cuántas series exigentes haces en total en la semana.",
+   "show": "Lo que más pesó fue el volumen: cuántas series exigentes haces en total en la semana.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Cuántas veces a la semana entrenas piernas? Comenta el número.",
+   "show": "¿Cuántas veces a la semana entrenas piernas? Comenta el número.",
+   "gap": 0.36
+  },
+  {
+   "shot": "str",
+   "say": "En fuerza sí hay diferencia: entrenar más veces dio más fuerza, aunque cada día extra suma menos.",
+   "show": "En fuerza sí hay diferencia: entrenar más veces dio más fuerza, aunque cada día extra suma menos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "acsm",
+   "say": "La guía del Colegio Americano de Medicina del Deporte pide al menos dos sesiones semanales y unas diez series por músculo.",
+   "show": "La guía del Colegio Americano de Medicina del Deporte pide al menos 2 sesiones semanales y unas 10 series por músculo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "tip",
+   "say": "Si solo tienes un día, ese día sí sirve. Y si tienes más, reparte tus series entre ellos.",
+   "show": "Si solo tienes un día, ese día sí sirve. Y si tienes más, reparte tus series entre ellos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
