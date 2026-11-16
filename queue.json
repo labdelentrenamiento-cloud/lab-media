@@ -761,7 +761,7 @@
    "created": "2026-11-13T02:43:47-03:00",
    "slot": "2026-11-16T16:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "2188172f-30a3-449e-a342-1b43fbc9766e",
     "publicationId": "6f979c96-6e4c-4145-9f64-4758991676d4",
@@ -803,7 +803,7 @@
    ],
    "hashtags": "#corazon #escaleras #longevidad #ejercicio #saludcardiovascular #cienciadelentrenamiento",
    "created": "2026-11-13T09:26:36-03:00",
-   "slot": null,
+   "slot": "2026-11-16T20:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
@@ -811,7 +811,8 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "skipped_warmup",
+    "note": "TikTok en pausa hasta 2026-11-21 (tiktok_paused_until)"
    },
    "synced_to_pc": false,
    "file_ready": true,
