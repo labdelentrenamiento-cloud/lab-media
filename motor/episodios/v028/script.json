@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Hacer cardio te quita músculo? Es uno de los mitos más repetidos del gimnasio.",
+   "show": "¿Hacer cardio te quita músculo? Es uno de los mitos más repetidos del gimnasio.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis de cuarenta y tres estudios comparó solo pesas contra pesas más cardio.",
+   "show": "Un metaanálisis de 43 estudios comparó solo pesas contra pesas más cardio.",
+   "gap": 0.36
+  },
+  {
+   "shot": "same",
+   "say": "Resultado: el músculo y la fuerza máxima crecieron prácticamente igual.",
+   "show": "Resultado: el músculo y la fuerza máxima crecieron prácticamente igual.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú haces el cardio antes o después de las pesas? Comenta antes o después.",
+   "show": "¿Tú haces el cardio antes o después de las pesas? Comenta antes o después.",
+   "gap": 0.36
+  },
+  {
+   "shot": "jump",
+   "say": "Lo que sí se frenó un poco fue la fuerza explosiva, como saltar, sobre todo al hacer ambos en la misma sesión.",
+   "show": "Lo que sí se frenó un poco fue la fuerza explosiva, como saltar, sobre todo al hacer ambos en la misma sesión.",
+   "gap": 0.36
+  },
+  {
+   "shot": "order",
+   "say": "¿Y el orden? Una revisión de diecisiete metaanálisis no halló diferencias claras, con una tendencia a favor de las pesas primero.",
+   "show": "¿Y el orden? Una revisión de 17 metaanálisis no halló diferencias claras, con una tendencia a favor de las pesas primero.",
+   "gap": 0.36
+  },
+  {
+   "shot": "aero",
+   "say": "Y sumar cardio mejoró la capacidad aeróbica, algo que con pesas solas mejora mucho menos.",
+   "show": "Y sumar cardio mejoró la capacidad aeróbica, algo que con pesas solas mejora mucho menos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "tip",
+   "say": "Si quieres ser más explosivo, sepáralos al menos tres horas o haz las pesas primero.",
+   "show": "Si quieres ser más explosivo, sepáralos al menos 3 horas o haz las pesas primero.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

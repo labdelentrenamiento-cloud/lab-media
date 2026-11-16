@@ -1022,6 +1022,38 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v028",
+   "file": "videos/v028_Cardio_y_musculo_LAB.mp4",
+   "title": "¿El cardio te quita músculo? Mito vs. realidad con 43 estudios #shorts",
+   "caption": "¿Hacer cardio te quita músculo? 🏃‍♀️🏋️ Mito. Un metaanálisis de 43 estudios (Schumann et al., 2022) comparó solo pesas contra pesas + cardio: el músculo y la fuerza máxima crecieron prácticamente igual. Lo que sí se frenó un poco fue la fuerza explosiva (como saltar), sobre todo al hacer ambos en la misma sesión; con al menos 3 horas entre uno y otro, la diferencia dejó de ser significativa. ¿Y el orden? Una revisión paraguas de 2026 (17 metaanálisis, 144 estudios) no encontró diferencias significativas, aunque hay una tendencia a favor de hacer las pesas primero. A cambio, sumar cardio mejoró la capacidad aeróbica frente a hacer solo pesas. Matiz: a nivel de fibras musculares, otro metaanálisis encontró un posible efecto negativo pequeño, sobre todo al correr (Lundberg et al., 2022).\n\n¿Tú haces el cardio antes o después de las pesas? Comenta ANTES o DESPUÉS 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Schumann et al. (2022), Sports Medicine – compatibilidad del entrenamiento aeróbico y de fuerza para el tamaño y la función muscular (metaanálisis, 43 estudios) – doi:10.1007/s40279-021-01587-7",
+    "Held et al. (2026), Sports Medicine – cómo maximizar el entrenamiento concurrente: revisión paraguas de 17 metaanálisis (144 estudios) – doi:10.1007/s40279-026-02401-y",
+    "Lundberg et al. (2022), Sports Medicine – entrenamiento concurrente e hipertrofia de fibras musculares (metaanálisis) – doi:10.1007/s40279-022-01688-x",
+    "Ferraro-Farro et al. (2026), International Journal of Sports Medicine – intervalos de sprint + pesas: sin interferencia en fuerza (metaanálisis) – doi:10.1055/a-2820-4527"
+   ],
+   "hashtags": "#cardio #pesas #entrenamientoconcurrente #hipertrofia #gimnasio #cienciadelentrenamiento",
+   "created": "2026-11-16T02:40:48-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿EL *CARDIO*|TE QUITA|*MÚSCULO*?",
+   "cover_png": "portadas/v028_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
