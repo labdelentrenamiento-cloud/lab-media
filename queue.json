@@ -1125,6 +1125,37 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v030",
+   "file": "videos/v030_Creatina_y_pelo_LAB.mp4",
+   "title": "¿La creatina hace que se te caiga el pelo? Mito vs. realidad #shorts",
+   "caption": "¿La creatina hace que se te caiga el pelo? 💊 El miedo nació de un solo estudio: en 2009, 20 jugadores de rugby tomaron creatina 3 semanas y su DHT (una hormona ligada a la calvicie) subió un 56 %… pero nadie midió su pelo. En 2025, un ensayo con placebo dio 5 g al día durante 12 semanas y esta vez sí midió el pelo: ni la DHT ni la densidad o el grosor del pelo cambiaron distinto que con el placebo. Ojo: fue un estudio pequeño (38 hombres jóvenes que entrenaban), así que hacen falta más. Por ahora, la evidencia no muestra que la creatina cause calvicie.\n\n¿Habías escuchado este mito? Comenta sí o no 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "van der Merwe, Brooks y Myburgh (2009), Clinical Journal of Sport Medicine – 3 semanas de creatina y relación DHT/testosterona en jugadores de rugby (ensayo cruzado con placebo, n = 20) – doi:10.1097/JSM.0b013e3181b8b52f",
+    "Lak et al. (2025), Journal of the International Society of Sports Nutrition – ¿La creatina causa caída del pelo? Ensayo aleatorizado de 12 semanas (5 g/día vs. placebo; tricograma y FotoFinder) – doi:10.1080/15502783.2025.2495229",
+    "Antonio et al. (2021), Journal of the International Society of Sports Nutrition – Preguntas frecuentes y mitos sobre la creatina: qué muestra la evidencia – doi:10.1186/s12970-021-00412-w"
+   ],
+   "hashtags": "#creatina #suplementos #mitosdelgimnasio #calvicie #musculo #cienciadelentrenamiento",
+   "created": "2026-11-17T02:25:51-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿LA *CREATINA*|HACE CAER|EL *PELO*?",
+   "cover_png": "portadas/v030_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

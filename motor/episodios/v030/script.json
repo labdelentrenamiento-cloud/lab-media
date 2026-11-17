@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿La creatina hace que se te caiga el pelo? Este miedo nació de un solo estudio.",
+   "show": "¿La creatina hace que se te caiga el pelo? Este miedo nació de un solo estudio.",
+   "gap": 0.36
+  },
+  {
+   "shot": "rugby",
+   "say": "En dos mil nueve, veinte jugadores de rugby tomaron creatina durante tres semanas.",
+   "show": "En 2009, 20 jugadores de rugby tomaron creatina durante 3 semanas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "dht",
+   "say": "Su de hache te, una hormona ligada a la calvicie, subió un cincuenta y seis por ciento. Pero nadie midió su pelo.",
+   "show": "Su DHT, una hormona ligada a la calvicie, subió un 56 %. Pero nadie midió su pelo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú habías escuchado este mito? Comenta sí o no.",
+   "show": "¿Tú habías escuchado este mito? Comenta sí o no.",
+   "gap": 0.36
+  },
+  {
+   "shot": "rct",
+   "say": "En dos mil veinticinco, un ensayo con placebo dio cinco gramos al día durante doce semanas, y esta vez sí midió el pelo.",
+   "show": "En 2025, un ensayo con placebo dio 5 gramos al día durante 12 semanas, y esta vez sí midió el pelo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "res",
+   "say": "Resultado: la de hache te y el pelo no cambiaron distinto que con el placebo.",
+   "show": "Resultado: la DHT y el pelo no cambiaron distinto que con el placebo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ojo",
+   "say": "Ojo: fue un estudio pequeño, en hombres jóvenes que entrenaban, así que hacen falta más.",
+   "show": "Ojo: fue un estudio pequeño, en hombres jóvenes que entrenaban, así que hacen falta más.",
+   "gap": 0.36
+  },
+  {
+   "shot": "hoy",
+   "say": "Por ahora, la evidencia no muestra que la creatina cause calvicie.",
+   "show": "Por ahora, la evidencia no muestra que la creatina cause calvicie.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
