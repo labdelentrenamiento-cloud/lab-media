@@ -1186,6 +1186,37 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v032",
+   "file": "videos/v032_Fuerza_al_envejecer_LAB.mp4",
+   "title": "Si quisieras conservar tu fuerza al envejecer, harías esto #shorts",
+   "caption": "Después de los 70, la fuerza se va unas 3 veces más rápido que el músculo 🦵 En el estudio Health ABC (1.880 adultos de 70 a 79 años seguidos 3 años), la masa de las piernas bajó cerca de un 1 % al año y la fuerza de las piernas entre un 2,5 % y un 4 % al año (Goodpaster et al., 2006). Si quisieras frenar esa caída, la ciencia te diría 3 cosas: 1) ejercicios de fuerza al menos 2 días por semana, como pide la OMS; 2) más volumen ayuda: en un metaanálisis de 49 estudios con personas de 50 años o más, los programas con más series ganaron más músculo (Peterson et al., 2011); 3) nunca es tarde, pero empezar antes rinde más, porque los de más edad ganaron algo menos.\n\n¿Cuántos días a la semana haces fuerza? Comenta el número 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Goodpaster et al. (2006), Journals of Gerontology: Series A – Pérdida de fuerza, masa y calidad muscular en adultos mayores: estudio Health ABC (1.880 personas, 3 años) – doi:10.1093/gerona/61.10.1059",
+    "Bull et al. (2020), British Journal of Sports Medicine – Directrices de la OMS sobre actividad física y comportamiento sedentario (fuerza ≥2 días/semana) – doi:10.1136/bjsports-2020-102955",
+    "Peterson, Sen y Gordon (2011), Medicine & Science in Sports & Exercise – Ejercicio de fuerza y masa magra en adultos ≥50 años (metaanálisis, 49 estudios, 1.328 participantes) – doi:10.1249/MSS.0b013e3181eb6265"
+   ],
+   "hashtags": "#sarcopenia #envejecimiento #fuerza #longevidad #entrenamientodefuerza #cienciadelentrenamiento",
+   "created": "2026-11-17T02:32:40-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "SI QUISIERAS|*CONSERVAR* TU FUERZA|AL *ENVEJECER*…",
+   "cover_png": "portadas/v032_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

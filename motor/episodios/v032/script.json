@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "Después de los setenta, tu fuerza se va unas tres veces más rápido que tu músculo.",
+   "show": "Después de los 70, tu fuerza se va unas 3 veces más rápido que tu músculo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "abc",
+   "say": "Un estudio siguió a casi dos mil adultos mayores durante tres años.",
+   "show": "Un estudio siguió a casi 2.000 adultos mayores durante 3 años.",
+   "gap": 0.36
+  },
+  {
+   "shot": "rate",
+   "say": "La masa de las piernas bajó cerca de un uno por ciento al año. La fuerza, entre dos y medio y cuatro.",
+   "show": "La masa de las piernas bajó cerca de un 1 % al año. La fuerza, entre 2,5 y 4.",
+   "gap": 0.36
+  },
+  {
+   "shot": "si",
+   "say": "Si quisieras frenar esa caída, la ciencia te diría tres cosas.",
+   "show": "Si quisieras frenar esa caída, la ciencia te diría 3 cosas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "oms",
+   "say": "Uno: ejercicios de fuerza al menos dos días por semana, como pide la Organización Mundial de la Salud.",
+   "show": "Uno: ejercicios de fuerza al menos 2 días por semana, como pide la OMS.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Cuántos días haces fuerza tú? Comenta el número.",
+   "show": "¿Cuántos días haces fuerza tú? Comenta el número.",
+   "gap": 0.36
+  },
+  {
+   "shot": "vol",
+   "say": "Dos: más volumen ayuda. En cuarenta y nueve estudios, los programas con más series ganaron más músculo.",
+   "show": "Dos: más volumen ayuda. En 49 estudios, los programas con más series ganaron más músculo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "pronto",
+   "say": "Tres: nunca es tarde, pero empezar antes rinde más, porque los de más edad ganaron algo menos.",
+   "show": "Tres: nunca es tarde, pero empezar antes rinde más, porque los de más edad ganaron algo menos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
