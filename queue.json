@@ -851,7 +851,7 @@
    "created": "2026-11-14T02:35:11-03:00",
    "slot": "2026-11-17T12:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "8fa8a07a-c849-4abd-b8e6-2cf0b82252e9",
     "publicationId": "a75c689d-c324-440a-999e-c0b3540474c6",
@@ -896,7 +896,7 @@
    ],
    "hashtags": "#cafeina #rendimiento #preentreno #suplementos #sueño #cienciadelentrenamiento",
    "created": "2026-11-14T02:38:35-03:00",
-   "slot": null,
+   "slot": "2026-11-17T16:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
@@ -904,7 +904,8 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "skipped_warmup",
+    "note": "TikTok en pausa hasta 2026-11-21 (tiktok_paused_until)"
    },
    "synced_to_pc": false,
    "file_ready": true,
