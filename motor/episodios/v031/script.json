@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Pesas libres o máquinas? ¿Con cuál ganas más músculo?",
+   "show": "¿Pesas libres o máquinas? ¿Con cuál ganas más músculo?",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis reunió trece estudios con más de mil personas que entrenaron al menos seis semanas.",
+   "show": "Un metaanálisis reunió 13 estudios con más de 1.000 personas que entrenaron al menos 6 semanas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "musc",
+   "say": "En músculo, empate: crecieron lo mismo con barras y mancuernas que con máquinas.",
+   "show": "En músculo, empate: crecieron lo mismo con barras y mancuernas que con máquinas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "spec",
+   "say": "En fuerza, cada grupo mejoró más en el tipo de prueba que había practicado.",
+   "show": "En fuerza, cada grupo mejoró más en el tipo de prueba que había practicado.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú eres más de máquinas o de peso libre? Comenta M o L.",
+   "show": "¿Tú eres más de máquinas o de peso libre? Comenta M o L.",
+   "gap": 0.36
+  },
+  {
+   "shot": "jump",
+   "say": "Y en el salto vertical, tampoco hubo diferencia entre los dos.",
+   "show": "Y en el salto vertical, tampoco hubo diferencia entre los dos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "goal",
+   "say": "Si quieres levantar más en sentadilla con barra, practica la sentadilla con barra.",
+   "show": "Si quieres levantar más en sentadilla con barra, practica la sentadilla con barra.",
+   "gap": 0.36
+  },
+  {
+   "shot": "key",
+   "say": "Para crecer, elige lo que te guste y te permita entrenar con esfuerzo y constancia.",
+   "show": "Para crecer, elige lo que te guste y te permita entrenar con esfuerzo y constancia.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

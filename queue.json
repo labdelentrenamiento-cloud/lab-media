@@ -1156,6 +1156,36 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v031",
+   "file": "videos/v031_Maquinas_vs_peso_libre_LAB.mp4",
+   "title": "¿Pesas libres o máquinas para ganar músculo? La ciencia las comparó #shorts",
+   "caption": "¿Pesas libres o máquinas: con cuál ganas más músculo? 🏋️ Un metaanálisis de 13 estudios con 1.016 personas que entrenaron al menos 6 semanas (Haugen et al., 2023) las comparó. En músculo, empate: crecieron lo mismo con barras y mancuernas que con máquinas (5 estudios midieron el músculo). En fuerza, cada grupo mejoró más en el tipo de prueba que había practicado (en máquinas fue una tendencia), y en el salto vertical tampoco hubo diferencia. Si tu meta es levantar más en sentadilla con barra, practica la sentadilla con barra; para crecer, elige lo que te guste y te permita entrenar con esfuerzo y constancia.\n\n¿Eres más de máquinas o de peso libre? Comenta M o L 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Haugen et al. (2023), BMC Sports Science, Medicine and Rehabilitation – Peso libre vs. máquinas: fuerza máxima, hipertrofia y salto (revisión sistemática y metaanálisis, 13 estudios, 1.016 participantes) – doi:10.1186/s13102-023-00713-4",
+    "Currier et al. (2026), Medicine & Science in Sports & Exercise – Posición del ACSM: prescripción del entrenamiento de fuerza – doi:10.1249/MSS.0000000000003897"
+   ],
+   "hashtags": "#pesaslibres #maquinas #hipertrofia #gimnasio #entrenamientodefuerza #cienciadelentrenamiento",
+   "created": "2026-11-17T02:28:20-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿PESAS *LIBRES*|O *MÁQUINAS*?|¿CUÁL GANA?",
+   "cover_png": "portadas/v031_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
