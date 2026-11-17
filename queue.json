@@ -805,7 +805,7 @@
    "created": "2026-11-13T09:26:36-03:00",
    "slot": "2026-11-16T20:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "d2b4da67-d47a-4a65-9b87-d7b24035511c",
     "publicationId": "63d7211f-c3cd-4cd5-968a-57717e31def7",
@@ -849,7 +849,7 @@
    ],
    "hashtags": "#bañodehielo #recuperacion #hipertrofia #musculo #entrenamientodefuerza #cienciadelentrenamiento",
    "created": "2026-11-14T02:35:11-03:00",
-   "slot": null,
+   "slot": "2026-11-17T12:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
@@ -857,7 +857,8 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "skipped_warmup",
+    "note": "TikTok en pausa hasta 2026-11-21 (tiktok_paused_until)"
    },
    "synced_to_pc": false,
    "file_ready": true,
