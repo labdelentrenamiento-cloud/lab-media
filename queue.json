@@ -989,13 +989,14 @@
    "created": "2026-11-15T02:37:44-03:00",
    "slot": "2026-11-18T12:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "535c1206-3e9c-46fb-b347-3712ce60efad",
     "publicationId": "38483c6b-e788-4742-9fe1-fc18e0d1bd3f",
     "uploadId": "766384c8-d185-4869-8949-0cb62f2cf45b",
     "publishAt": "2026-11-18T12:00:00-03:00",
-    "url": "https://youtube.com/shorts/axNT9ori_vw"
+    "url": "https://youtube.com/shorts/axNT9ori_vw",
+    "published_at": "2026-11-18T12:00:00-03:00"
    },
    "instagram": {
     "status": "published",
@@ -1032,7 +1033,7 @@
    ],
    "hashtags": "#hiit #cardio #vo2max #corazon #entrenamiento #cienciadelentrenamiento",
    "created": "2026-11-15T02:39:00-03:00",
-   "slot": null,
+   "slot": "2026-11-18T16:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
@@ -1040,7 +1041,7 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "skipped_warmup"
    },
    "synced_to_pc": false,
    "file_ready": true,
