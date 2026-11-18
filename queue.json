@@ -1070,7 +1070,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-18: revisado (web 2026 sobre dolor muscular tardío y lactato): nada contradice el guion. Sin cambios."
   },
   {
    "id": "v027",
@@ -1169,7 +1170,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-18: revisado (frecuencia con volumen igualado; Pelland 2025 y posición ACSM 2026 siguen vigentes): sin cambios."
   },
   {
    "id": "v030",
@@ -1231,7 +1233,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-18: revisado (PubMed y web desde 2025: sin metaanálisis nuevo; Haugen 2023 sigue siendo la referencia): sin cambios."
   },
   {
    "id": "v032",
@@ -1262,7 +1265,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-18: revisado (Health ABC, OMS 2020 y metaanálisis de Peterson siguen vigentes): sin cambios."
   },
   {
    "id": "v033",
@@ -1293,7 +1297,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-18: revisado (PubMed y web 2025–2026: nada contradice la asociación correr recreativo–menos artrosis ni el estudio de resonancia 2026): sin cambios."
   },
   {
    "id": "v034",
@@ -1323,7 +1328,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-18: revisado con Gale et al. (Obes Rev 2026, 39 ensayos, doi:10.1111/obr.70152) y Gong et al. (Complement Ther Med 2026, doi:10.1016/j.ctim.2026.103416): caminar en pausas cortas baja glucosa e insulina, más que estar de pie. Coincide con el guion: sin cambios."
   },
   {
    "id": "v035",
@@ -1355,7 +1361,8 @@
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
-   "share_cta": true
+   "share_cta": true,
+   "evidenceNote": "2026-11-18: revisado con Krause Neto et al. (Front Physiol 2025, doi:10.3389/fphys.2025.1542334): la sentadilla paralela o completa aumenta el glúteo mayor. Coincide con el guion: sin cambios."
   }
  ],
  "tiktok_paused_until": "2026-11-21",
