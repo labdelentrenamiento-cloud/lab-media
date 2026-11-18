@@ -1263,6 +1263,37 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v033",
+   "file": "videos/v033_Correr_y_rodillas_LAB.mp4",
+   "title": "¿Correr por años desgasta tus rodillas? Lo que vieron más de 100.000 personas #shorts",
+   "caption": "¿Correr por años desgasta tus rodillas? 🏃 Un metaanálisis de 17 estudios con más de 100.000 personas encontró artrosis de cadera o rodilla en cerca del 10 % de quienes no corrían, en un 3,5 % de los corredores recreativos y en un 13 % de los corredores de élite (Alentorn-Geli et al., 2017). Ojo: es una asociación y no prueba la causa; las lesiones previas también influyen. En 2026, un estudio con resonancia magnética no encontró diferencias en el cartílago entre corredores recreativos y no corredores; lo que sí se asoció a más alteraciones fue la obesidad (Slovák et al., 2026).\n\n¿Tú corres? Comenta sí o no 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Alentorn-Geli et al. (2017), Journal of Orthopaedic & Sports Physical Therapy – Correr (recreativo y competitivo) y artrosis de cadera y rodilla: revisión sistemática y metaanálisis (25 estudios; 17 metaanalizados, 114.829 personas) – doi:10.2519/jospt.2017.7137",
+    "Slovák et al. (2026), Medicine & Science in Sports & Exercise – Cartílago de rodilla por resonancia en corredores recreativos, no corredores y adultos con obesidad (183 adultos, estudio 4HAIE) – doi:10.1249/MSS.0000000000004118",
+    "Coburn et al. (2023), Osteoarthritis and Cartilage – ¿Correr es bueno o malo para tus rodillas? Cambios del cartílago tras correr (revisión sistemática y metaanálisis, 24 estudios) – doi:10.1016/j.joca.2022.09.013"
+   ],
+   "hashtags": "#correr #rodillas #artrosis #running #articulaciones #cienciadelentrenamiento",
+   "created": "2026-11-18T02:23:54-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿CORRER AÑOS|*DESGASTA* TUS|*RODILLAS*?",
+   "cover_png": "portadas/v033_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

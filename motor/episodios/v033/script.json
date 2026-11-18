@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "¿Qué les pasa a tus rodillas si corres durante años? Mucha gente cree que se desgastan.", "show": "¿Qué les pasa a tus rodillas si corres durante años? Mucha gente cree que se desgastan.", "gap": 0.36},
+  {"shot": "meta", "say": "Un metaanálisis reunió diecisiete estudios con más de cien mil personas.", "show": "Un metaanálisis reunió 17 estudios con más de 100.000 personas.", "gap": 0.36},
+  {"shot": "sed", "say": "Artrosis de cadera o rodilla: en quienes no corrían, cerca de un diez por ciento.", "show": "Artrosis de cadera o rodilla: en quienes no corrían, cerca de un 10 %.", "gap": 0.36},
+  {"shot": "rec", "say": "En corredores recreativos, un tres y medio por ciento. En los de élite, un trece.", "show": "En corredores recreativos, un 3,5 %. En los de élite, un 13 %.", "gap": 0.36},
+  {"shot": "ask", "say": "¿Tú corres? Comenta sí o no.", "show": "¿Tú corres? Comenta sí o no.", "gap": 0.36},
+  {"shot": "ojo", "say": "Ojo: es una asociación, no prueba la causa, y las lesiones previas también cuentan.", "show": "Ojo: es una asociación, no prueba la causa, y las lesiones previas también cuentan.", "gap": 0.36},
+  {"shot": "mri", "say": "En dos mil veintiséis, un estudio con resonancia comparó el cartílago de corredores y no corredores: no hubo diferencias.", "show": "En 2026, un estudio con resonancia comparó el cartílago de corredores y no corredores: no hubo diferencias.", "gap": 0.36},
+  {"shot": "obes", "say": "Lo que sí se asoció a más daño en el cartílago fue la obesidad.", "show": "Lo que sí se asoció a más daño en el cartílago fue la obesidad.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}
