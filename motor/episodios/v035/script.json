@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "¿Media sentadilla o sentadilla completa? Un estudio midió los músculos con resonancia.", "show": "¿Media sentadilla o sentadilla completa? Un estudio midió los músculos con resonancia.", "gap": 0.36},
+  {"shot": "grupos", "say": "Diecisiete hombres entrenaron diez semanas: unos bajaban hasta la mitad y otros hasta abajo.", "show": "17 hombres entrenaron 10 semanas: unos bajaban hasta la mitad y otros hasta abajo.", "gap": 0.36},
+  {"shot": "cuad", "say": "El cuádriceps creció casi igual en los dos grupos: cerca de un cinco por ciento.", "show": "El cuádriceps creció casi igual en los dos grupos: cerca de un 5 %.", "gap": 0.36},
+  {"shot": "gluteo", "say": "Pero el glúteo creció unas tres veces más con la sentadilla completa.", "show": "Pero el glúteo creció unas 3 veces más con la sentadilla completa.", "gap": 0.36},
+  {"shot": "ask", "say": "¿Hasta dónde bajas tú? Comenta completa o media.", "show": "¿Hasta dónde bajas tú? Comenta «completa» o «media».", "gap": 0.36},
+  {"shot": "meta", "say": "Un metaanálisis de dieciséis estudios coincide: el recorrido completo ganó en fuerza y en músculo de las piernas.", "show": "Un metaanálisis de 16 estudios coincide: el recorrido completo ganó en fuerza y en músculo de las piernas.", "gap": 0.36},
+  {"shot": "estirado", "say": "La clave parece ser trabajar el músculo cuando está estirado, en la parte más profunda.", "show": "La clave parece ser trabajar el músculo cuando está estirado, en la parte más profunda.", "gap": 0.36},
+  {"shot": "parcial", "say": "Si una lesión te limita, un rango parcial también sirve: en general, la diferencia es pequeña.", "show": "Si una lesión te limita, un rango parcial también sirve: en general, la diferencia es pequeña.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}

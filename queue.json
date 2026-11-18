@@ -1324,6 +1324,38 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v035",
+   "file": "videos/v035_Media_vs_completa_sentadilla_LAB.mp4",
+   "title": "¿Media sentadilla o completa? Lo que creció en cada una (resonancia) #shorts",
+   "caption": "¿Media sentadilla o sentadilla completa? 🏋️ En un estudio con resonancia magnética, 17 hombres entrenaron sentadilla 2 veces por semana durante 10 semanas: unos hasta la mitad y otros hasta abajo. El cuádriceps creció casi igual (4,6 % vs. 4,9 %), pero el glúteo mayor creció unas 3 veces más con la completa (2,2 % vs. 6,7 %), y los aductores también (Kubo et al., 2019). Un metaanálisis de 16 estudios coincide: el recorrido completo ganó en fuerza y en músculo de las piernas (Pallarés et al., 2021). La clave parece ser trabajar el músculo estirado, aunque la evidencia aún es mixta. Si una lesión te limita, un rango parcial también sirve: en general, la diferencia es pequeña (Wolf et al., 2023).\n\n¿Hasta dónde bajas tú? Comenta «completa» o «media» 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Kubo, Ikebukuro y Yata (2019), European Journal of Applied Physiology – Sentadilla completa vs. media sentadilla: volumen muscular por resonancia (17 hombres, 10 semanas) – doi:10.1007/s00421-019-04181-y",
+    "Pallarés et al. (2021), Scandinavian Journal of Medicine & Science in Sports – Rango de movimiento completo vs. parcial en el entrenamiento de fuerza (revisión sistemática y metaanálisis, 16 estudios) – doi:10.1111/sms.14006",
+    "Wolf et al. (2023), International Journal of Strength and Conditioning – Rango parcial vs. completo: revisión sistemática y metaanálisis (diferencias triviales a pequeñas) – journal.iusca.org/index.php/Journal/article/view/182",
+    "Wolf et al. (2025), Sports Medicine and Health Science – ¿Entrenar con el músculo más estirado causa más crecimiento? Revisión sistemática (evidencia mixta) – doi:10.1016/j.smhs.2025.03.001"
+   ],
+   "hashtags": "#sentadilla #gluteos #hipertrofia #piernas #entrenamientodefuerza #cienciadelentrenamiento",
+   "created": "2026-11-18T02:27:53-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿*MEDIA* SENTADILLA|O *COMPLETA*?|LA RESONANCIA LO VIO",
+   "cover_png": "portadas/v035_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
