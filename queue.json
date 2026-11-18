@@ -1294,6 +1294,36 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v034",
+   "file": "videos/v034_Caminar_despues_de_comer_LAB.mp4",
+   "title": "¿Caminar 30 minutos seguidos o 10 después de cada comida? La ciencia los comparó #shorts",
+   "caption": "¿Caminar 30 minutos de una vez o 10 después de cada comida? Mismo tiempo, distinto efecto 🚶 En un ensayo cruzado, 41 adultos con diabetes tipo 2 probaron los dos planes durante 2 semanas cada uno: caminando después de comer, su azúcar en las 3 horas tras las comidas fue un 12 % más bajo, y tras la cena (la comida con más carbohidratos) un 22 % más bajo (Reynolds et al., 2016). Un metaanálisis de 7 ensayos mostró que cortar el tiempo sentado con caminatas suaves de 2 a 5 minutos baja la glucosa y la insulina después de comer más que solo ponerse de pie (Buffey et al., 2022). No hace falta correr: un paseo tranquilo ya cuenta. Si tienes diabetes o usas medicamentos para la glucosa, coméntalo con tu equipo de salud.\n\n¿Cuál es tu comida más pesada del día? Coméntala 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Reynolds et al. (2016), Diabetologia – Caminar 10 minutos después de cada comida vs. 30 minutos al día en diabetes tipo 2 (ensayo aleatorizado cruzado, 41 adultos) – doi:10.1007/s00125-016-4085-2",
+    "Buffey et al. (2022), Sports Medicine – Interrumpir el tiempo sentado con caminata suave o de pie: efectos sobre glucosa, insulina y presión arterial (revisión sistemática y metaanálisis, 7 ensayos) – doi:10.1007/s40279-022-01649-4"
+   ],
+   "hashtags": "#caminar #glucosa #metabolismo #diabetes #salud #cienciadelentrenamiento",
+   "created": "2026-11-18T02:26:26-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿CAMINAR *30 MIN*|O *10 TRAS*|CADA COMIDA?",
+   "cover_png": "portadas/v034_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "¿Caminar treinta minutos de una vez, o diez después de cada comida? Mismo tiempo, distinto efecto.", "show": "¿Caminar 30 minutos de una vez, o 10 después de cada comida? Mismo tiempo, distinto efecto.", "gap": 0.36},
+  {"shot": "estudio", "say": "Cuarenta y un adultos con diabetes tipo dos probaron los dos planes, dos semanas cada uno.", "show": "41 adultos con diabetes tipo 2 probaron los dos planes, 2 semanas cada uno.", "gap": 0.36},
+  {"shot": "doce", "say": "Caminando después de comer, su azúcar tras las comidas fue un doce por ciento más bajo.", "show": "Caminando después de comer, su azúcar tras las comidas fue un 12 % más bajo.", "gap": 0.36},
+  {"shot": "cena", "say": "Después de la cena, la comida con más carbohidratos, la diferencia llegó al veintidós por ciento.", "show": "Después de la cena, la comida con más carbohidratos, la diferencia llegó al 22 %.", "gap": 0.36},
+  {"shot": "ask", "say": "¿Cuál es tu comida más pesada del día? Coméntala.", "show": "¿Cuál es tu comida más pesada del día? Coméntala.", "gap": 0.36},
+  {"shot": "musculo", "say": "La razón: al caminar, tus músculos usan glucosa justo cuando más llega a la sangre.", "show": "La razón: al caminar, tus músculos usan glucosa justo cuando más llega a la sangre.", "gap": 0.36},
+  {"shot": "meta", "say": "Y en siete ensayos, cortar el tiempo sentado caminando suave bajó la glucosa y la insulina más que solo ponerse de pie.", "show": "Y en 7 ensayos, cortar el tiempo sentado caminando suave bajó la glucosa y la insulina más que solo ponerse de pie.", "gap": 0.36},
+  {"shot": "paseo", "say": "No hace falta correr: un paseo tranquilo después de comer ya cuenta.", "show": "No hace falta correr: un paseo tranquilo después de comer ya cuenta.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}
