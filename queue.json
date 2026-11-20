@@ -1377,6 +1377,39 @@
    "centered_4x5": true,
    "share_cta": true,
    "evidenceNote": "2026-11-18: revisado con Krause Neto et al. (Front Physiol 2025, doi:10.3389/fphys.2025.1542334): la sentadilla paralela o completa aumenta el glúteo mayor. Coincide con el guion: sin cambios."
+  },
+  {
+   "id": "v036",
+   "file": "videos/v036_Sentadilla_en_la_pared_presion_LAB.mp4",
+   "title": "¿Sentadilla en la pared para bajar la presión? 270 ensayos la compararon #shorts",
+   "caption": "¿Sentadilla en la pared para bajar la presión arterial? 🫀 Un metaanálisis en red de 270 ensayos con 15.827 personas (Br J Sports Med, 2023) comparó los tipos de ejercicio: todos bajaron la presión en reposo, y el isométrico, como la sentadilla en la pared, fue el que más bajó la sistólica (unos 8 mmHg frente a unos 4,5 con cardio o pesas tradicionales). El protocolo típico es de 4 series de 2 minutos con 2 de descanso, 3 veces por semana; en un ensayo con personas con hipertensión sin medicación, la sistólica bajó 12,9 mmHg en 12 semanas (Cohen et al., 2023). Ojo: análisis de 2026 lo ven más parejo con otros ejercicios y todavía falta confirmarlo con presión medida las 24 horas. Súmalo a tu cardio, no lo reemplaces. Respira normal (sin aguantar el aire) y, si tienes presión alta o tomas medicamentos, consúltalo con tu médico.\n\n¿Cuántos segundos aguantas tú en sentadilla contra la pared? Comenta tu tiempo 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Edwards et al. (2023), British Journal of Sports Medicine – Entrenamiento con ejercicio y presión arterial en reposo: metaanálisis en red de 270 ensayos (15.827 personas); isométrico −8,24/−4,00 mmHg, aeróbico −4,49/−2,53, pesas −4,55/−3,04 – doi:10.1136/bjsports-2022-106503",
+    "Cohen et al. (2023), Journal of Clinical Hypertension – Sentadilla isométrica y agarre isométrico en 77 adultos con hipertensión sin medicación (12 semanas, 3 veces por semana; beneficio mantenido con 1 vez por semana) – doi:10.1111/jch.14621",
+    "Swift et al. (2026), BMJ Open Sport & Exercise Medicine – Sentadilla isométrica en la pared: dosis-respuesta según la frecuencia semanal (100 adultos) – doi:10.1136/bmjsem-2025-003172",
+    "Etayo-Urtasun, Sáez de Asteasu e Izquierdo (2026), Hypertension Research – Ejercicio sumado a medicación antihipertensiva (48 estudios): ninguna modalidad fue claramente superior – doi:10.1038/s41440-026-02784-5",
+    "Yuan et al. (2026), Maturitas – Metaanálisis en red bayesiano de 284 ensayos en prehipertensión e hipertensión: varias modalidades efectivas, isométrico entre las favorables – doi:10.1016/j.maturitas.2026.109132"
+   ],
+   "hashtags": "#presionarterial #corazon #sentadilla #ejercicioisometrico #salud #cienciadelentrenamiento",
+   "created": "2026-11-20T09:27:00-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿QUIETO EN LA *PARED*|PARA BAJAR TU|*PRESIÓN*?",
+   "cover_png": "portadas/v036_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

@@ -1,0 +1,14 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {"shot": "hook", "say": "¿Quedarte quieto contra la pared puede bajar tu presión arterial?", "show": "¿Quedarte quieto contra la pared puede bajar tu presión arterial?", "gap": 0.36},
+  {"shot": "meta", "say": "Un metaanálisis de doscientos setenta ensayos comparó los distintos tipos de ejercicio.", "show": "Un metaanálisis de 270 ensayos comparó los distintos tipos de ejercicio.", "gap": 0.36},
+  {"shot": "win", "say": "Todos la bajaron. Pero el que más la bajó fue el isométrico, como la sentadilla en la pared: unos ocho puntos.", "show": "Todos la bajaron. Pero el que más la bajó fue el isométrico, como la sentadilla en la pared: unos 8 puntos.", "gap": 0.36},
+  {"shot": "bars", "say": "Casi el doble que el cardio o las pesas tradicionales, con unos cuatro puntos y medio.", "show": "Casi el doble que el cardio o las pesas tradicionales, con unos 4,5 puntos.", "gap": 0.36},
+  {"shot": "ask", "say": "¿Cuántos segundos aguantas tú en la pared? Comenta tu tiempo.", "show": "¿Cuántos segundos aguantas tú en la pared? Comenta tu tiempo.", "gap": 0.36},
+  {"shot": "proto", "say": "El protocolo típico: cuatro series de dos minutos, con descanso, tres veces por semana.", "show": "El protocolo típico: 4 series de 2 minutos, con descanso, 3 veces por semana.", "gap": 0.36},
+  {"shot": "nuance", "say": "Ojo: análisis de dos mil veintiséis lo ven más parejo con otros ejercicios. Súmalo, no reemplaces el cardio.", "show": "Ojo: análisis de 2026 lo ven más parejo con otros ejercicios. Súmalo, no reemplaces el cardio.", "gap": 0.36},
+  {"shot": "safe", "say": "Respira normal, sin aguantar el aire. Y si tienes presión alta, consúltalo con tu médico.", "show": "Respira normal, sin aguantar el aire. Y si tienes presión alta, consúltalo con tu médico.", "gap": 0.36},
+  {"shot": "cta", "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.", "gap": 0.36}
+ ]
+}
