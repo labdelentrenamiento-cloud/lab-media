@@ -1091,7 +1091,14 @@
     "error": "2026-11-20 11:57: vidIQ rechazó la publicación: límite de 1 subida a YouTube por día (plan gratis; se reinicia a medianoche Pacífico = 05:00 Santiago). NO crear otro borrador: usar este postId (vidiq_social_post_draft_update con nuevo publishAt o sin él) y luego vidiq_social_post_publish."
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/Df-C3djBMSs/",
+    "via": "vidIQ",
+    "ai_label": true,
+    "mediaId": "18019314212986229",
+    "containerId": "18043474850688469",
+    "uploadId": "675335fc-a2ad-4af5-8d0a-6adc92422683",
+    "published_at": "2026-11-20T13:06:51-03:00"
    },
    "tiktok": {
     "status": "skipped_warmup",
