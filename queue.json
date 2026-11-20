@@ -1076,7 +1076,12 @@
    "created": "2026-11-15T02:44:31-03:00",
    "slot": "2026-11-20T12:00:00-03:00",
    "youtube": {
-    "status": "pending"
+    "status": "pending",
+    "via": "vidIQ",
+    "vidiq_post": "f3748dc3-f2d5-4682-862d-4e34a13a8633",
+    "publicationId": "bc37458e-c74a-417a-8677-cbea0419a771",
+    "uploadId": "2ed82702-6f7a-4662-b547-43d33aae39b2",
+    "error": "2026-11-20 11:57: vidIQ rechazó la publicación: límite de 1 subida a YouTube por día (plan gratis; se reinicia a medianoche Pacífico = 05:00 Santiago). NO crear otro borrador: usar este postId (vidiq_social_post_draft_update con nuevo publishAt o sin él) y luego vidiq_social_post_publish."
    },
    "instagram": {
     "status": "pending"
