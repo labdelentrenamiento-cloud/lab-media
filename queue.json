@@ -1132,13 +1132,14 @@
    "created": "2026-11-16T02:31:17-03:00",
    "slot": "2026-11-20T16:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "7b77acb6-b8cb-4363-a03c-e6dae4f29787",
     "publicationId": "3e03d0a1-7376-4f6e-bf40-59c277e61ecc",
     "uploadId": "ee0aa610-8d2c-4c43-a630-16f8a37f3343",
     "url": "https://www.youtube.com/watch?v=LkvTlt2z4Uc",
-    "publishAt": "2026-11-20T16:00:00-03:00"
+    "publishAt": "2026-11-20T16:00:00-03:00",
+    "published_at": "2026-11-20T16:00:00-03:00"
    },
    "instagram": {
     "status": "published",
@@ -1177,7 +1178,7 @@
    ],
    "hashtags": "#cardio #pesas #entrenamientoconcurrente #hipertrofia #gimnasio #cienciadelentrenamiento",
    "created": "2026-11-16T02:40:48-03:00",
-   "slot": null,
+   "slot": "2026-11-20T20:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
@@ -1185,7 +1186,8 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "skipped_warmup",
+    "note": "TikTok en pausa hasta 2026-11-21 (tiktok_paused_until)"
    },
    "synced_to_pc": false,
    "file_ready": true,
