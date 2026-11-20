@@ -1045,7 +1045,14 @@
     "note": "Recuperado de atraso (slot 2026-11-18 16:00 sin publicar)"
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/Df-CIxMMpCw/",
+    "via": "vidIQ",
+    "ai_label": true,
+    "mediaId": "18379548433246031",
+    "containerId": "18043474043688469",
+    "uploadId": "9c85376f-7dab-4233-a52a-15e1ab050f51",
+    "published_at": "2026-11-20T13:00:34-03:00"
    },
    "tiktok": {
     "status": "skipped_warmup"
