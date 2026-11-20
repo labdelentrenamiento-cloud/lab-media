@@ -1035,7 +1035,14 @@
    "created": "2026-11-15T02:39:00-03:00",
    "slot": "2026-11-18T16:00:00-03:00",
    "youtube": {
-    "status": "pending"
+    "status": "published",
+    "via": "vidIQ",
+    "vidiq_post": "018d9f4d-f64a-4d2e-87ca-7b26437b9bb5",
+    "publicationId": "22b5a861-f370-4f5f-87f6-5318166da233",
+    "uploadId": "6d4d6301-4ecd-4477-82a1-0ae4a917efed",
+    "url": "https://www.youtube.com/watch?v=BIH3B7xSudA",
+    "published_at": "2026-11-20T11:54:31-03:00",
+    "note": "Recuperado de atraso (slot 2026-11-18 16:00 sin publicar)"
    },
    "instagram": {
     "status": "pending"
@@ -1067,7 +1074,7 @@
    ],
    "hashtags": "#dolormuscular #agujetas #recuperacion #acidolactico #entrenamiento #cienciadelentrenamiento",
    "created": "2026-11-15T02:44:31-03:00",
-   "slot": null,
+   "slot": "2026-11-20T12:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
@@ -1075,7 +1082,8 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "skipped_warmup",
+    "note": "TikTok en pausa hasta 2026-11-21 (tiktok_paused_until)"
    },
    "synced_to_pc": false,
    "file_ready": true,
