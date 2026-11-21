@@ -1292,7 +1292,13 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "73c31f9a-aded-40a5-bd99-f6b594591ec2",
+    "publicationId": "641bc9df-68ef-4829-bb7a-1770f3cff7dd",
+    "uploadId": "9627b5ee-f69e-4ba7-a576-a44b90321516",
+    "publishAt": "2026-11-21T18:00:00-03:00",
+    "ai_label": true
    },
    "synced_to_pc": false,
    "file_ready": true,
