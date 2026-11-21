@@ -1188,7 +1188,14 @@
     "note": "2026-11-20 19:55: límite diario de vidIQ (3 subidas a YouTube) agotado; se reinicia 2026-11-21 05:00 (Santiago). Borrador guardado con publishAt 20:00 del 20-nov (ya vencido): el próximo run debe actualizar este mismo borrador (vidiq_social_post_draft_update, sin publishAt) y publicarlo; NO crear otro."
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "via": "vidIQ",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/Df-5Fh6u11P/",
+    "mediaId": "17883043836635258",
+    "containerId": "18043549244688469",
+    "uploadId": "183c6dc3-05b4-4ace-accf-666f8abf9b99",
+    "published_at": "2026-11-20T21:00:29-03:00",
+    "ai_label": true
    },
    "tiktok": {
     "status": "skipped_warmup",
