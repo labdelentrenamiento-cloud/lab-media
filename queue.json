@@ -1500,6 +1500,37 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v038",
+   "file": "videos/v038_Mujeres_y_musculo_LAB.mp4",
+   "title": "¿Las mujeres ganan menos músculo con pesas? Mito vs. realidad con 29 estudios #shorts",
+   "caption": "¿Las mujeres ganan menos músculo con pesas que los hombres? 🏋️‍♀️🏋️ Mito. Un metaanálisis de 2025 (Refalo et al., 29 estudios) comparó a hombres y mujeres de 18 a 45 años haciendo el mismo programa: en proporción a su punto de partida, ellas ganaron músculo prácticamente igual que ellos. En centímetros, la ganancia de ellos fue algo mayor, porque parten con más músculo. Y en fuerza del tren superior, otro metaanálisis (Roberts et al., 2020) vio que ellas mejoraron más en proporción. La OMS recomienda a todos los adultos ejercicios de fortalecimiento muscular al menos 2 días por semana. Ojo: son estudios en adultos sanos de 18 a 45 años; en otras edades y en personas muy entrenadas falta más evidencia.\n\n¿Tú entrenas fuerza? Comenta SÍ o TODAVÍA NO 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Refalo, Nuckols, Galpin, Gallagher, Hamilton y Fyfe (2025), PeerJ – Diferencias por sexo en el aumento absoluto y relativo del tamaño muscular con entrenamiento de fuerza: metaanálisis bayesiano de 29 estudios (adultos sanos de 18 a 45 años) – doi:10.7717/peerj.19042",
+    "Roberts, Nuckols y Krieger (2020), Journal of Strength and Conditioning Research – Diferencias por sexo en el entrenamiento de fuerza: hipertrofia similar y mayor mejora relativa de fuerza del tren superior en mujeres – doi:10.1519/JSC.0000000000003521",
+    "Bull et al. (2020), British Journal of Sports Medicine – Directrices de la OMS sobre actividad física y comportamiento sedentario (fortalecimiento muscular 2 o más días por semana) – doi:10.1136/bjsports-2020-102955"
+   ],
+   "hashtags": "#mujeresfuertes #musculo #pesas #fuerza #mitosdelgym #cienciadelentrenamiento",
+   "created": "2026-11-21T02:23:50-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿ELLAS GANAN|*MENOS* MÚSCULO|CON *PESAS*?",
+   "cover_png": "portadas/v038_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

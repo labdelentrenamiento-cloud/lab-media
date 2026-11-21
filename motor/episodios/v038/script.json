@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Las mujeres ganan menos músculo con pesas que los hombres? Mito o realidad.",
+   "show": "¿Las mujeres ganan menos músculo con pesas que los hombres? Mito o realidad.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis de dos mil veinticinco juntó veintinueve estudios con hombres y mujeres haciendo el mismo programa.",
+   "show": "Un metaanálisis de 2025 juntó 29 estudios con hombres y mujeres haciendo el mismo programa.",
+   "gap": 0.36
+  },
+  {
+   "shot": "rel",
+   "say": "En proporción a su punto de partida, ellas ganaron músculo prácticamente igual que ellos.",
+   "show": "En proporción a su punto de partida, ellas ganaron músculo prácticamente igual que ellos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "abs",
+   "say": "En centímetros, la ganancia de ellos fue algo mayor, porque parten con más músculo.",
+   "show": "En centímetros, la ganancia de ellos fue algo mayor, porque parten con más músculo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú entrenas fuerza? Comenta sí o todavía no.",
+   "show": "¿Tú entrenas fuerza? Comenta sí o todavía no.",
+   "gap": 0.36
+  },
+  {
+   "shot": "upper",
+   "say": "Y en fuerza del tren superior, otro metaanálisis vio que ellas mejoraron más, en proporción.",
+   "show": "Y en fuerza del tren superior, otro metaanálisis vio que ellas mejoraron más, en proporción.",
+   "gap": 0.36
+  },
+  {
+   "shot": "who",
+   "say": "La OMS recomienda a todos los adultos fortalecer sus músculos al menos dos días por semana.",
+   "show": "La OMS recomienda a todos los adultos fortalecer sus músculos al menos 2 días por semana.",
+   "gap": 0.36
+  },
+  {
+   "shot": "nuance",
+   "say": "Ojo: son adultos sanos de dieciocho a cuarenta y cinco años; en otras edades falta más evidencia.",
+   "show": "Ojo: son adultos sanos de 18 a 45 años; en otras edades falta más evidencia.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
