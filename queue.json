@@ -1531,6 +1531,37 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v039",
+   "file": "videos/v039_Musica_y_rendimiento_LAB.mp4",
+   "title": "3 cosas que la música le hace a tu entrenamiento (139 estudios) #shorts",
+   "caption": "¿Tu música te hace rendir más al entrenar? 🎧 Un metaanálisis de 139 estudios con 3.599 personas (Terry et al., Psychological Bulletin 2020) encontró 3 efectos: 1) el esfuerzo se siente menor, 2) rindes un poco más (efecto pequeño, mayor con música rápida) y 3) mejora tu ánimo mientras entrenas, que fue el efecto más grande. El pulso no cambió de forma clara. Un metaanálisis de 2026 en ejercicio aeróbico concluye que lo más firme es sentir menos esfuerzo; el efecto en el rendimiento depende de la prueba. Truco: antes de entrenar, la música que tú eliges subió más el ánimo que una impuesta (Delleli et al., 2023).\n\n¿Qué canción te hace rendir más? Déjala en los comentarios 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Terry, Karageorghis, Curran, Martin y Parsons-Smith (2020), Psychological Bulletin – Efectos de la música en el ejercicio y el deporte: metaanálisis de 139 estudios (3.599 personas) – doi:10.1037/bul0000216",
+    "Yang et al. (2026), Frontiers in Sports and Active Living – Música durante el ejercicio aeróbico en adultos activos: metaanálisis de 15 estudios; el efecto más consistente es menor esfuerzo percibido – doi:10.3389/fspor.2026.1860752",
+    "Delleli et al. (2023), Frontiers in Psychology – Música antes del ejercicio: metaanálisis de 30 estudios; la música elegida por uno mismo mejoró más el ánimo – doi:10.3389/fpsyg.2023.1293783"
+   ],
+   "hashtags": "#musica #rendimiento #motivacion #entrenamiento #gym #cienciadelentrenamiento",
+   "created": "2026-11-21T02:25:25-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿TU *MÚSICA* TE HACE|*RENDIR* MÁS?|139 ESTUDIOS",
+   "cover_png": "portadas/v039_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Tu música te hace rendir más al entrenar? Ciento treinta y nueve estudios lo midieron.",
+   "show": "¿Tu música te hace rendir más al entrenar? 139 estudios lo midieron.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis juntó a casi tres mil seiscientas personas. Esto es lo que encontró.",
+   "show": "Un metaanálisis juntó a casi 3.600 personas. Esto es lo que encontró.",
+   "gap": 0.36
+  },
+  {
+   "shot": "one",
+   "say": "Uno: el esfuerzo se siente menor. El mismo ejercicio parece más liviano.",
+   "show": "Uno: el esfuerzo se siente menor. El mismo ejercicio parece más liviano.",
+   "gap": 0.36
+  },
+  {
+   "shot": "two",
+   "say": "Dos: rindes un poco más. Es un efecto pequeño, pero real, sobre todo con música rápida.",
+   "show": "Dos: rindes un poco más. Es un efecto pequeño, pero real, sobre todo con música rápida.",
+   "gap": 0.36
+  },
+  {
+   "shot": "three",
+   "say": "Tres: mejora tu ánimo mientras entrenas. Fue el efecto más grande de todos.",
+   "show": "Tres: mejora tu ánimo mientras entrenas. Fue el efecto más grande de todos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Qué canción te hace rendir más? Déjala en los comentarios.",
+   "show": "¿Qué canción te hace rendir más? Déjala en los comentarios.",
+   "gap": 0.36
+  },
+  {
+   "shot": "nuance",
+   "say": "Ojo: el pulso no cambió. Y un análisis de dos mil veintiséis dice que lo más firme es sentir menos esfuerzo.",
+   "show": "Ojo: el pulso no cambió. Y un análisis de 2026 dice que lo más firme es sentir menos esfuerzo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "tip",
+   "say": "Un truco: antes de entrenar, la música que tú eliges subió más el ánimo que una impuesta.",
+   "show": "Un truco: antes de entrenar, la música que tú eliges subió más el ánimo que una impuesta.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
