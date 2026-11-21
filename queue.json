@@ -1467,6 +1467,39 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v037",
+   "file": "videos/v037_Entrenar_un_solo_brazo_LAB.mp4",
+   "title": "Entrenas solo un brazo… ¿y el otro también se hace más fuerte? La ciencia lo midió #shorts",
+   "caption": "Si entrenas solo un brazo, ¿el otro también se hace más fuerte? 💪🧠 Sí: se llama educación cruzada. Un metaanálisis de 31 ensayos con 785 personas (Manca et al., 2017) encontró que el lado que NO se entrenó ganó en promedio un 11,9 % de fuerza (9,4 % en brazos y 16,4 % en piernas). No es que crezca el músculo de ese lado: una revisión de 2026 no vio cambios en su grosor. Es tu sistema nervioso el que aprende el movimiento, y parte de ese aprendizaje pasa al otro lado. Su gran uso: si tienes un brazo inmovilizado, entrenar el sano ayuda a perder menos fuerza en el otro (metaanálisis de 2026 con investigadores chilenos, 8 estudios). Ojo: el efecto es moderado, los estudios son pocos y tienen riesgo de sesgo, y no reemplaza la rehabilitación: consúltalo con tu kinesiólogo.\n\n¿Cuál es tu lado más débil? Comenta DERECHO o IZQUIERDO 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Manca, Dragone, Dvir y Deriu (2017), European Journal of Applied Physiology – Educación cruzada de la fuerza tras entrenamiento unilateral: metaanálisis de 31 ensayos (785 personas); +11,9 % en el lado no entrenado (brazos +9,4 %, piernas +16,4 %) – doi:10.1007/s00421-017-3720-z",
+    "Rodríguez-Coloma et al. (2026), Journal of Applied Physiology – Educación cruzada para frenar la pérdida neuromuscular por inmovilización del brazo: metaanálisis (8 estudios, 189 personas; Universidad de La Frontera, Chile) – doi:10.1152/japplphysiol.00081.2026",
+    "Hernando-Garijo et al. (2026), Physiotherapy Theory and Practice – Educación cruzada en el tren superior: 31 ensayos, 1.214 personas; mejora pequeña de fuerza sin cambios en el grosor muscular (mecanismo neural) – doi:10.1080/09593985.2026.2689440",
+    "Altheyab et al. (2024), Experimental Physiology – Educación cruzada de la fuerza en las piernas en hombres y mujeres: metaanálisis de 29 estudios – doi:10.1113/EP091881",
+    "Cuyul-Vásquez et al. (2022), Journal of Sport Rehabilitation – Entrenar la pierna sana tras reconstrucción de ligamento cruzado anterior: metaanálisis – doi:10.1123/jsr.2021-0204"
+   ],
+   "hashtags": "#fuerza #sistemanervioso #rehabilitacion #kinesiologia #entrenamiento #cienciadelentrenamiento",
+   "created": "2026-11-21T02:23:05-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "SI ENTRENAS *UN* BRAZO,|¿EL *OTRO* SE HACE|MÁS FUERTE?",
+   "cover_png": "portadas/v037_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

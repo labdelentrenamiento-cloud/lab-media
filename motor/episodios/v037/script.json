@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "Si entrenas solo tu brazo derecho, ¿el izquierdo también se hace más fuerte?",
+   "show": "Si entrenas solo tu brazo derecho, ¿el izquierdo también se hace más fuerte?",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Suena imposible, pero un metaanálisis de treinta y un ensayos lo midió.",
+   "show": "Suena imposible, pero un metaanálisis de 31 ensayos lo midió.",
+   "gap": 0.36
+  },
+  {
+   "shot": "win",
+   "say": "El lado que no entrenaste ganó, en promedio, casi un doce por ciento de fuerza.",
+   "show": "El lado que no entrenaste ganó, en promedio, casi un 12 % de fuerza.",
+   "gap": 0.36
+  },
+  {
+   "shot": "why",
+   "say": "No es que crezca el músculo: tu sistema nervioso aprende el movimiento, y parte de eso pasa al otro lado.",
+   "show": "No es que crezca el músculo: tu sistema nervioso aprende el movimiento, y parte de eso pasa al otro lado.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Cuál es tu lado más débil? Comenta derecho o izquierdo.",
+   "show": "¿Cuál es tu lado más débil? Comenta derecho o izquierdo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cast",
+   "say": "Su gran uso: si tienes un brazo inmovilizado, entrenar el sano ayuda a perder menos fuerza en el otro.",
+   "show": "Su gran uso: si tienes un brazo inmovilizado, entrenar el sano ayuda a perder menos fuerza en el otro.",
+   "gap": 0.36
+  },
+  {
+   "shot": "chile",
+   "say": "Un metaanálisis de dos mil veintiséis, con investigadores chilenos, lo confirmó, aunque con pocos estudios.",
+   "show": "Un metaanálisis de 2026, con investigadores chilenos, lo confirmó, aunque con pocos estudios.",
+   "gap": 0.36
+  },
+  {
+   "shot": "nuance",
+   "say": "Ojo: el efecto es moderado y no reemplaza la rehabilitación. Consúltalo con tu kinesiólogo.",
+   "show": "Ojo: el efecto es moderado y no reemplaza la rehabilitación. Consúltalo con tu kinesiólogo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
