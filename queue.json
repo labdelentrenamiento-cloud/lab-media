@@ -1399,7 +1399,13 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "6c83c2ca-6150-4a6b-b2fa-2197a1c41f5c",
+    "publicationId": "85b5f7c4-293f-44b2-bcc5-464b2d40723f",
+    "uploadId": "14d6232a-1583-4412-bb36-049875dfee9d",
+    "publishAt": "2026-11-22T14:00:00-03:00",
+    "ai_label": true
    },
    "synced_to_pc": false,
    "file_ready": true,
