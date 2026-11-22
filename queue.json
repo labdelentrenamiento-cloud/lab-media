@@ -1440,13 +1440,14 @@
    "created": "2026-11-18T02:23:54-03:00",
    "slot": "2026-11-22T16:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "efecc428-500d-4406-8585-77f12befdabd",
     "publicationId": "1b3706ec-79ad-4288-94b4-984574840b68",
     "uploadId": "5b7def16-c23d-4796-a74a-64f42aa32ef4",
     "url": "https://www.youtube.com/watch?v=LpCRx0_q4WI",
-    "publishAt": "2026-11-22T16:00:00-03:00"
+    "publishAt": "2026-11-22T16:00:00-03:00",
+    "published_at": "2026-11-22T16:00:00-03:00"
    },
    "instagram": {
     "status": "published",
@@ -1459,13 +1460,15 @@
     "ai_label": true
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "efecc428-500d-4406-8585-77f12befdabd",
     "publicationId": "c39be16c-3053-4666-b348-b350fecca04e",
     "uploadId": "5b7def16-c23d-4796-a74a-64f42aa32ef4",
     "publishAt": "2026-11-22T18:00:00-03:00",
-    "ai_label": true
+    "ai_label": true,
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7711103543528262930",
+    "published_at": "2026-11-22T18:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
