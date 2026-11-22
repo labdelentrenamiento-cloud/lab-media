@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Cardio antes o después de las pesas? La ciencia comparó los dos órdenes.",
+   "show": "¿Cardio antes o después de las pesas? La ciencia comparó los dos órdenes.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Diez estudios repitieron el mismo entrenamiento por al menos cinco semanas. Solo cambiaron el orden.",
+   "show": "10 estudios repitieron el mismo entrenamiento por al menos 5 semanas. Solo cambiaron el orden.",
+   "gap": 0.36
+  },
+  {
+   "shot": "strength",
+   "say": "Con las pesas primero, la fuerza de piernas subió casi siete por ciento más.",
+   "show": "Con las pesas primero, la fuerza de piernas subió casi 7 % más.",
+   "gap": 0.36
+  },
+  {
+   "shot": "same",
+   "say": "¿Y el músculo? Creció igual con los dos órdenes. Y tu capacidad aeróbica, también.",
+   "show": "¿Y el músculo? Creció igual con los dos órdenes. Y tu capacidad aeróbica, también.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú qué haces primero? Comenta cardio o pesas.",
+   "show": "¿Tú qué haces primero? Comenta cardio o pesas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "kg",
+   "say": "Otro metaanálisis vio lo mismo: pesas primero, unos cuatro kilos más en el máximo de piernas.",
+   "show": "Otro metaanálisis vio lo mismo: pesas primero, unos 4 kilos más en el máximo de piernas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "health",
+   "say": "Y para la salud, en personas con diabetes tipo dos, los dos órdenes funcionaron. Ninguno ganó claramente.",
+   "show": "Y para la salud, en personas con diabetes tipo 2, los dos órdenes funcionaron. Ninguno ganó claramente.",
+   "gap": 0.36
+  },
+  {
+   "shot": "rule",
+   "say": "Regla simple: si buscas fuerza, pesas primero. Si buscas salud, el orden que te haga volver.",
+   "show": "Regla simple: si buscas fuerza, pesas primero. Si buscas salud, el orden que te haga volver.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

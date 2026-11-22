@@ -1690,6 +1690,38 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v041",
+   "file": "videos/v041_Cardio_antes_o_despues_LAB.mp4",
+   "title": "¿Cardio antes o después de las pesas? La ciencia comparó los dos órdenes #shorts",
+   "caption": "¿Cardio antes o después de las pesas? 🏃‍♀️🏋️ Un metaanálisis de 10 estudios (Eddens et al., Sports Medicine 2018) repitió el mismo entrenamiento por al menos 5 semanas cambiando solo el orden: con las pesas primero, la fuerza de piernas subió casi 7 % más; el músculo, la capacidad aeróbica y la grasa corporal no cambiaron según el orden. Otro metaanálisis (Murlasits et al., 2018) vio lo mismo: pesas primero, unos 4 kg más en el máximo de piernas, sin diferencia en el VO2máx. Y para la salud, en personas con diabetes tipo 2, los dos órdenes funcionaron y ninguno ganó claramente (Li et al., 2026). Regla simple: si buscas fuerza, pesas primero; si buscas salud, el orden que te haga volver.\n\n¿Tú qué haces primero? Comenta cardio o pesas 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Eddens, van Someren y Howatson (2018), Sports Medicine – Orden dentro de la sesión en el entrenamiento concurrente: metaanálisis de 10 estudios; pesas primero +6,9 % en fuerza dinámica de piernas, sin efecto en hipertrofia, VO2máx ni grasa – doi:10.1007/s40279-017-0784-1",
+    "Murlasits, Kneffel y Thalib (2018), Journal of Sports Sciences – Secuencia fuerza-resistencia: metaanálisis; 1RM de piernas +3,96 kg con fuerza primero, sin diferencia en capacidad aeróbica – doi:10.1080/02640414.2017.1364405",
+    "Li, Liu y Liu (2026), Endocrine – Orden del entrenamiento concurrente en diabetes tipo 2: metaanálisis en red de 27 ensayos (965 personas); ambos órdenes mejoran los factores de riesgo, sin superioridad clara – doi:10.1007/s12020-026-04775-5",
+    "Schumann et al. (2022), Sports Medicine – Compatibilidad del entrenamiento aeróbico y de fuerza (43 estudios): no compromete la hipertrofia ni la fuerza máxima – doi:10.1007/s40279-021-01587-7"
+   ],
+   "hashtags": "#cardio #pesas #entrenamientoconcurrente #fuerza #gym #cienciadelentrenamiento",
+   "created": "2026-11-22T02:28:02-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿*CARDIO* ANTES|O DESPUÉS DE|LAS *PESAS*?",
+   "cover_png": "portadas/v041_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
