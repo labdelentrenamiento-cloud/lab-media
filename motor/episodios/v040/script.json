@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Hacer abdominales quema la grasa del abdomen? Un experimento lo midió.",
+   "show": "¿Hacer abdominales quema la grasa del abdomen? Un experimento lo midió.",
+   "gap": 0.36
+  },
+  {
+   "shot": "study",
+   "say": "Un grupo hizo abdominales cinco días por semana, durante seis semanas. Otro grupo no hizo nada.",
+   "show": "Un grupo hizo abdominales 5 días por semana, durante 6 semanas. Otro grupo no hizo nada.",
+   "gap": 0.36
+  },
+  {
+   "shot": "result",
+   "say": "¿La grasa del abdomen? No cambió. Lo que sí mejoró fue la resistencia de sus abdominales.",
+   "show": "¿La grasa del abdomen? No cambió. Lo que sí mejoró fue la resistencia de sus abdominales.",
+   "gap": 0.36
+  },
+  {
+   "shot": "chile",
+   "say": "En Chile entrenaron una sola pierna: bajó la grasa en brazos y tronco, pero no en esa pierna.",
+   "show": "En Chile entrenaron una sola pierna: bajó la grasa en brazos y tronco, pero no en esa pierna.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú haces abdominales para marcar el abdomen? Comenta sí o no.",
+   "show": "¿Tú haces abdominales para marcar el abdomen? Comenta sí o no.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis de trece estudios lo confirmó: entrenar una zona no quema la grasa de esa zona.",
+   "show": "Un metaanálisis de 13 estudios lo confirmó: entrenar una zona no quema la grasa de esa zona.",
+   "gap": 0.36
+  },
+  {
+   "shot": "works",
+   "say": "Lo que sí funciona es mover todo el cuerpo: cardio, intervalos o pesas bajan la grasa, también la del abdomen.",
+   "show": "Lo que sí funciona es mover todo el cuerpo: cardio, intervalos o pesas bajan la grasa, también la del abdomen.",
+   "gap": 0.36
+  },
+  {
+   "shot": "tip",
+   "say": "Igual haz abdominales: fortalecen tu tronco. Solo no esperes que borren la grasa.",
+   "show": "Igual haz abdominales: fortalecen tu tronco. Solo no esperes que borren la grasa.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

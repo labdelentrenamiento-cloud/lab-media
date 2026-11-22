@@ -1628,6 +1628,38 @@
    "centered_4x5": true,
    "share_cta": true,
    "evidenceNote": "2026-11-21: revisado. A favor: metaanálisis multinivel de 59 estudios (Appl Psychol Health Well Being 2025, doi:10.1111/aphw.70092): la música mejora el ánimo durante el ejercicio (g≈0,40). Matiz: Danso et al. (Front Psychol 2026, 10 estudios, doi:10.3389/fpsyg.2025.1714707) no halló efectos consistentes, sobre todo a alta intensidad; el guion ya dice que lo más firme es sentir menos esfuerzo. Sin cambios."
+  },
+  {
+   "id": "v040",
+   "file": "videos/v040_Abdominales_y_grasa_LAB.mp4",
+   "title": "¿Hacer abdominales quema la grasa del abdomen? Mito vs. realidad #shorts",
+   "caption": "¿Mil abdominales para bajar la grasa del abdomen? 🤔 En un ensayo (Vispute et al., 2011), un grupo hizo abdominales 5 días por semana durante 6 semanas: la grasa del abdomen no cambió, pero sí mejoró la resistencia abdominal. En Chile, entrenar una sola pierna por 12 semanas bajó la grasa… en brazos y tronco, no en esa pierna (Ramírez-Campillo et al., 2013). Un metaanálisis de 13 estudios y 1.158 personas lo confirmó: entrenar una zona no quema la grasa de esa zona. Lo que sí funciona: mover todo el cuerpo (cardio, intervalos o pesas), que baja la grasa en general, también la del abdomen. Igual haz abdominales: fortalecen tu tronco.\n\n¿Tú haces abdominales para marcar el abdomen? Comenta sí o no 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Vispute, Smith, LeCheminant y Hurley (2011), Journal of Strength and Conditioning Research – Efecto del ejercicio abdominal sobre la grasa abdominal: ensayo aleatorizado, 6 semanas; sin cambios en grasa abdominal, mejor resistencia – doi:10.1519/JSC.0b013e3181fb4a46",
+    "Ramírez-Campillo et al. (2013), Journal of Strength and Conditioning Research – Entrenamiento localizado de una pierna (12 semanas): la grasa bajó en brazos y tronco, no en la pierna entrenada – doi:10.1519/JSC.0b013e31827e8681",
+    "Human Movement (2022) – Revisión sistemática con metaanálisis sobre la reducción localizada de grasa: 13 estudios, 1.158 personas, sin efecto (g = −0,03) – doi:10.5114/hm.2022.110373",
+    "Chen et al. (2024), Obesity Reviews – Metaanálisis en red de 84 ensayos: ejercicio aeróbico, de fuerza, combinado e intervalos reducen la grasa visceral y la cintura – doi:10.1111/obr.13666"
+   ],
+   "hashtags": "#abdominales #grasaabdominal #mitosdelfitness #entrenamiento #gym #cienciadelentrenamiento",
+   "created": "2026-11-22T02:22:53-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿*ABDOMINALES*|PARA QUEMAR|LA *GRASA*?",
+   "cover_png": "portadas/v040_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
