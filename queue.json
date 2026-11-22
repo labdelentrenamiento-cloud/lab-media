@@ -1449,7 +1449,14 @@
     "publishAt": "2026-11-22T16:00:00-03:00"
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "via": "vidIQ",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DgDnMUdCenc/",
+    "mediaId": "18139352791660739",
+    "containerId": "18043984994688469",
+    "uploadId": "922d0b4a-f85b-4eb7-9843-125dc27bb2d4",
+    "published_at": "2026-11-22T17:00:20-03:00",
+    "ai_label": true
    },
    "tiktok": {
     "status": "scheduled",
