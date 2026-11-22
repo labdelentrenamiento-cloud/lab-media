@@ -1333,12 +1333,14 @@
    "created": "2026-11-17T02:28:20-03:00",
    "slot": "2026-11-21T20:00:00-03:00",
    "youtube": {
-    "status": "pending",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "22df61a9-d7f5-42ad-9c3c-e32a834544c9",
     "publicationId": "c5bfb30f-67fc-4056-9bfc-45579c41567d",
     "uploadId": "068d84d0-ab87-4f4a-85be-f5709f9eb346",
-    "note": "2026-11-21 19:55: límite diario de vidIQ (3 subidas a YouTube) alcanzado; se reinicia 2026-11-22 05:00 Santiago. Borrador creado, NO publicado: el próximo run debe publicar ESTE borrador (actualizar/quitar publishAt), no crear otro."
+    "note": "Publicado con atraso el 2026-11-22 (límite diario de vidIQ del 21-nov), mismo borrador, sin publishAt.",
+    "url": "https://www.youtube.com/watch?v=BwihrzMY6-U",
+    "published_at": "2026-11-22T11:57:00-03:00"
    },
    "instagram": {
     "status": "published",
@@ -1351,13 +1353,15 @@
     "ai_label": true
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "9605a633-0d0c-4234-a086-dc581a6f2ef3",
     "publicationId": "711b3554-804e-4c98-a84b-75b96453638a",
     "uploadId": "068d84d0-ab87-4f4a-85be-f5709f9eb346",
     "publishAt": "2026-11-21T22:00:00-03:00",
-    "ai_label": true
+    "ai_label": true,
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7710794528579489044",
+    "published_at": "2026-11-21T22:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
