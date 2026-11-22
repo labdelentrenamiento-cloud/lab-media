@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Cuántas series por semana necesita un músculo para crecer? Sesenta y siete estudios lo calcularon.",
+   "show": "¿Cuántas series por semana necesita un músculo para crecer? 67 estudios lo calcularon.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un análisis de dos mil veintiséis juntó a más de dos mil personas para buscar la dosis.",
+   "show": "Un análisis de 2026 juntó a más de 2.000 personas para buscar la dosis.",
+   "gap": 0.36
+  },
+  {
+   "shot": "more",
+   "say": "Primero: más series, más músculo. La curva sigue subiendo.",
+   "show": "Primero: más series, más músculo. La curva sigue subiendo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "dimin",
+   "say": "Pero cada serie extra suma un poco menos que la anterior.",
+   "show": "Pero cada serie extra suma un poco menos que la anterior.",
+   "gap": 0.36
+  },
+  {
+   "shot": "strength",
+   "say": "Y para la fuerza, ese freno llega antes: sumar series ayuda cada vez menos.",
+   "show": "Y para la fuerza, ese freno llega antes: sumar series ayuda cada vez menos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Cuántas series por semana le haces a tus piernas? Comenta tu número.",
+   "show": "¿Cuántas series por semana le haces a tus piernas? Comenta tu número.",
+   "gap": 0.36
+  },
+  {
+   "shot": "indirect",
+   "say": "Un detalle clave: las series indirectas cuentan a medias. El press de banca también suma para tus tríceps.",
+   "show": "Un detalle clave: las series indirectas cuentan a medias. El press de banca también suma para tus tríceps.",
+   "gap": 0.36
+  },
+  {
+   "shot": "old",
+   "say": "Ya en dos mil diecisiete, otro metaanálisis lo había visto: más series semanales, más crecimiento.",
+   "show": "Ya en 2017, otro metaanálisis lo había visto: más series semanales, más crecimiento.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

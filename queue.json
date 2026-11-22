@@ -1660,6 +1660,36 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v042",
+   "file": "videos/v042_Series_por_semana_LAB.mp4",
+   "title": "¿Cuántas series por semana necesita un músculo para crecer? 67 estudios #shorts",
+   "caption": "¿Cuántas series por semana necesita un músculo para crecer? 💪 Un metaanálisis de 2026 (Pelland et al., Sports Medicine) juntó 67 estudios y 2.058 personas: 1) más series semanales, más músculo: la curva sigue subiendo; 2) pero cada serie extra suma un poco menos que la anterior (rendimientos decrecientes); 3) para la fuerza ese freno llega antes. Detalle clave: las series indirectas cuentan a medias (el press de banca también suma para tus tríceps). Ya en 2017 otro metaanálisis (Schoenfeld et al.) había visto lo mismo: más series semanales, más crecimiento.\n\n¿Cuántas series por semana le haces a tus piernas? Comenta tu número 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Pelland, Remmert, Robinson, Hinson y Zourdos (2026), Sports Medicine – Dosis-respuesta del entrenamiento de fuerza: metarregresiones de volumen y frecuencia semanal sobre hipertrofia y fuerza (67 estudios, 2.058 personas); series indirectas = 0,5 – doi:10.1007/s40279-025-02344-w",
+    "Schoenfeld, Ogborn y Krieger (2017), Journal of Sports Sciences – Relación dosis-respuesta entre series semanales y aumento de masa muscular: metaanálisis de 15 estudios – doi:10.1080/02640414.2016.1210197"
+   ],
+   "hashtags": "#hipertrofia #series #musculo #entrenamiento #gym #cienciadelentrenamiento",
+   "created": "2026-11-22T02:25:54-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿CUÁNTAS *SERIES*|NECESITA TU|*MÚSCULO*?",
+   "cover_png": "portadas/v042_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
