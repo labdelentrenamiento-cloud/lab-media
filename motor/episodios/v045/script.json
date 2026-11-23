@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "Si corres por tu batido de proteína apenas terminas de entrenar, esto te interesa.",
+   "show": "Si corres por tu batido de proteína apenas terminas de entrenar, esto te interesa.",
+   "gap": 0.36
+  },
+  {
+   "shot": "myth",
+   "say": "La idea popular: hay una ventana de treinta minutos y, si la pierdes, pierdes músculo.",
+   "show": "La idea popular: hay una ventana de 30 minutos y, si la pierdes, pierdes músculo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis de veintitrés estudios lo puso a prueba.",
+   "show": "Un metaanálisis de 23 estudios lo puso a prueba.",
+   "gap": 0.36
+  },
+  {
+   "shot": "total",
+   "say": "Al igualar la proteína total del día, el horario dejó de importar.",
+   "show": "Al igualar la proteína total del día, el horario dejó de importar.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Cuánto esperas tú para comer después de entrenar? Comenta: minutos u horas.",
+   "show": "¿Cuánto esperas tú para comer después de entrenar? Comenta: minutos u horas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "prepost",
+   "say": "En otro ensayo, tomarla justo antes o justo después dio el mismo resultado.",
+   "show": "En otro ensayo, tomarla justo antes o justo después dio el mismo resultado.",
+   "gap": 0.36
+  },
+  {
+   "shot": "window",
+   "say": "El efecto del entrenamiento en tu músculo dura al menos un día, aunque baja con las horas.",
+   "show": "El efecto del entrenamiento en tu músculo dura al menos un día, aunque baja con las horas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "daily",
+   "say": "Lo que más pesa es la proteína total del día, repartida en varias comidas.",
+   "show": "Lo que más pesa es la proteína total del día, repartida en varias comidas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

@@ -1851,6 +1851,37 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v045",
+   "file": "videos/v045_Ventana_anabolica_LAB.mp4",
+   "title": "¿Tienes solo 30 minutos para tomar tu proteína después de entrenar? #shorts",
+   "caption": "¿Corres por tu batido apenas terminas de entrenar? 🥤 La idea popular dice que hay una ventana de 30 minutos. Un metaanálisis de 23 estudios (Schoenfeld, Aragon y Krieger, 2013) lo puso a prueba: al igualar la proteína total del día, el horario dejó de importar. En otro ensayo de 10 semanas, tomarla justo antes o justo después del entrenamiento dio el mismo resultado (Schoenfeld et al., 2017). Según la Sociedad Internacional de Nutrición Deportiva, el efecto del entrenamiento en el músculo dura al menos un día, aunque baja con las horas. Lo que más pesa es la proteína total del día, repartida en varias comidas.\n\n¿Cuánto esperas tú para comer después de entrenar? Comenta: minutos u horas 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Schoenfeld, Aragon y Krieger (2013), Journal of the International Society of Sports Nutrition – Efecto del horario de la proteína sobre fuerza e hipertrofia: metaanálisis (23 estudios en hipertrofia) – doi:10.1186/1550-2783-10-53",
+    "Schoenfeld, Aragon, Wilborn, Urbina, Hayward y Krieger (2017), PeerJ – Proteína antes vs. después del entrenamiento: efectos similares en adaptaciones musculares (10 semanas) – doi:10.7717/peerj.2825",
+    "Jäger et al. (2017), Journal of the International Society of Sports Nutrition – Posición de la ISSN: proteína y ejercicio (efecto anabólico de al menos 24 h; dosis repartidas cada 3–4 h) – doi:10.1186/s12970-017-0177-8"
+   ],
+   "hashtags": "#proteina #ventanaanabolica #hipertrofia #nutriciondeportiva #gym #cienciadelentrenamiento",
+   "created": "2026-11-23T02:26:27-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿TIENES *30 MIN*|PARA TOMAR TU|*PROTEÍNA*?",
+   "cover_png": "portadas/v045_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
