@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Las pesas te dejan rígido? Cincuenta y cinco estudios lo midieron.",
+   "show": "¿Las pesas te dejan rígido? 55 estudios lo midieron.",
+   "gap": 0.36
+  },
+  {
+   "shot": "fear",
+   "say": "El miedo es común: más músculo, menos movimiento en tus articulaciones.",
+   "show": "El miedo es común: más músculo, menos movimiento en tus articulaciones.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "Antes de seguir: ¿qué crees que gana, pesas o estirar? Comenta tu apuesta.",
+   "show": "Antes de seguir: ¿qué crees que gana, pesas o estirar? Comenta tu apuesta.",
+   "gap": 0.36
+  },
+  {
+   "shot": "result",
+   "say": "Resultado: entrenar fuerza aumentó el rango de movimiento.",
+   "show": "Resultado: entrenar fuerza aumentó el rango de movimiento.",
+   "gap": 0.36
+  },
+  {
+   "shot": "tie",
+   "say": "Y comparado con estirar, no hubo diferencia. Mejoró lo mismo.",
+   "show": "Y comparado con estirar, no hubo diferencia. Mejoró lo mismo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "untrained",
+   "say": "Quienes partían sin entrenar fueron los que más ganaron.",
+   "show": "Quienes partían sin entrenar fueron los que más ganaron.",
+   "gap": 0.36
+  },
+  {
+   "shot": "load",
+   "say": "Un detalle: con solo el peso del cuerpo, el cambio no fue significativo. Con carga externa, sí.",
+   "show": "Un detalle: con solo el peso del cuerpo, el cambio no fue significativo. Con carga externa, sí.",
+   "gap": 0.36
+  },
+  {
+   "shot": "take",
+   "say": "Así que, si no te gusta estirar, entrenar fuerza también puede mejorar tu movilidad.",
+   "show": "Así que, si no te gusta estirar, entrenar fuerza también puede mejorar tu movilidad.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

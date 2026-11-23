@@ -1801,7 +1801,7 @@
     "Schoenfeld, Aragon, Wilborn, Krieger y Sonmez (2014), Journal of the International Society of Sports Nutrition – Cambios en composición corporal con cardio en ayunas vs. sin ayuno (4 semanas, dieta hipocalórica) – doi:10.1186/s12970-014-0054-7",
     "Hackett y Hagstrom (2017), Journal of Functional Morphology and Kinesiology – Ejercicio en ayunas nocturno y pérdida de peso/composición corporal: revisión sistemática y metaanálisis – doi:10.3390/jfmk2040043"
    ],
-   "hashtags": "#cardioenayunas #perderGrasa #metabolismo #entrenamiento #fitness #cienciadelentrenamiento",
+   "hashtags": "#cardioenayunas #perdergrasa #metabolismo #entrenamiento #fitness #cienciadelentrenamiento",
    "created": "2026-11-23T02:23:55-03:00",
    "slot": null,
    "youtube": {
@@ -1817,6 +1817,36 @@
    "file_ready": true,
    "cover": "¿CARDIO EN|*AYUNAS* PARA|QUEMAR MÁS *GRASA*?",
    "cover_png": "portadas/v043_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
+  },
+  {
+   "id": "v044",
+   "file": "videos/v044_Pesas_y_flexibilidad_LAB.mp4",
+   "title": "¿Las pesas te dejan rígido? 55 estudios lo midieron #shorts",
+   "caption": "¿Hacer pesas te quita flexibilidad? 🤸 Un metaanálisis de 55 estudios (Alizadeh et al., Sports Medicine 2023) midió el rango de movimiento: entrenar fuerza lo aumentó, y comparado con estirar no hubo diferencia (lo mismo vio otro metaanálisis de 11 ensayos, Afonso et al. 2021). Quienes partían sin entrenar fueron los que más ganaron. Detalle: con solo el peso del cuerpo la mejora no fue significativa; con carga externa, sí. Si no te gusta estirar, entrenar fuerza también puede mejorar tu movilidad.\n\n¿Qué crees que gana: pesas o estirar? Comenta tu apuesta 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Alizadeh, Daneshjoo, Zahiri, Anvar, Goudini, Hicks, Konrad y Behm (2023), Sports Medicine – El entrenamiento de fuerza mejora el rango de movimiento: revisión sistemática y metaanálisis de 55 estudios (sin diferencia frente a estirar) – doi:10.1007/s40279-022-01804-x",
+    "Afonso, Ramirez-Campillo, Moscão y cols. (2021), Healthcare – Entrenamiento de fuerza vs. estiramiento para mejorar el rango de movimiento: metaanálisis de 11 ensayos – doi:10.3390/healthcare9040427"
+   ],
+   "hashtags": "#flexibilidad #movilidad #pesas #entrenamientodefuerza #gym #cienciadelentrenamiento",
+   "created": "2026-11-23T02:25:02-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿LAS *PESAS*|TE DEJAN|*RÍGIDO*?",
+   "cover_png": "portadas/v044_portada.png",
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
