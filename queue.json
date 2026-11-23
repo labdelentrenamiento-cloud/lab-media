@@ -1501,7 +1501,14 @@
     "note": "2026-11-22 20:00: límite diario de vidIQ (3 subidas a YouTube por día, se reinicia 05:00 Chile). Borrador listo: publicar ESTE MISMO borrador/publicationId (vidiq_social_post_publish con publicationIds) sin crear otro."
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "via": "vidIQ",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DgECu47KfE0/",
+    "mediaId": "18224923627346607",
+    "containerId": "18044017322688469",
+    "uploadId": "640cfa07-740c-4aaa-9b45-2b3a41c67fbc",
+    "published_at": "2026-11-22T21:01:00-03:00",
+    "ai_label": true
    },
    "tiktok": {
     "status": "scheduled",
