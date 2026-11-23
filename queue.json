@@ -1613,7 +1613,15 @@
     "url": "https://www.youtube.com/watch?v=tLfnjuWL2Hg"
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "via": "vidIQ",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DgGMBakN6_q/",
+    "mediaId": "18114386474156378",
+    "containerId": "18044222597688469",
+    "uploadId": "22417700-bb04-465c-acde-03451adee52d",
+    "published_at": "2026-11-23T17:00:38-03:00",
+    "ai_label": true,
+    "note": "Caption de IG acortado a 2146 caracteres (límite 2200): se resumieron las descripciones de las fuentes Edwards y Cohen; se mantienen las 5 fuentes con DOI."
    },
    "tiktok": {
     "status": "scheduled",
