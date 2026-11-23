@@ -1493,12 +1493,14 @@
    "created": "2026-11-18T02:26:26-03:00",
    "slot": "2026-11-22T20:00:00-03:00",
    "youtube": {
-    "status": "pending",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "6efffb14-0485-4097-9cc5-1c6e23e5d25a",
     "publicationId": "ae40929f-fde0-4d6b-98df-b4bab99f1f88",
     "uploadId": "9c9f8975-1350-4d7d-a187-d6f141f5ef6f",
-    "note": "2026-11-22 20:00: límite diario de vidIQ (3 subidas a YouTube por día, se reinicia 05:00 Chile). Borrador listo: publicar ESTE MISMO borrador/publicationId (vidiq_social_post_publish con publicationIds) sin crear otro."
+    "note": "Publicado con atraso el 2026-11-23 (límite diario de vidIQ el 22-nov).",
+    "url": "https://www.youtube.com/watch?v=WSgMr5s0yrA",
+    "published_at": "2026-11-23T11:56:00-03:00"
    },
    "instagram": {
     "status": "published",
