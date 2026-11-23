@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Haces cardio en ayunas para quemar más grasa? Mira esto antes de tu próxima sesión.",
+   "show": "¿Haces cardio en ayunas para quemar más grasa? Mira esto antes de tu próxima sesión.",
+   "gap": 0.36
+  },
+  {
+   "shot": "burn",
+   "say": "Es cierto: en ayunas, tu cuerpo usa más grasa como combustible mientras entrenas.",
+   "show": "Es cierto: en ayunas, tu cuerpo usa más grasa como combustible mientras entrenas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "grams",
+   "say": "Un metaanálisis lo midió: unos tres gramos más de grasa por sesión.",
+   "show": "Un metaanálisis lo midió: unos 3 gramos más de grasa por sesión.",
+   "gap": 0.36
+  },
+  {
+   "shot": "weeks",
+   "say": "Pero lo que importa es la grasa que pierdes en semanas, no en una sola sesión.",
+   "show": "Pero lo que importa es la grasa que pierdes en semanas, no en una sola sesión.",
+   "gap": 0.36
+  },
+  {
+   "shot": "same",
+   "say": "Y cuando lo compararon durante semanas, con la misma dieta, ambos grupos perdieron la misma grasa.",
+   "show": "Y cuando lo compararon durante semanas, con la misma dieta, ambos grupos perdieron la misma grasa.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Y tú? ¿Entrenas en ayunas o comes antes? Comenta: ayunas o comida.",
+   "show": "¿Y tú? ¿Entrenas en ayunas o comes antes? Comenta: ayunas o comida.",
+   "gap": 0.36
+  },
+  {
+   "shot": "key",
+   "say": "En esos estudios, la grasa bajó por el déficit de calorías y el ejercicio, no por el ayuno.",
+   "show": "En esos estudios, la grasa bajó por el déficit de calorías y el ejercicio, no por el ayuno.",
+   "gap": 0.36
+  },
+  {
+   "shot": "choose",
+   "say": "Así que elige lo que te haga rendir mejor. Si con el estómago vacío rindes peor, come algo antes.",
+   "show": "Así que elige lo que te haga rendir mejor. Si con el estómago vacío rindes peor, come algo antes.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

@@ -1790,6 +1790,37 @@
    "centered_4x5": true,
    "share_cta": true,
    "evidenceNote": "2026-11-22: revisado (PubMed): Pelland et al. confirmado en Sports Med 2026;56(2):481-505 (67 estudios, 2.058 personas, rendimientos decrecientes, series indirectas = 0,5). Sin evidencia nueva que lo contradiga. Sin cambios."
+  },
+  {
+   "id": "v043",
+   "file": "videos/v043_Cardio_en_ayunas_LAB.mp4",
+   "title": "¿Haces cardio en ayunas para quemar más grasa? Mira esto #shorts",
+   "caption": "¿Cardio en ayunas para quemar más grasa? 🌅 Es cierto que en ayunas tu cuerpo usa más grasa como combustible mientras entrenas: un metaanálisis de 27 estudios (Vieira et al., 2016) midió unos 3 g más de grasa por sesión. Pero cuando lo compararon durante semanas y con la misma dieta, ambos grupos perdieron la misma grasa (Schoenfeld et al., 2014; Hackett y Hagstrom, 2017). La grasa bajó por el déficit de calorías y el ejercicio, no por el ayuno. Elige lo que te haga rendir mejor: si con el estómago vacío rindes peor, come algo antes.\n\n¿Tú entrenas en ayunas o comes antes? Comenta: ayunas o comida 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Vieira, Costa, Macedo, Coconcelli y Kruel (2016), British Journal of Nutrition – Ejercicio aeróbico en ayunas vs. con comida: oxidación de grasa durante el ejercicio, metaanálisis de 27 estudios – doi:10.1017/S0007114516003160",
+    "Schoenfeld, Aragon, Wilborn, Krieger y Sonmez (2014), Journal of the International Society of Sports Nutrition – Cambios en composición corporal con cardio en ayunas vs. sin ayuno (4 semanas, dieta hipocalórica) – doi:10.1186/s12970-014-0054-7",
+    "Hackett y Hagstrom (2017), Journal of Functional Morphology and Kinesiology – Ejercicio en ayunas nocturno y pérdida de peso/composición corporal: revisión sistemática y metaanálisis – doi:10.3390/jfmk2040043"
+   ],
+   "hashtags": "#cardioenayunas #perderGrasa #metabolismo #entrenamiento #fitness #cienciadelentrenamiento",
+   "created": "2026-11-23T02:23:55-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿CARDIO EN|*AYUNAS* PARA|QUEMAR MÁS *GRASA*?",
+   "cover_png": "portadas/v043_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
