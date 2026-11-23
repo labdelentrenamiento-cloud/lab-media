@@ -1511,13 +1511,15 @@
     "ai_label": true
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "6efffb14-0485-4097-9cc5-1c6e23e5d25a",
     "publicationId": "bdddcb6f-4092-49ec-820e-c2f9c0b6eda4",
     "uploadId": "9c9f8975-1350-4d7d-a187-d6f141f5ef6f",
     "publishAt": "2026-11-22T22:00:00-03:00",
-    "ai_label": true
+    "ai_label": true,
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7711165575321406726",
+    "published_at": "2026-11-22T22:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
@@ -1542,7 +1544,7 @@
    ],
    "hashtags": "#sentadilla #gluteos #hipertrofia #piernas #entrenamientodefuerza #cienciadelentrenamiento",
    "created": "2026-11-18T02:27:53-03:00",
-   "slot": null,
+   "slot": "2026-11-23T12:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
