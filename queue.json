@@ -1783,7 +1783,13 @@
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "scheduled",
+    "publicationId": "cf93d5da-7301-4522-841e-947077f6279c",
+    "publishAt": "2026-11-24T18:00:00-03:00",
+    "ai_label": true,
+    "via": "vidIQ",
+    "vidiq_post": "5cd66b8a-60ad-4bf7-8c41-4214dea4f0e0",
+    "uploadId": "cd0454d0-a27d-47c4-9a19-6988964ba8b7"
    },
    "synced_to_pc": false,
    "file_ready": true,
