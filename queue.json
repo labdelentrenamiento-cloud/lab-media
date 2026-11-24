@@ -1953,6 +1953,37 @@
    "centered_4x5": true,
    "share_cta": true,
    "evidenceNote": "2026-11-23: revisado (PubMed): la posición ISSN 2026 (Aragon et al., doi:10.1080/15502783.2026.2740266) dice que la proteína total del día es lo principal y su reparto es secundario (≥3 comidas con proteína). Coincide con el guion: sin cambios."
+  },
+  {
+   "id": "v046",
+   "file": "videos/v046_Estirar_antes_de_pesas_LAB.mp4",
+   "title": "¿Estiras antes de levantar pesas? 83 estudios midieron tu fuerza #shorts",
+   "caption": "¿Mantienes cada estiramiento un minuto antes de tus series? 🧘 Dicen que estirar antes de las pesas te quita fuerza. Una revisión de 83 estudios (Warneke y Lohmann, 2024) lo volvió a medir: sí hay una pérdida de fuerza, pequeña, que crece cuando cada estiramiento dura un minuto o más. Con menos de 60 segundos por músculo, la caída fue de apenas ~1 % (Behm et al., 2016), y en saltos y carreras estirar no empeoró el rendimiento. Si te gusta estirar, hazlo breve y termina con series ligeras del ejercicio.\n\n¿Cuánto mantienes tú cada estiramiento? Comenta: 10, 30 o 60 segundos 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Warneke y Lohmann (2024), Journal of Sport and Health Science – Revisión sistemática y metaanálisis multinivel (83 estudios): pérdida de fuerza máxima pequeña tras estiramiento estático, mayor con ≥60 s por estiramiento; sin efecto negativo en el rendimiento atlético (saltos, sprints) – doi:10.1016/j.jshs.2024.05.002",
+    "Behm, Blazevich, Kay y McHugh (2016), Applied Physiology, Nutrition, and Metabolism – Efectos agudos del estiramiento: −1,1 % con <60 s por grupo muscular vs. −4,6 % con ≥60 s; con actividad dinámica posterior, sin efecto claro – doi:10.1139/apnm-2015-0235",
+    "Simic, Sarabon y Markovic (2013), Scandinavian Journal of Medicine & Science in Sports – Metaanálisis (104 estudios): efectos negativos menores con estiramientos ≤45 s – doi:10.1111/j.1600-0838.2012.01444.x"
+   ],
+   "hashtags": "#estiramiento #fuerza #calentamiento #gym #mitosdelgimnasio #cienciadelentrenamiento",
+   "created": "2026-11-24T02:27:28-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿ESTIRAR ANTES|DE LAS PESAS TE|*QUITA FUERZA*?",
+   "cover_png": "portadas/v046_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

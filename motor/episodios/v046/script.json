@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "Si mantienes cada estiramiento un minuto antes de tus series, mira esto.",
+   "show": "Si mantienes cada estiramiento un minuto antes de tus series, mira esto.",
+   "gap": 0.36
+  },
+  {
+   "shot": "myth",
+   "say": "Dicen que estirar antes de las pesas te quita fuerza.",
+   "show": "Dicen que estirar antes de las pesas te quita fuerza.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Una revisión de ochenta y tres estudios lo volvió a medir.",
+   "show": "Una revisión de 83 estudios lo volvió a medir.",
+   "gap": 0.36
+  },
+  {
+   "shot": "result",
+   "say": "Sí hay una pérdida de fuerza, pequeña, y crece cuando cada estiramiento dura un minuto o más.",
+   "show": "Sí hay una pérdida de fuerza, pequeña, y crece cuando cada estiramiento dura un minuto o más.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Cuánto mantienes tú cada estiramiento? Comenta: diez, treinta o sesenta segundos.",
+   "show": "¿Cuánto mantienes tú cada estiramiento? Comenta: 10, 30 o 60 segundos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "short",
+   "say": "Con menos de un minuto por músculo, la caída fue de apenas uno por ciento.",
+   "show": "Con menos de un minuto por músculo, la caída fue de apenas 1 %.",
+   "gap": 0.36
+  },
+  {
+   "shot": "sport",
+   "say": "Y en saltos y carreras, estirar no empeoró el rendimiento.",
+   "show": "Y en saltos y carreras, estirar no empeoró el rendimiento.",
+   "gap": 0.36
+  },
+  {
+   "shot": "practice",
+   "say": "Si te gusta estirar, hazlo breve y termina con series ligeras del ejercicio.",
+   "show": "Si te gusta estirar, hazlo breve y termina con series ligeras del ejercicio.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
