@@ -1716,13 +1716,14 @@
    "created": "2026-11-21T02:23:50-03:00",
    "slot": "2026-11-24T12:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "publicationId": "10f02cbb-1c5c-4924-a141-d2facb715fb8",
     "publishAt": "2026-11-24T12:00:00-03:00",
     "via": "vidIQ",
     "vidiq_post": "a9c4a65b-cdeb-4770-bae0-784e7936f5ac",
     "uploadId": "b1349845-c950-4c8b-8d65-633d5fb09bed",
-    "url": "https://www.youtube.com/watch?v=VH9TyIXAbzs"
+    "url": "https://www.youtube.com/watch?v=VH9TyIXAbzs",
+    "published_at": "2026-11-24T12:00:00-03:00"
    },
    "instagram": {
     "status": "published",
@@ -1735,13 +1736,15 @@
     "ai_label": true
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "publicationId": "729d3ffd-14b5-4feb-97d1-9dc2a098edc8",
     "publishAt": "2026-11-24T14:00:00-03:00",
     "ai_label": true,
     "via": "vidIQ",
     "vidiq_post": "a9c4a65b-cdeb-4770-bae0-784e7936f5ac",
-    "uploadId": "b1349845-c950-4c8b-8d65-633d5fb09bed"
+    "uploadId": "b1349845-c950-4c8b-8d65-633d5fb09bed",
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7711784829070626055",
+    "published_at": "2026-11-24T14:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
@@ -1765,7 +1768,7 @@
    ],
    "hashtags": "#musica #rendimiento #motivacion #entrenamiento #gym #cienciadelentrenamiento",
    "created": "2026-11-21T02:25:25-03:00",
-   "slot": null,
+   "slot": "2026-11-24T16:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
