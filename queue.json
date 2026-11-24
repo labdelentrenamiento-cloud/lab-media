@@ -1680,13 +1680,15 @@
     "note": "Caption de IG acortado a 2129 caracteres (límite 2200): se resumieron las descripciones de las fuentes Rodríguez-Coloma, Hernando-Garijo y Cuyul-Vásquez; se mantienen las 5 fuentes con DOI."
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "publicationId": "7dcf2f06-75ff-40d2-947a-77e1003b7031",
     "publishAt": "2026-11-23T22:00:00-03:00",
     "ai_label": true,
     "via": "vidIQ",
     "vidiq_post": "eca1936c-fd95-4c6a-b411-24ae138c86d6",
-    "uploadId": "25526c07-654f-4ea5-8907-7f00165e34f5"
+    "uploadId": "25526c07-654f-4ea5-8907-7f00165e34f5",
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7711536690187259143",
+    "published_at": "2026-11-23T22:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
@@ -1710,7 +1712,7 @@
    ],
    "hashtags": "#mujeresfuertes #musculo #pesas #fuerza #mitosdelgym #cienciadelentrenamiento",
    "created": "2026-11-21T02:23:50-03:00",
-   "slot": null,
+   "slot": "2026-11-24T12:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
