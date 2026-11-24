@@ -1669,7 +1669,15 @@
     "note": "2026-11-23 19:55: límite diario de vidIQ (3 subidas YouTube/día, se reinicia 2026-11-24 05:00 Santiago). Draft ya creado: publicar este publicationId con vidiq_social_post_publish (sin publishAt si el slot ya pasó, vía draft_update), NO crear otro."
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "via": "vidIQ",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DgGneJfq4n-/",
+    "mediaId": "18133877419863356",
+    "containerId": "18044249600688469",
+    "uploadId": "dc6b8818-738d-4759-a08b-ea2547542931",
+    "published_at": "2026-11-23T21:00:49-03:00",
+    "ai_label": true,
+    "note": "Caption de IG acortado a 2129 caracteres (límite 2200): se resumieron las descripciones de las fuentes Rodríguez-Coloma, Hernando-Garijo y Cuyul-Vásquez; se mantienen las 5 fuentes con DOI."
    },
    "tiktok": {
     "status": "scheduled",
