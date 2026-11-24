@@ -1661,12 +1661,14 @@
    "created": "2026-11-21T02:23:05-03:00",
    "slot": "2026-11-23T20:00:00-03:00",
    "youtube": {
-    "status": "pending",
+    "status": "published",
     "publicationId": "c7852c6f-4ab9-466c-b45c-a1481fbf65a8",
     "via": "vidIQ",
     "vidiq_post": "eca1936c-fd95-4c6a-b411-24ae138c86d6",
     "uploadId": "25526c07-654f-4ea5-8907-7f00165e34f5",
-    "note": "2026-11-23 19:55: límite diario de vidIQ (3 subidas YouTube/día, se reinicia 2026-11-24 05:00 Santiago). Draft ya creado: publicar este publicationId con vidiq_social_post_publish (sin publishAt si el slot ya pasó, vía draft_update), NO crear otro."
+    "note": "2026-11-23 19:55: límite diario de vidIQ (3 subidas YouTube/día, se reinicia 2026-11-24 05:00 Santiago). Draft ya creado: publicar este publicationId con vidiq_social_post_publish (sin publishAt si el slot ya pasó, vía draft_update), NO crear otro. | 2026-11-24 11:5x: draft publicado (sin publishAt, público inmediato; atraso por límite diario).",
+    "url": "https://www.youtube.com/watch?v=62ZfPDhGyA4",
+    "published_at": "2026-11-24T11:54:17-03:00"
    },
    "instagram": {
     "status": "published",
