@@ -2014,6 +2014,38 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v048",
+   "file": "videos/v048_Pesas_y_estatura_LAB.mp4",
+   "title": "¿Las pesas te dejan bajito? Lo que vieron en niños que entrenaban #shorts",
+   "caption": "¿Te dijeron de niño que las pesas te iban a dejar bajito? 📏 La idea: el peso daña los cartílagos de crecimiento y frena la estatura. Una revisión de 22 estudios con niños que entrenaron con pesas (Malina, 2006) lo analizó: los programas no afectaron el crecimiento en estatura ni en peso, y en los 10 estudios que registraron lesiones hubo solo 3. La Academia Americana de Pediatría lo resume: los programas bien diseñados no han mostrado efectos negativos en el crecimiento y pueden ayudar a fortalecer los huesos. La clave: buena técnica, supervisión calificada y cargas que suben de a poco.\n\n¿A ti también te lo dijeron? Comenta: sí o no 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Malina (2006), Clinical Journal of Sport Medicine – Revisión de 22 estudios de entrenamiento con pesas en niños prepúberes y en pubertad temprana: sin efecto en estatura ni peso; 3 lesiones en los 10 estudios que las registraron – doi:10.1097/01.jsm.0000248843.31874.be",
+    "Stricker, Faigenbaum, McCambridge y Consejo de Medicina Deportiva de la AAP (2020), Pediatrics – Entrenamiento de fuerza en niños y adolescentes – doi:10.1542/peds.2020-1011",
+    "Academia Americana de Pediatría (actualizado 2026) – Resistance Training in Youth: Myth vs. Fact (sin efectos negativos en el crecimiento; puede fortalecer los huesos; seguro con técnica y supervisión) – https://www.aap.org/en/patient-care/physical-activity/resistance-training-in-youth-myth-vs.-fact",
+    "Lloyd, Faigenbaum, Stone et al. (2014), British Journal of Sports Medicine – Consenso internacional sobre entrenamiento de fuerza en jóvenes – doi:10.1136/bjsports-2013-092952"
+   ],
+   "hashtags": "#pesas #niños #crecimiento #huesos #mitosdelgimnasio #cienciadelentrenamiento",
+   "created": "2026-11-24T02:28:40-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿LAS PESAS|TE DEJAN|*BAJITO*?",
+   "cover_png": "portadas/v048_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

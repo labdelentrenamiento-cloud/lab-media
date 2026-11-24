@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Te dijeron de niño que las pesas te iban a dejar bajito?",
+   "show": "¿Te dijeron de niño que las pesas te iban a dejar bajito?",
+   "gap": 0.36
+  },
+  {
+   "shot": "myth",
+   "say": "La idea: el peso daña los cartílagos de crecimiento y frena la estatura.",
+   "show": "La idea: el peso daña los cartílagos de crecimiento y frena la estatura.",
+   "gap": 0.36
+  },
+  {
+   "shot": "review",
+   "say": "Una revisión de veintidós estudios en niños que entrenaron con pesas lo analizó.",
+   "show": "Una revisión de 22 estudios en niños que entrenaron con pesas lo analizó.",
+   "gap": 0.36
+  },
+  {
+   "shot": "result",
+   "say": "Las pesas no frenaron su crecimiento en estatura ni en peso.",
+   "show": "Las pesas no frenaron su crecimiento en estatura ni en peso.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿A ti también te lo dijeron? Comenta: sí o no.",
+   "show": "¿A ti también te lo dijeron? Comenta: sí o no.",
+   "gap": 0.36
+  },
+  {
+   "shot": "injury",
+   "say": "Y en esos programas supervisados, se registraron muy pocas lesiones.",
+   "show": "Y en esos programas supervisados, se registraron muy pocas lesiones.",
+   "gap": 0.36
+  },
+  {
+   "shot": "aap",
+   "say": "La Academia Americana de Pediatría lo resume: no frenan el crecimiento y pueden fortalecer los huesos.",
+   "show": "La Academia Americana de Pediatría lo resume: no frenan el crecimiento y pueden fortalecer los huesos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "practice",
+   "say": "La clave: buena técnica, supervisión y cargas que suben de a poco.",
+   "show": "La clave: buena técnica, supervisión y cargas que suben de a poco.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
