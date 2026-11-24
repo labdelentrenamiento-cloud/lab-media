@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "Pensar en tu bíceps mientras lo entrenas casi duplicó su crecimiento en un estudio.",
+   "show": "Pensar en tu bíceps mientras lo entrenas casi duplicó su crecimiento en un estudio.",
+   "gap": 0.36
+  },
+  {
+   "shot": "setup",
+   "say": "Treinta principiantes hicieron la misma rutina durante ocho semanas.",
+   "show": "30 principiantes hicieron la misma rutina durante 8 semanas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "groups",
+   "say": "La mitad se concentraba en apretar el músculo; la otra, solo en mover el peso.",
+   "show": "La mitad se concentraba en apretar el músculo; la otra, solo en mover el peso.",
+   "gap": 0.36
+  },
+  {
+   "shot": "result",
+   "say": "El bíceps del primer grupo creció doce por ciento; el del segundo, siete.",
+   "show": "El bíceps del primer grupo creció 12 %; el del segundo, 7 %.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿En qué piensas tú durante una serie? Comenta: músculo o peso.",
+   "show": "¿En qué piensas tú durante una serie? Comenta: músculo o peso.",
+   "gap": 0.36
+  },
+  {
+   "shot": "quads",
+   "say": "Pero en los muslos no hubo diferencia entre los grupos.",
+   "show": "Pero en los muslos no hubo diferencia entre los grupos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "load",
+   "say": "Otro estudio vio que enfocarte en el músculo aumenta su activación con cargas moderadas, pero no con cargas muy pesadas.",
+   "show": "Otro estudio vio que enfocarte en el músculo aumenta su activación con cargas moderadas, pero no con cargas muy pesadas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "practice",
+   "say": "Es un estudio pequeño, pero probarlo en tus series con cargas moderadas no cuesta nada.",
+   "show": "Es un estudio pequeño, pero probarlo en tus series con cargas moderadas no cuesta nada.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

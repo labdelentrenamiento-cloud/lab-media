@@ -1984,6 +1984,36 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v047",
+   "file": "videos/v047_Pensar_en_el_musculo_LAB.mp4",
+   "title": "Pensar en el músculo lo hizo crecer casi el doble (en este estudio) #shorts",
+   "caption": "¿Pensar en tu bíceps mientras lo entrenas lo hace crecer más? 🧠💪 En un ensayo con 30 principiantes durante 8 semanas (Schoenfeld et al., 2018), la mitad se concentró en apretar el músculo y la otra mitad solo en mover el peso. El grosor del bíceps aumentó 12,4 % en el primer grupo y 6,9 % en el segundo; en los cuádriceps no hubo diferencia. Otro estudio (Calatayud et al., 2016) vio que enfocarte en el músculo aumenta su activación con cargas moderadas, pero no con cargas muy pesadas. Es un estudio pequeño, pero probarlo en tus series con cargas moderadas no cuesta nada.\n\n¿En qué piensas tú durante una serie? Comenta: músculo o peso 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Schoenfeld, Vigotsky, Contreras et al. (2018), European Journal of Sport Science – Foco interno vs. externo durante 8 semanas en 30 hombres no entrenados: grosor del bíceps +12,4 % vs. +6,9 %; cambios similares en el cuádriceps – doi:10.1080/17461391.2018.1447020",
+    "Calatayud, Vinstrup, Jakobsen et al. (2016), European Journal of Applied Physiology – Conexión mente-músculo en press de banca: más activación del músculo enfocado con cargas de 20–60 % del 1RM, no con 80 % – doi:10.1007/s00421-015-3305-7"
+   ],
+   "hashtags": "#conexionmentemusculo #hipertrofia #biceps #gym #cerebro #cienciadelentrenamiento",
+   "created": "2026-11-24T02:27:33-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿PENSAR EN EL|*MÚSCULO* LO HACE|*CRECER* MÁS?",
+   "cover_png": "portadas/v047_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
