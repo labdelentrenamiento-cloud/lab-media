@@ -1956,13 +1956,15 @@
     "ai_label": true
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "publicationId": "4d4785fd-abf2-4603-9e34-2157ab2d8c8b",
     "publishAt": "2026-11-25T18:00:00-03:00",
     "ai_label": true,
     "via": "vidIQ",
     "vidiq_post": "6b9601b6-5e02-4fa3-80a4-1a7dd552c10d",
-    "uploadId": "71d0d252-3e52-4046-a899-c8036d366e36"
+    "uploadId": "71d0d252-3e52-4046-a899-c8036d366e36",
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7712217198697221396",
+    "published_at": "2026-11-25T18:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
@@ -1988,13 +1990,20 @@
    "created": "2026-11-23T02:23:55-03:00",
    "slot": "2026-11-25T20:00:00-03:00",
    "youtube": {
-    "status": "pending"
+    "status": "pending",
+    "note": "2026-11-25 19:5x: no se subió por el límite diario de vidIQ (plan gratis, 3 subidas YouTube/día ya usadas: v040, v041, v042). Se recupera desde 2026-11-26 05:00 Santiago (siguiente run 11:52)."
    },
    "instagram": {
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "b30d5eb4-6d04-4ecc-8d05-42533ac1d2d7",
+    "publicationId": "79ded0ba-f4de-4db1-94b3-e1e77e391744",
+    "uploadId": "a795cb51-03b8-4990-be6d-3e5edb450f4e",
+    "publishAt": "2026-11-25T22:00:00-03:00",
+    "ai_label": true
    },
    "synced_to_pc": false,
    "file_ready": true,
