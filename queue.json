@@ -1826,12 +1826,14 @@
    "created": "2026-11-22T02:22:53-03:00",
    "slot": "2026-11-24T20:00:00-03:00",
    "youtube": {
-    "status": "submitted",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "2191a93e-4ac7-4ca2-82e2-97d85fe866bf",
     "publicationId": "abd952b5-ac70-49b7-b3a9-ead84087c49c",
     "uploadId": "84942523-f8fe-4f71-aaa2-68201d412af0",
-    "note": "2026-11-25 11:5x: publicado sin publishAt (slot pasado, recuperación de atraso)."
+    "note": "2026-11-25 11:5x: publicado sin publishAt (slot pasado, recuperación de atraso).",
+    "url": "https://www.youtube.com/watch?v=vKX56SE00-Q",
+    "published_at": "2026-11-25T11:56:00-03:00"
    },
    "instagram": {
     "status": "published",
