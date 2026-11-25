@@ -1881,12 +1881,14 @@
    "created": "2026-11-22T02:28:02-03:00",
    "slot": "2026-11-25T12:00:00-03:00",
    "youtube": {
-    "status": "submitted",
+    "status": "scheduled",
     "via": "vidIQ",
     "vidiq_post": "7698f2c0-ad2d-4209-ae86-c9c92553cc3a",
     "publicationId": "46702d4b-6bb1-448b-b4ee-bfa11477bf83",
     "uploadId": "60b989d5-c589-4350-868c-50102c0e45d9",
-    "publishAt": "2026-11-25T12:00:00-03:00"
+    "publishAt": "2026-11-25T12:00:00-03:00",
+    "url": "https://www.youtube.com/watch?v=xQyEF2gqq9A",
+    "note": "2026-11-25 11:5x: 2.ª subida YouTube del día en vidIQ (plan gratis: 3/día, se reinicia 2026-11-26 05:00 Santiago). Queda 1 hoy (16:00); el video de las 20:00 quedará pendiente por el límite."
    },
    "instagram": {
     "status": "pending"
