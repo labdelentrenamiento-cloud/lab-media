@@ -1834,7 +1834,14 @@
     "note": "2026-11-24 19:5x: límite diario de vidIQ (3 subidas YouTube/día, se reinicia 2026-11-25 05:00 Santiago). Draft ya creado: publicar este publicationId con vidiq_social_post_publish (sin publishAt si el slot ya pasó, vía draft_update), NO crear otro."
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "via": "vidIQ",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DgJMP9Qh4sU/",
+    "mediaId": "18255894247312006",
+    "containerId": "18044476133688469",
+    "uploadId": "62122325-c0f8-4200-b884-4c90779fa5d6",
+    "published_at": "2026-11-24T21:01:00-03:00",
+    "ai_label": true
    },
    "tiktok": {
     "status": "scheduled",
