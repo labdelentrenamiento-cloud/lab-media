@@ -2116,6 +2116,37 @@
    "centered_4x5": true,
    "share_cta": true,
    "evidenceNote": "2026-11-24: revisado (PubMed 2025–2026): sin estudios nuevos que vinculen el entrenamiento de fuerza supervisado con menor estatura o daño del cartílago de crecimiento; se mantiene la postura de la AAP. Sin cambios."
+  },
+  {
+   "id": "v049",
+   "file": "videos/v049_Siesta_antes_de_entrenar_LAB.mp4",
+   "title": "¿Siesta antes de entrenar? 22 ensayos midieron tu rendimiento #shorts",
+   "caption": "¿Qué pasa si duermes una siesta antes de entrenar? 😴 Un metaanálisis de 22 ensayos aleatorizados (Mesas et al., 2023) lo puso a prueba en adultos jóvenes y activos: tras una noche normal de sueño, la siesta mejoró el rendimiento físico y la atención, y bajó la sensación de cansancio. El mayor beneficio apareció con siestas de 30 a menos de 60 minutos y cuando pasaba más de 1 hora entre despertar y la prueba. Ojo: otra revisión (Boukhris et al., 2024) no vio cambios en la fuerza máxima; el beneficio fue más claro en pruebas de carreras repetidas. Y casi todos los participantes fueron hombres jóvenes, así que falta probarlo en más personas.\n\n¿Tú duermes siesta? Comenta: sí o no 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Mesas, Núñez de Arenas-Arroyo, Martínez-Vizcaíno et al. (2023), British Journal of Sports Medicine – Metaanálisis de 22 ensayos aleatorizados (291 hombres de 18 a 35 años): la siesta mejoró el rendimiento cognitivo y físico y redujo la fatiga; mayor beneficio con 30 a <60 min y >1 h entre despertar y prueba – doi:10.1136/bjsports-2022-106355",
+    "Boukhris, Trabelsi, Suppiah et al. (2024), Sports Medicine – Metaanálisis: tras sueño normal, la siesta mejoró la prueba de carreras repetidas de 5 m, sin efecto en la fuerza muscular – doi:10.1007/s40279-023-01920-2",
+    "Boukhris et al. (2026), Biology of Sport – Revisión sistemática de 35 estudios: la siesta redujo la fatiga y el esfuerzo percibido (certeza de la evidencia baja a moderada) – doi:10.5114/biolsport.2026.153310"
+   ],
+   "hashtags": "#siesta #sueño #rendimiento #entrenamiento #recuperacion #cienciadelentrenamiento",
+   "created": "2026-11-25T02:23:50-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿UNA *SIESTA*|ANTES DE|*ENTRENAR*?",
+   "cover_png": "portadas/v049_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

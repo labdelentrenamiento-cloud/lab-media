@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "Si siempre dejas para el final el ejercicio que más quieres mejorar, mira esto.",
+   "show": "Si siempre dejas para el final el ejercicio que más quieres mejorar, mira esto.",
+   "gap": 0.36
+  },
+  {
+   "shot": "q",
+   "say": "¿De verdad importa el orden de los ejercicios en tu rutina?",
+   "show": "¿De verdad importa el orden de los ejercicios en tu rutina?",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis juntó once estudios que solo cambiaron ese orden.",
+   "show": "Un metaanálisis juntó 11 estudios que solo cambiaron ese orden.",
+   "gap": 0.36
+  },
+  {
+   "shot": "strength",
+   "say": "En fuerza, ganó el que va primero: lo que haces al inicio es lo que más mejora.",
+   "show": "En fuerza, ganó el que va primero: lo que haces al inicio es lo que más mejora.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Con qué empiezas tú: ejercicios grandes o pequeños? Comenta: grandes o pequeños.",
+   "show": "¿Con qué empiezas tú: ejercicios grandes o pequeños? Comenta: grandes o pequeños.",
+   "gap": 0.36
+  },
+  {
+   "shot": "size",
+   "say": "Pero en tamaño muscular no hubo diferencia: el músculo creció parecido con los dos órdenes.",
+   "show": "Pero en tamaño muscular no hubo diferencia: el músculo creció parecido con los dos órdenes.",
+   "gap": 0.36
+  },
+  {
+   "shot": "rule",
+   "say": "La regla práctica: pon primero el ejercicio que más quieres mejorar.",
+   "show": "La regla práctica: pon primero el ejercicio que más quieres mejorar.",
+   "gap": 0.36
+  },
+  {
+   "shot": "example",
+   "say": "Si quieres subir tu sentadilla, hazla al comienzo de la sesión.",
+   "show": "Si quieres subir tu sentadilla, hazla al comienzo de la sesión.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

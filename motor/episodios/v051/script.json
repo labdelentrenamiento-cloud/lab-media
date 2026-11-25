@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "Si celebras el entrenamiento con alcohol, mira esto.",
+   "show": "Si celebras el entrenamiento con alcohol, mira esto.",
+   "gap": 0.36
+  },
+  {
+   "shot": "study",
+   "say": "En un estudio, hombres activos entrenaron y después tomaron proteína junto con alcohol.",
+   "show": "En un estudio, hombres activos entrenaron y después tomaron proteína junto con alcohol.",
+   "gap": 0.36
+  },
+  {
+   "shot": "result",
+   "say": "La construcción de músculo en las horas siguientes bajó un veinticuatro por ciento, aun con la proteína.",
+   "show": "La construcción de músculo en las horas siguientes bajó un 24 %, aun con la proteína.",
+   "gap": 0.36
+  },
+  {
+   "shot": "dose",
+   "say": "Pero ojo: fue una dosis enorme, de unos doce tragos.",
+   "show": "Pero ojo: fue una dosis enorme, de unos 12 tragos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú tomas alcohol después de entrenar? Comenta: sí o no.",
+   "show": "¿Tú tomas alcohol después de entrenar? Comenta: sí o no.",
+   "gap": 0.36
+  },
+  {
+   "shot": "other",
+   "say": "Con dosis menores, otros estudios no vieron cambios en la recuperación de la fuerza ni en el dolor muscular.",
+   "show": "Con dosis menores, otros estudios no vieron cambios en la recuperación de la fuerza ni en el dolor muscular.",
+   "gap": 0.36
+  },
+  {
+   "shot": "review",
+   "say": "Una revisión lo resume: la fuerza no cambió, pero la síntesis de proteína y la testosterona bajaron.",
+   "show": "Una revisión lo resume: la fuerza no cambió, pero la síntesis de proteína y la testosterona bajaron.",
+   "gap": 0.36
+  },
+  {
+   "shot": "advice",
+   "say": "Si buscas músculo, lo más seguro es tomar poco o nada después de entrenar.",
+   "show": "Si buscas músculo, lo más seguro es tomar poco o nada después de entrenar.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

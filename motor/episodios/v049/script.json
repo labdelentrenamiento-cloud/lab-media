@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Qué pasa si duermes una siesta antes de entrenar?",
+   "show": "¿Qué pasa si duermes una siesta antes de entrenar?",
+   "gap": 0.36
+  },
+  {
+   "shot": "trials",
+   "say": "Veintidós ensayos controlados lo pusieron a prueba en adultos jóvenes y activos.",
+   "show": "22 ensayos controlados lo pusieron a prueba en adultos jóvenes y activos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "result",
+   "say": "Tras una noche normal de sueño, la siesta mejoró el rendimiento físico y la atención, y bajó el cansancio.",
+   "show": "Tras una noche normal de sueño, la siesta mejoró el rendimiento físico y la atención, y bajó el cansancio.",
+   "gap": 0.36
+  },
+  {
+   "shot": "dose",
+   "say": "La duración que más ayudó: entre treinta y sesenta minutos.",
+   "show": "La duración que más ayudó: entre 30 y 60 minutos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú duermes siesta? Comenta: sí o no.",
+   "show": "¿Tú duermes siesta? Comenta: sí o no.",
+   "gap": 0.36
+  },
+  {
+   "shot": "wait",
+   "say": "Y el efecto fue mayor cuando pasaba más de una hora entre despertar y la prueba.",
+   "show": "Y el efecto fue mayor cuando pasaba más de una hora entre despertar y la prueba.",
+   "gap": 0.36
+  },
+  {
+   "shot": "force",
+   "say": "Ojo: otra revisión no vio cambios en la fuerza máxima; ayudó más en carreras repetidas.",
+   "show": "Ojo: otra revisión no vio cambios en la fuerza máxima; ayudó más en carreras repetidas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "limits",
+   "say": "Casi todos los participantes fueron hombres jóvenes, así que falta probarlo en más personas.",
+   "show": "Casi todos los participantes fueron hombres jóvenes, así que falta probarlo en más personas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}
