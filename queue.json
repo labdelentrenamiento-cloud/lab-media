@@ -1881,14 +1881,15 @@
    "created": "2026-11-22T02:28:02-03:00",
    "slot": "2026-11-25T12:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "7698f2c0-ad2d-4209-ae86-c9c92553cc3a",
     "publicationId": "46702d4b-6bb1-448b-b4ee-bfa11477bf83",
     "uploadId": "60b989d5-c589-4350-868c-50102c0e45d9",
     "publishAt": "2026-11-25T12:00:00-03:00",
     "url": "https://www.youtube.com/watch?v=xQyEF2gqq9A",
-    "note": "2026-11-25 11:5x: 2.ª subida YouTube del día en vidIQ (plan gratis: 3/día, se reinicia 2026-11-26 05:00 Santiago). Queda 1 hoy (16:00); el video de las 20:00 quedará pendiente por el límite."
+    "note": "2026-11-25 11:5x: 2.ª subida YouTube del día en vidIQ (plan gratis: 3/día, se reinicia 2026-11-26 05:00 Santiago). Queda 1 hoy (16:00); el video de las 20:00 quedará pendiente por el límite.",
+    "published_at": "2026-11-25T12:00:00-03:00"
    },
    "instagram": {
     "status": "published",
@@ -1901,13 +1902,15 @@
     "ai_label": true
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "7698f2c0-ad2d-4209-ae86-c9c92553cc3a",
     "publicationId": "2da9e1d4-39cc-481d-beb9-3a62df777dc7",
     "uploadId": "60b989d5-c589-4350-868c-50102c0e45d9",
     "publishAt": "2026-11-25T14:00:00-03:00",
-    "ai_label": true
+    "ai_label": true,
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7712155712624938258",
+    "published_at": "2026-11-25T14:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
