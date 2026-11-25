@@ -2147,6 +2147,39 @@
    "cover_style": "video",
    "centered_4x5": true,
    "share_cta": true
+  },
+  {
+   "id": "v051",
+   "file": "videos/v051_Alcohol_despues_de_entrenar_LAB.mp4",
+   "title": "¿El alcohol después de entrenar frena tu músculo? El estudio #shorts",
+   "caption": "Si celebras el entrenamiento con alcohol, mira esto 🍺 En un estudio (Parr et al., 2014), hombres activos entrenaron y después tomaron proteína junto con alcohol: la construcción de músculo (síntesis de proteína miofibrilar) en las horas siguientes fue un 24 % menor que con solo proteína. Pero ojo: fue una dosis enorme, de unos 12 tragos. Con dosis menores, otros estudios no vieron cambios en la recuperación de la fuerza ni en el dolor muscular, en hombres ni en mujeres. Una revisión sistemática lo resume: la fuerza, la potencia y el dolor no cambiaron, pero la síntesis de proteína y la testosterona bajaron. Si buscas músculo, lo más seguro es tomar poco o nada después de entrenar (y la OMS recuerda que ningún nivel de consumo de alcohol es seguro para la salud).\n\n¿Tú tomas alcohol después de entrenar? Comenta: sí o no 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Parr, Camera, Areta, Burke, Phillips, Hawley y Coffey (2014), PLoS One – Ensayo cruzado con 8 hombres activos: alcohol (1,5 g/kg, ≈12 ± 2 tragos) tras entrenar redujo la síntesis de proteína miofibrilar un 24 % aun con 25 g de proteína (37 % con carbohidratos) – doi:10.1371/journal.pone.0088384",
+    "Levitt, Luk, Duplanty et al. (2017), European Journal of Applied Physiology – En 13 mujeres entrenadas, el alcohol tras ejercicio excéntrico no afectó la recuperación de la fuerza ni la respuesta inflamatoria – doi:10.1007/s00421-017-3606-0",
+    "Levitt, Idemudia, Cregar et al. (2020), Journal of Strength and Conditioning Research – En 10 hombres entrenados, el alcohol tras sentadilla excéntrica no afectó la recuperación de la potencia ni el dolor muscular – doi:10.1519/JSC.0000000000002455",
+    "Lakićević (2019), Journal of Functional Morphology and Kinesiology – Revisión sistemática de 12 estudios: fuerza, potencia y dolor sin cambios; cortisol subió y testosterona y síntesis de proteína muscular bajaron – doi:10.3390/jfmk4030041",
+    "Organización Mundial de la Salud (2023) – No hay un nivel de consumo de alcohol que sea seguro para la salud – https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health"
+   ],
+   "hashtags": "#alcohol #recuperacion #musculo #proteina #entrenamiento #cienciadelentrenamiento",
+   "created": "2026-11-25T02:27:48-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿EL *ALCOHOL*|FRENA TU|*MÚSCULO*?",
+   "cover_png": "portadas/v051_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",

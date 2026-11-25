@@ -103,6 +103,9 @@ def squatter(ctx, cx, base, s, a, depth, col=FAV):
     hip_y = -170 + 80 * depth; hip_x = -40 * depth
     knee = (40 * depth + 10, -85)
     ctx.set_source_rgba(*col, a); ctx.set_line_width(9); ctx.set_line_cap(cairo.LINE_CAP_ROUND); ctx.set_line_join(cairo.LINE_JOIN_ROUND)
+    ctx.move_to(-60, 0); ctx.line_to(60, 0); ctx.set_source_rgba(*WH, 0.35 * a); ctx.set_line_width(4); ctx.stroke()
+    ctx.set_source_rgba(*col, a); ctx.set_line_width(9)
+    ctx.move_to(-10, 0); ctx.line_to(28, 0); ctx.stroke()
     ctx.move_to(-10, 0); ctx.line_to(*knee); ctx.line_to(hip_x, hip_y); ctx.stroke()
     sh = (hip_x + 30 * depth + 10, hip_y - 120 + 15 * depth)
     ctx.move_to(hip_x, hip_y); ctx.line_to(*sh); ctx.stroke()
@@ -185,7 +188,10 @@ def neon(ctx, i, u, d, t, lt):
             pill(ctx, "1.º DE LA SESIÓN", 735, 860, GR, kb, 30, filled=True)
             text(ctx, "AL INICIO", 735, 820, F_BIG, 64, WH, kb, align="center")
     elif i == 8:
-        ctx.save(); ctx.translate(540, 700); ctx.scale(1.2, 1.2); barbell_icon(ctx, 0, 0, t, k); ctx.restore()
+        ctx.move_to(300, 720); ctx.line_to(780, 720); ctx.set_source_rgba(*WH, 0.9 * k); ctx.set_line_width(10); ctx.stroke()
+        for sx in (-1, 1):
+            for pj, hh in enumerate((210, 160, 120)):
+                rrect(ctx, 540 + sx * (210 - pj * 34) - 14, 720 - hh / 2, 28, hh, 8); ctx.set_source_rgba(*(FAV if pj == 0 else C2), 0.18 * k); ctx.fill_preserve(); ctx.set_source_rgba(*(FAV if pj == 0 else C2), k); ctx.set_line_width(4); ctx.stroke()
         k2 = easeb((u - 0.3) / 0.5)
         if k2 > 0:
             ctx.save(); ctx.translate(540, 1020); ctx.scale(k2, k2)
