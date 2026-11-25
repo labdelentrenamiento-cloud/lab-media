@@ -1881,13 +1881,24 @@
    "created": "2026-11-22T02:28:02-03:00",
    "slot": "2026-11-25T12:00:00-03:00",
    "youtube": {
-    "status": "pending"
+    "status": "submitted",
+    "via": "vidIQ",
+    "vidiq_post": "7698f2c0-ad2d-4209-ae86-c9c92553cc3a",
+    "publicationId": "46702d4b-6bb1-448b-b4ee-bfa11477bf83",
+    "uploadId": "60b989d5-c589-4350-868c-50102c0e45d9",
+    "publishAt": "2026-11-25T12:00:00-03:00"
    },
    "instagram": {
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "7698f2c0-ad2d-4209-ae86-c9c92553cc3a",
+    "publicationId": "2da9e1d4-39cc-481d-beb9-3a62df777dc7",
+    "uploadId": "60b989d5-c589-4350-868c-50102c0e45d9",
+    "publishAt": "2026-11-25T14:00:00-03:00",
+    "ai_label": true
    },
    "synced_to_pc": false,
    "file_ready": true,
