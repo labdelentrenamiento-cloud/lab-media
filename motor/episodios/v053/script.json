@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "Puedes entrenar en menos tiempo y ganar lo mismo. Así.",
+   "show": "Puedes entrenar en menos tiempo y ganar lo mismo. Así.",
+   "gap": 0.36
+  },
+  {
+   "shot": "what",
+   "say": "Se llama superserie: dos ejercicios seguidos, casi sin descanso entre ellos.",
+   "show": "Se llama superserie: dos ejercicios seguidos, casi sin descanso entre ellos.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis juntó diecinueve estudios que la compararon con las series de siempre.",
+   "show": "Un metaanálisis juntó 19 estudios que la compararon con las series de siempre.",
+   "gap": 0.36
+  },
+  {
+   "shot": "acute",
+   "say": "Con superseries, las sesiones fueron más cortas, con las mismas repeticiones y el mismo peso total.",
+   "show": "Con superseries, las sesiones fueron más cortas, con las mismas repeticiones y el mismo peso total.",
+   "gap": 0.36
+  },
+  {
+   "shot": "chronic",
+   "say": "Y con las semanas, la fuerza y el músculo crecieron igual.",
+   "show": "Y con las semanas, la fuerza y el músculo crecieron igual.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú haces superseries? Comenta: sí o no.",
+   "show": "¿Tú haces superseries? Comenta: sí o no.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cost",
+   "say": "La letra chica: se sienten más duras y pueden pedir más recuperación.",
+   "show": "La letra chica: se sienten más duras y pueden pedir más recuperación.",
+   "gap": 0.36
+  },
+  {
+   "shot": "tip",
+   "say": "Funcionan mejor con músculos opuestos, como pecho y espalda. Con dos ejercicios del mismo músculo, levantas menos peso total.",
+   "show": "Funcionan mejor con músculos opuestos, como pecho y espalda. Con dos ejercicios del mismo músculo, levantas menos peso total.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

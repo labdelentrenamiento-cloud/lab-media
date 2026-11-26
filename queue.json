@@ -2288,7 +2288,7 @@
     "Nedeltcheva, Kilkus, Imperial, Schoeller y Penev (2010), Annals of Internal Medicine – Ensayo cruzado aleatorizado con 10 adultos con sobrepeso: 14 días de dieta con 8,5 vs. 5,5 h de sueño; con poco sueño la grasa perdida bajó un 55 % (1,4 vs. 0,6 kg) y la pérdida de masa libre de grasa subió un 60 % (1,5 vs. 2,4 kg) – doi:10.7326/0003-4819-153-7-201010050-00006",
     "Wang, Sparks, Bowyer y Youngstedt (2018), Sleep – Ensayo aleatorizado de 8 semanas con 36 adultos con sobrepeso u obesidad a dieta: reducir el sueño ~1 h en 5 noches por semana hizo que una menor proporción del peso perdido fuera grasa, aun recuperando sueño 2 noches – doi:10.1093/sleep/zsy027"
    ],
-   "hashtags": "#sueño #dieta #perderGrasa #musculo #recuperacion #cienciadelentrenamiento",
+   "hashtags": "#sueño #dieta #perdergrasa #musculo #recuperacion #cienciadelentrenamiento",
    "created": "2026-11-26T02:26:34-03:00",
    "slot": null,
    "youtube": {
@@ -2304,6 +2304,35 @@
    "file_ready": true,
    "cover": "¿DUERMES *POCO*|Y ESTÁS|A *DIETA*?",
    "cover_png": "portadas/v052_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
+  },
+  {
+   "id": "v053",
+   "file": "videos/v053_Superseries_LAB.mp4",
+   "title": "¿Poco tiempo para entrenar? Superseries vs. series de siempre #shorts",
+   "caption": "Puedes entrenar en menos tiempo y ganar lo mismo ⏱️ Una superserie son 2 ejercicios seguidos, casi sin descanso entre ellos. Un metaanálisis de 19 estudios (Zhang et al., Sports Medicine 2025) la comparó con las series de siempre: las sesiones fueron más cortas, con las mismas repeticiones y el mismo peso total, y con las semanas la fuerza y el músculo crecieron igual. La letra chica: se sienten más duras (más esfuerzo percibido, más lactato) y pueden pedir más recuperación. Funcionan mejor con músculos opuestos, como pecho y espalda; con 2 ejercicios del mismo músculo se levanta menos peso total.\n\n¿Tú haces superseries? Comenta: sí o no 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Zhang, Weakley, Li, Li y García-Ramos (2025), Sports Medicine – Revisión sistemática y metaanálisis de 19 estudios (313 personas): las superseries acortan la sesión con repeticiones y peso total similares, y logran adaptaciones crónicas similares en fuerza máxima, resistencia muscular e hipertrofia; generan más esfuerzo percibido, lactato y gasto de energía; con músculos opuestos (agonista-antagonista) se completan más repeticiones y con el mismo músculo baja el peso total – doi:10.1007/s40279-025-02176-8"
+   ],
+   "hashtags": "#superseries #entrenamiento #hipertrofia #fuerza #gimnasio #cienciadelentrenamiento",
+   "created": "2026-11-26T02:27:18-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿*POCO TIEMPO*|PARA LAS|*PESAS*?",
+   "cover_png": "portadas/v053_portada.png",
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
