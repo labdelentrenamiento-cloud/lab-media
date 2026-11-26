@@ -2064,13 +2064,15 @@
     "published_at": "2026-11-26T13:01:00-03:00"
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "1c1faa3b-252b-463a-be9f-3249955fe64a",
     "publicationId": "7288e7bf-f490-496d-aca2-6ebd9b598107",
     "uploadId": "2487f6e3-17fe-4b06-a906-e08bc2f5b37c",
     "publishAt": "2026-11-26T14:00:00-03:00",
-    "ai_label": true
+    "ai_label": true,
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7712526848118607124",
+    "published_at": "2026-11-26T14:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
@@ -2096,13 +2098,25 @@
    "created": "2026-11-23T02:26:27-03:00",
    "slot": "2026-11-26T16:00:00-03:00",
    "youtube": {
-    "status": "pending"
+    "status": "scheduled",
+    "publicationId": "54c5ed04-559c-44b5-8df0-ea37eb6194c3",
+    "publishAt": "2026-11-26T16:00:00-03:00",
+    "via": "vidIQ",
+    "vidiq_post": "4ef5e8a0-2af9-4d07-9f4a-dfb2eb5a5827",
+    "uploadId": "e8d52665-23c2-468f-8cf5-af97fc29982e",
+    "note": "3.ª y última subida YouTube del día en vidIQ (plan gratis); el slot de 20:00 quedará pendiente; se reinicia 2026-11-27 05:00 Santiago."
    },
    "instagram": {
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "scheduled",
+    "publicationId": "63784601-e50e-4493-a2f0-6f3b962e9af5",
+    "publishAt": "2026-11-26T18:00:00-03:00",
+    "ai_label": true,
+    "via": "vidIQ",
+    "vidiq_post": "4ef5e8a0-2af9-4d07-9f4a-dfb2eb5a5827",
+    "uploadId": "e8d52665-23c2-468f-8cf5-af97fc29982e"
    },
    "synced_to_pc": false,
    "file_ready": true,
