@@ -1990,8 +1990,14 @@
    "created": "2026-11-23T02:23:55-03:00",
    "slot": "2026-11-25T20:00:00-03:00",
    "youtube": {
-    "status": "pending",
-    "note": "2026-11-25 19:5x: no se subió por el límite diario de vidIQ (plan gratis, 3 subidas YouTube/día ya usadas: v040, v041, v042). Se recupera desde 2026-11-26 05:00 Santiago (siguiente run 11:52)."
+    "status": "published",
+    "via": "vidIQ",
+    "vidiq_post": "3309d566-195b-4ded-a6cd-af552a884baf",
+    "publicationId": "b6160639-5001-4d9c-86d2-49ba1823de25",
+    "uploadId": "a795cb51-03b8-4990-be6d-3e5edb450f4e",
+    "url": "https://www.youtube.com/watch?v=wOVI3vZbPJo",
+    "published_at": "2026-11-26T11:55:00-03:00",
+    "note": "Atraso recuperado (límite diario vidIQ el 25 nov): publicado de inmediato el 26 nov 11:55. 1.ª de 3 subidas YouTube del día."
    },
    "instagram": {
     "status": "published",
