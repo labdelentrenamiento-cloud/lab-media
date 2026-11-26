@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "¿Ejercicio antes, durante o después de estudiar? Uno no sirvió.",
+   "show": "¿Ejercicio antes, durante o después de estudiar? Uno no sirvió.",
+   "gap": 0.36
+  },
+  {
+   "shot": "meta",
+   "say": "Un metaanálisis revisó cuarenta y dos experimentos con una sola sesión de ejercicio y la memoria.",
+   "show": "Un metaanálisis revisó 42 experimentos con una sola sesión de ejercicio y la memoria.",
+   "gap": 0.36
+  },
+  {
+   "shot": "before",
+   "say": "Moverse antes de aprender mejoró un poco la memoria.",
+   "show": "Moverse antes de aprender mejoró un poco la memoria.",
+   "gap": 0.36
+  },
+  {
+   "shot": "during",
+   "say": "Hacerlo mientras aprendían no cambió nada.",
+   "show": "Hacerlo mientras aprendían no cambió nada.",
+   "gap": 0.36
+  },
+  {
+   "shot": "after",
+   "say": "Y moverse después de aprender también ayudó.",
+   "show": "Y moverse después de aprender también ayudó.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Tú entrenas antes o después de estudiar? Comenta: antes o después.",
+   "show": "¿Tú entrenas antes o después de estudiar? Comenta: antes o después.",
+   "gap": 0.36
+  },
+  {
+   "shot": "delay",
+   "say": "En otro estudio, pedalear cuatro horas después de aprender ayudó a recordar más dos días después. Hacerlo justo después, no.",
+   "show": "En otro estudio, pedalear 4 horas después de aprender ayudó a recordar más 2 días después. Hacerlo justo después, no.",
+   "gap": 0.36
+  },
+  {
+   "shot": "advice",
+   "say": "Los efectos son pequeños, pero si vas a estudiar, mover el cuerpo antes o un rato después suma.",
+   "show": "Los efectos son pequeños, pero si vas a estudiar, mover el cuerpo antes o un rato después suma.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

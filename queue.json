@@ -2315,7 +2315,8 @@
    "title": "¿Poco tiempo para entrenar? Superseries vs. series de siempre #shorts",
    "caption": "Puedes entrenar en menos tiempo y ganar lo mismo ⏱️ Una superserie son 2 ejercicios seguidos, casi sin descanso entre ellos. Un metaanálisis de 19 estudios (Zhang et al., Sports Medicine 2025) la comparó con las series de siempre: las sesiones fueron más cortas, con las mismas repeticiones y el mismo peso total, y con las semanas la fuerza y el músculo crecieron igual. La letra chica: se sienten más duras (más esfuerzo percibido, más lactato) y pueden pedir más recuperación. Funcionan mejor con músculos opuestos, como pecho y espalda; con 2 ejercicios del mismo músculo se levanta menos peso total.\n\n¿Tú haces superseries? Comenta: sí o no 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
    "sources": [
-    "Zhang, Weakley, Li, Li y García-Ramos (2025), Sports Medicine – Revisión sistemática y metaanálisis de 19 estudios (313 personas): las superseries acortan la sesión con repeticiones y peso total similares, y logran adaptaciones crónicas similares en fuerza máxima, resistencia muscular e hipertrofia; generan más esfuerzo percibido, lactato y gasto de energía; con músculos opuestos (agonista-antagonista) se completan más repeticiones y con el mismo músculo baja el peso total – doi:10.1007/s40279-025-02176-8"
+    "Zhang, Weakley, Li, Li y García-Ramos (2025), Sports Medicine – Revisión sistemática y metaanálisis de 19 estudios (313 personas): las superseries acortan la sesión con repeticiones y peso total similares, y logran adaptaciones crónicas similares en fuerza máxima, resistencia muscular e hipertrofia; generan más esfuerzo percibido, lactato y gasto de energía; con músculos opuestos (agonista-antagonista) se completan más repeticiones y con el mismo músculo baja el peso total – doi:10.1007/s40279-025-02176-8",
+    "Iversen, Norum, Schoenfeld y Fimland (2021), Sports Medicine – Revisión: las superseries y otras técnicas avanzadas reducen aproximadamente a la mitad el tiempo de entrenamiento manteniendo el volumen; recomiendan priorizar el volumen semanal – doi:10.1007/s40279-021-01490-1"
    ],
    "hashtags": "#superseries #entrenamiento #hipertrofia #fuerza #gimnasio #cienciadelentrenamiento",
    "created": "2026-11-26T02:27:18-03:00",
@@ -2333,6 +2334,37 @@
    "file_ready": true,
    "cover": "¿*POCO TIEMPO*|PARA LAS|*PESAS*?",
    "cover_png": "portadas/v053_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
+  },
+  {
+   "id": "v054",
+   "file": "videos/v054_Ejercicio_y_memoria_LAB.mp4",
+   "title": "¿Ejercicio antes, durante o después de estudiar? Uno no sirvió #shorts",
+   "caption": "¿Ejercicio antes, durante o después de estudiar? Uno no sirvió 🧠 Un metaanálisis de 42 experimentos (Qazi et al., 2024) revisó qué pasa con la memoria tras una sola sesión de ejercicio: moverse antes de aprender la mejoró un poco, hacerlo mientras se aprendía no cambió nada, y moverse después de aprender también ayudó. En otro estudio (van Dongen et al., 2016), pedalear con intervalos 4 horas después de aprender ayudó a recordar más 2 días después; hacerlo justo después, no. Los efectos son pequeños, pero si vas a estudiar, mover el cuerpo antes o un rato después suma.\n\n¿Tú entrenas antes o después de estudiar? Comenta: antes o después 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Qazi, Schmid, Gridley, Lambourne, Daly-Smith y Tomporowski (2024), Frontiers in Cognition – Revisión sistemática y metaanálisis de 42 experimentos: una sesión de ejercicio antes de aprender mejoró la memoria episódica (d = 0,23), después de aprender también (d = 0,33) y durante el aprendizaje no tuvo efecto (d = −0,04) – doi:10.3389/fcogn.2024.1367569",
+    "van Dongen, Kersten, Wagner, Morris y Fernández (2016), Current Biology – 72 personas: 35 min de intervalos en bicicleta 4 h después de aprender mejoraron el recuerdo a las 48 h; hacerlo justo después no – doi:10.1016/j.cub.2016.04.071",
+    "Wanner, Cheng y Steib (2020), Neuroscience and Biobehavioral Reviews – Metaanálisis de 22 estudios (862 personas): el ejercicio cardiovascular agudo favorece sobre todo la consolidación de la memoria motora, antes o después de practicar – doi:10.1016/j.neubiorev.2020.06.018"
+   ],
+   "hashtags": "#cerebro #memoria #ejercicio #estudiar #neurociencia #cienciadelentrenamiento",
+   "created": "2026-11-26T02:29:08-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿EJERCICIO *ANTES*|O *DESPUÉS*|DE ESTUDIAR?",
+   "cover_png": "portadas/v054_portada.png",
    "cover_in_video": true,
    "cover_style": "video",
    "centered_4x5": true,
