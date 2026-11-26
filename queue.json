@@ -2098,14 +2098,15 @@
    "created": "2026-11-23T02:26:27-03:00",
    "slot": "2026-11-26T16:00:00-03:00",
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "publicationId": "54c5ed04-559c-44b5-8df0-ea37eb6194c3",
     "publishAt": "2026-11-26T16:00:00-03:00",
     "via": "vidIQ",
     "vidiq_post": "4ef5e8a0-2af9-4d07-9f4a-dfb2eb5a5827",
     "uploadId": "e8d52665-23c2-468f-8cf5-af97fc29982e",
     "note": "3.ª y última subida YouTube del día en vidIQ (plan gratis); el slot de 20:00 quedará pendiente; se reinicia 2026-11-27 05:00 Santiago.",
-    "url": "https://www.youtube.com/watch?v=1Q2CLlYeN8k"
+    "url": "https://www.youtube.com/watch?v=1Q2CLlYeN8k",
+    "published_at": "2026-11-26T16:00:00-03:00"
    },
    "instagram": {
     "status": "published",
@@ -2118,13 +2119,15 @@
     "published_at": "2026-11-26T17:00:00-03:00"
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "publicationId": "63784601-e50e-4493-a2f0-6f3b962e9af5",
     "publishAt": "2026-11-26T18:00:00-03:00",
     "ai_label": true,
     "via": "vidIQ",
     "vidiq_post": "4ef5e8a0-2af9-4d07-9f4a-dfb2eb5a5827",
-    "uploadId": "e8d52665-23c2-468f-8cf5-af97fc29982e"
+    "uploadId": "e8d52665-23c2-468f-8cf5-af97fc29982e",
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7712588247406234900",
+    "published_at": "2026-11-26T18:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
@@ -2150,13 +2153,24 @@
    "created": "2026-11-24T02:27:28-03:00",
    "slot": "2026-11-26T20:00:00-03:00",
    "youtube": {
-    "status": "pending"
+    "status": "pending",
+    "via": "vidIQ",
+    "vidiq_post": "f1162adb-f035-48c4-886e-27d3dc2217b6",
+    "publicationId": "568304b9-bf40-4fac-bb51-56d57781a286",
+    "uploadId": "de064529-54ec-4c4b-b3ea-d5fb7469eb52",
+    "note": "2026-11-26 19:5x: límite diario de 3 subidas YouTube en vidIQ (plan gratis) agotado; se reinicia 2026-11-27 05:00 Santiago. Siguiente run: publicar ESTE borrador (vidiq_social_post_publish con postId y publicationIds [568304b9-…]) sin publishAt (actualizar con draft_update), NO crear otro."
    },
    "instagram": {
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "scheduled",
+    "via": "vidIQ",
+    "vidiq_post": "f1162adb-f035-48c4-886e-27d3dc2217b6",
+    "publicationId": "459ad95b-b659-4e6b-8aa0-fd7620ab7d3a",
+    "uploadId": "de064529-54ec-4c4b-b3ea-d5fb7469eb52",
+    "publishAt": "2026-11-26T22:00:00-03:00",
+    "ai_label": true
    },
    "synced_to_pc": false,
    "file_ready": true,
