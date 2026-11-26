@@ -1,0 +1,59 @@
+{
+ "tail": 1.4,
+ "lines": [
+  {
+   "shot": "hook",
+   "say": "Si estás a dieta y duermes poco, mira esto.",
+   "show": "Si estás a dieta y duermes poco, mira esto.",
+   "gap": 0.36
+  },
+  {
+   "shot": "study",
+   "say": "En un estudio, personas a dieta durmieron ocho horas y media, o cinco y media, durante dos semanas.",
+   "show": "En un estudio, personas a dieta durmieron 8 horas y media, o 5 y media, durante 2 semanas.",
+   "gap": 0.36
+  },
+  {
+   "shot": "fat",
+   "say": "Bajaron un peso parecido, pero durmiendo poco perdieron un cincuenta y cinco por ciento menos de grasa.",
+   "show": "Bajaron un peso parecido, pero durmiendo poco perdieron un 55 % menos de grasa.",
+   "gap": 0.36
+  },
+  {
+   "shot": "lean",
+   "say": "Y perdieron un sesenta por ciento más de masa libre de grasa, que incluye tu músculo.",
+   "show": "Y perdieron un 60 % más de masa libre de grasa, que incluye tu músculo.",
+   "gap": 0.36
+  },
+  {
+   "shot": "ask",
+   "say": "¿Cuántas horas duermes tú? Comenta el número.",
+   "show": "¿Cuántas horas duermes tú? Comenta el número.",
+   "gap": 0.36
+  },
+  {
+   "shot": "wang",
+   "say": "En otro ensayo de ocho semanas, dormir solo una hora menos, cinco noches por semana, también hizo perder menos grasa.",
+   "show": "En otro ensayo de 8 semanas, dormir solo 1 hora menos, 5 noches por semana, también hizo perder menos grasa.",
+   "gap": 0.36
+  },
+  {
+   "shot": "limit",
+   "say": "Ojo: son estudios pequeños, pero apuntan en la misma dirección.",
+   "show": "Ojo: son estudios pequeños, pero apuntan en la misma dirección.",
+   "gap": 0.36
+  },
+  {
+   "shot": "advice",
+   "say": "Si quieres perder grasa y no músculo, tu sueño también es parte de la dieta.",
+   "show": "Si quieres perder grasa y no músculo, tu sueño también es parte de la dieta.",
+   "gap": 0.36
+  },
+  {
+   "shot": "cta",
+   "say": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "show": "Compártelo con alguien que lo necesite y sígueme para más ciencia del entrenamiento.",
+   "gap": 0.36
+  }
+ ]
+}

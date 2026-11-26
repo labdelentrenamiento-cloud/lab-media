@@ -2278,6 +2278,36 @@
    "centered_4x5": true,
    "share_cta": true,
    "evidenceNote": "2026-11-25: revisado (PubMed, mar–nov 2026): sin estudios nuevos en humanos sobre alcohol y síntesis de proteína o recuperación tras entrenar; nada contradice el guion. Sin cambios."
+  },
+  {
+   "id": "v052",
+   "file": "videos/v052_Dormir_poco_y_dieta_LAB.mp4",
+   "title": "¿Duermes poco y estás a dieta? Mira lo que pierdes #shorts",
+   "caption": "Si estás a dieta y duermes poco, mira esto 😴 En un ensayo (Nedeltcheva et al., 2010), adultos con sobrepeso hicieron la misma dieta durante 2 semanas, una vez durmiendo 8,5 horas y otra 5,5 horas. Bajaron un peso parecido, pero durmiendo poco perdieron un 55 % menos de grasa y un 60 % más de masa libre de grasa (que incluye el músculo). En otro ensayo de 8 semanas (Wang et al., 2018), dormir solo 1 hora menos, 5 noches por semana, también hizo que una menor parte del peso perdido fuera grasa. Son estudios pequeños, pero apuntan en la misma dirección: si quieres perder grasa y no músculo, tu sueño también es parte de la dieta.\n\n¿Cuántas horas duermes tú? Comenta el número 👇\n\n📤 Envíaselo a alguien que lo necesite y 🔖 guárdalo para tu próximo entrenamiento",
+   "sources": [
+    "Nedeltcheva, Kilkus, Imperial, Schoeller y Penev (2010), Annals of Internal Medicine – Ensayo cruzado aleatorizado con 10 adultos con sobrepeso: 14 días de dieta con 8,5 vs. 5,5 h de sueño; con poco sueño la grasa perdida bajó un 55 % (1,4 vs. 0,6 kg) y la pérdida de masa libre de grasa subió un 60 % (1,5 vs. 2,4 kg) – doi:10.7326/0003-4819-153-7-201010050-00006",
+    "Wang, Sparks, Bowyer y Youngstedt (2018), Sleep – Ensayo aleatorizado de 8 semanas con 36 adultos con sobrepeso u obesidad a dieta: reducir el sueño ~1 h en 5 noches por semana hizo que una menor proporción del peso perdido fuera grasa, aun recuperando sueño 2 noches – doi:10.1093/sleep/zsy027"
+   ],
+   "hashtags": "#sueño #dieta #perderGrasa #musculo #recuperacion #cienciadelentrenamiento",
+   "created": "2026-11-26T02:26:34-03:00",
+   "slot": null,
+   "youtube": {
+    "status": "pending"
+   },
+   "instagram": {
+    "status": "pending"
+   },
+   "tiktok": {
+    "status": "pending"
+   },
+   "synced_to_pc": false,
+   "file_ready": true,
+   "cover": "¿DUERMES *POCO*|Y ESTÁS|A *DIETA*?",
+   "cover_png": "portadas/v052_portada.png",
+   "cover_in_video": true,
+   "cover_style": "video",
+   "centered_4x5": true,
+   "share_cta": true
   }
  ],
  "tiktok_paused_until": "2026-11-21",
