@@ -2153,12 +2153,14 @@
    "created": "2026-11-24T02:27:28-03:00",
    "slot": "2026-11-26T20:00:00-03:00",
    "youtube": {
-    "status": "pending",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "f1162adb-f035-48c4-886e-27d3dc2217b6",
     "publicationId": "568304b9-bf40-4fac-bb51-56d57781a286",
     "uploadId": "de064529-54ec-4c4b-b3ea-d5fb7469eb52",
-    "note": "2026-11-26 19:5x: límite diario de 3 subidas YouTube en vidIQ (plan gratis) agotado; se reinicia 2026-11-27 05:00 Santiago. Siguiente run: publicar ESTE borrador (vidiq_social_post_publish con postId y publicationIds [568304b9-…]) sin publishAt (actualizar con draft_update), NO crear otro."
+    "note": "2026-11-27 19:56: atraso recuperado; borrador existente publicado sin publishAt (público inmediato).",
+    "url": "https://www.youtube.com/watch?v=LutCBu0pQKQ",
+    "published_at": "2026-11-27T19:56:00-03:00"
    },
    "instagram": {
     "status": "published",
@@ -2171,13 +2173,15 @@
     "published_at": "2026-11-26T21:01:00-03:00"
    },
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "via": "vidIQ",
     "vidiq_post": "f1162adb-f035-48c4-886e-27d3dc2217b6",
     "publicationId": "459ad95b-b659-4e6b-8aa0-fd7620ab7d3a",
     "uploadId": "de064529-54ec-4c4b-b3ea-d5fb7469eb52",
     "publishAt": "2026-11-26T22:00:00-03:00",
-    "ai_label": true
+    "ai_label": true,
+    "url": "https://www.tiktok.com/@labdelentrenamiento/video/7712650041571233042",
+    "published_at": "2026-11-26T22:00:00-03:00"
    },
    "synced_to_pc": false,
    "file_ready": true,
@@ -2200,7 +2204,7 @@
    ],
    "hashtags": "#conexionmentemusculo #hipertrofia #biceps #gym #cerebro #cienciadelentrenamiento",
    "created": "2026-11-24T02:27:33-03:00",
-   "slot": null,
+   "slot": "2026-11-27T20:00:00-03:00",
    "youtube": {
     "status": "pending"
    },
