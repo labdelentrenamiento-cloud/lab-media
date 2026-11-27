@@ -2161,7 +2161,14 @@
     "note": "2026-11-26 19:5x: límite diario de 3 subidas YouTube en vidIQ (plan gratis) agotado; se reinicia 2026-11-27 05:00 Santiago. Siguiente run: publicar ESTE borrador (vidiq_social_post_publish con postId y publicationIds [568304b9-…]) sin publishAt (actualizar con draft_update), NO crear otro."
    },
    "instagram": {
-    "status": "pending"
+    "status": "published",
+    "via": "vidIQ",
+    "url": "https://www.instagram.com/labdelentrenamiento/reel/DgOV4rLieDO/",
+    "mediaId": "18431269960144495",
+    "containerId": "18044871128688469",
+    "uploadId": "b6b1fd75-b2e2-456f-b289-0524968ce0ec",
+    "ai_label": true,
+    "published_at": "2026-11-26T21:01:00-03:00"
    },
    "tiktok": {
     "status": "scheduled",
