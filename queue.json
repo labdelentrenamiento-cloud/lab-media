@@ -2206,13 +2206,25 @@
    "created": "2026-11-24T02:27:33-03:00",
    "slot": "2026-11-27T20:00:00-03:00",
    "youtube": {
-    "status": "pending"
+    "status": "scheduled",
+    "publicationId": "0c6217cd-28e1-4c4a-a791-2f4199ff0f65",
+    "publishAt": "2026-11-27T20:00:00-03:00",
+    "url": "https://www.youtube.com/watch?v=zQHvvVIQGR0",
+    "via": "vidIQ",
+    "vidiq_post": "0bfd5c25-712c-4d38-93f5-90a5da217c19",
+    "uploadId": "846a3bbb-ea69-444a-8b6a-7b1ec1f9321d"
    },
    "instagram": {
     "status": "pending"
    },
    "tiktok": {
-    "status": "pending"
+    "status": "scheduled",
+    "publicationId": "e6409d4e-e6ac-4392-9b7b-b86efb13c9d7",
+    "publishAt": "2026-11-27T22:00:00-03:00",
+    "ai_label": true,
+    "via": "vidIQ",
+    "vidiq_post": "0bfd5c25-712c-4d38-93f5-90a5da217c19",
+    "uploadId": "846a3bbb-ea69-444a-8b6a-7b1ec1f9321d"
    },
    "synced_to_pc": false,
    "file_ready": true,
